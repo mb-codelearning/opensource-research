@@ -4,13 +4,11 @@ This is an opensource research (exclusively documents) on Open source about : "H
 
 ## Getting Started
 
-* Download your Latex® preffered editor's.
+* Download your Latex® prefered editor's.
 * Git clone the project
 * You're good to go !
 
 ### Prerequisites
-
-What things you need to install the software and how to install them
 
 Install a Latex® editor to start working you can see [official latex project](https://www.latex-project.org/get/) to get your tool
 
