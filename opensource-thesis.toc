@@ -1,0 +1,52 @@
+\babel@toc {french}{}
+\contentsline {chapter}{Glossaire}{3}{section*.3}% 
+\contentsline {chapter}{Acronymes}{4}{section*.5}% 
+\contentsline {section}{\numberline {0.1}Contexte}{8}{section.0.1}% 
+\contentsline {paragraph}{D\IeC {\'e}veloppement logiciel \\}{8}{section*.11}% 
+\contentsline {paragraph}{Sous licence\\}{8}{section*.12}% 
+\contentsline {paragraph}{Introduction \IeC {\`a} l'open source\\}{8}{section*.13}% 
+\contentsline {paragraph}{Pourquoi l'open source ?\\}{8}{section*.14}% 
+\contentsline {subparagraph}{\IeC {\guillemotleft } L'open source c'est moins bien \IeC {\guillemotright }\\}{9}{section*.15}% 
+\contentsline {subparagraph}{\IeC {\guillemotleft } L'open source n'a pas besoin de moi \IeC {\guillemotright }\\}{9}{section*.16}% 
+\contentsline {section}{\numberline {0.2}Probl\IeC {\'e}matique}{9}{section.0.2}% 
+\contentsline {section}{\numberline {0.3}Hypoth\IeC {\`e}ses}{9}{section.0.3}% 
+\contentsline {paragraph}{Les plateformes promotrices\\}{9}{section*.19}% 
+\contentsline {paragraph}{L'optimisation\\}{9}{section*.20}% 
+\contentsline {paragraph}{Les envies et besoin des consommateurs\\}{9}{section*.21}% 
+\contentsline {section}{\numberline {0.4}M\IeC {\'e}thodologie de travail / p\IeC {\'e}rim\IeC {\`e}tre}{10}{section.0.4}% 
+\contentsline {paragraph}{Etude de l'open source}{10}{section*.22}% 
+\contentsline {subparagraph}{Pr\IeC {\'e}sentation de l'open source\\}{10}{section*.23}% 
+\contentsline {subparagraph}{Les \IeC {\'e}diteurs open source\\}{10}{section*.24}% 
+\contentsline {subparagraph}{L'optimisation des ressources\\}{10}{section*.25}% 
+\contentsline {subparagraph}{Le consommateur\\}{10}{section*.26}% 
+\contentsline {subparagraph}{Le march\IeC {\'e} de l'open source\\}{10}{section*.27}% 
+\contentsline {paragraph}{Sur le terrain \\}{10}{section*.28}% 
+\contentsline {paragraph}{L'analyse et les r\IeC {\'e}sultats \\}{10}{section*.29}% 
+\contentsline {section}{\numberline {0.5}Pr\IeC {\'e}sentation de l'open source}{11}{section.0.5}% 
+\contentsline {subsection}{\numberline {0.5.1}L'open source aujourd'hui}{11}{subsection.0.5.1}% 
+\contentsline {subsubsection}{Faire de l'open source c'est ...}{11}{section*.31}% 
+\contentsline {paragraph}{Un mouvement de pens\IeC {\'e}e\\}{11}{section*.32}% 
+\contentsline {paragraph}{Un mod\IeC {\`e}le de d\IeC {\'e}veloppement\\}{11}{section*.33}% 
+\contentsline {paragraph}{Une dimension humaniste et un patrimoine\\}{11}{section*.34}% 
+\contentsline {paragraph}{Respecter des droits\\}{11}{section*.35}% 
+\contentsline {subparagraph}{Les licences \acrshort {bsd}\\}{12}{section*.36}% 
+\contentsline {subparagraph}{Les licences GNU/GPL\\}{12}{section*.37}% 
+\contentsline {subparagraph}{La licence AGPL (Affero)\\}{13}{section*.38}% 
+\contentsline {subparagraph}{Droits d'auteurs\\}{13}{section*.39}% 
+\contentsline {subsubsection}{Statistiques}{14}{section*.40}% 
+\contentsline {subsection}{\numberline {0.5.2}Les \IeC {\'e}diteurs open source}{14}{subsection.0.5.2}% 
+\contentsline {subsubsection}{Zoom sur l'\IeC {\'e}diteur}{14}{section*.41}% 
+\contentsline {subsubsection}{L'aspect communautaire}{14}{section*.42}% 
+\contentsline {subsubsection}{Les supports de l'open source\\}{14}{section*.43}% 
+\contentsline {paragraph}{Le support de l'\IeC {\'e}diteur\\}{15}{section*.44}% 
+\contentsline {paragraph}{Le support de la communaut\IeC {\'e}\\}{15}{section*.45}% 
+\contentsline {subsection}{\numberline {0.5.3}Le consommateur}{15}{subsection.0.5.3}% 
+\contentsline {subsubsection}{Les b\IeC {\'e}n\IeC {\'e}fices de l'open source pour le client}{15}{section*.46}% 
+\contentsline {subsection}{\numberline {0.5.4}O\IeC {\`u} trouver de l'open source ?}{16}{subsection.0.5.4}% 
+\contentsline {section}{\numberline {0.6}Optimisation des ressources}{16}{section.0.6}% 
+\contentsline {section}{\numberline {0.7}Etude du consommateur}{16}{section.0.7}% 
+\contentsline {section}{\numberline {0.8}Le march\IeC {\'e} de l'open source}{16}{section.0.8}% 
+\contentsline {section}{\numberline {0.9}Plateforme promotrice}{17}{section.0.9}% 
+\contentsline {section}{\numberline {0.10}Gestion des ressources}{17}{section.0.10}% 
+\contentsline {section}{\numberline {0.11}Chez le consommateur}{17}{section.0.11}% 
+\contentsline {section}{\numberline {0.12}Marketing de l'open source}{17}{section.0.12}% 

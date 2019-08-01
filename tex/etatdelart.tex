@@ -1,0 +1,238 @@
+\chapter*{\color{burntorange}{Etat de l'art}} %20 pages
+
+	\section{Présentation de l'open source}
+
+		\subsection{L'open source aujourd'hui}
+
+			\subsubsection{Faire de l'open source c'est ...}
+
+			\paragraph{Un mouvement de pensée\\}
+
+			Le logiciel open source est une affaire de liberté. N'importe quel programme devrait être utilisable, modifiable et redistribuable. Les logiciels non libres, "propriétaire", porte atteinte à cette philosophie. Le logiciel libre n'est pas une alternative ou bien un autre business model mais une lutte pour la liberté.
+
+			Un grand mouvement est initié par Richard \bsc{Stallman}, le père fondateur de la \acrshort{fsf} qui soulève un patrimoine extraordinaire de logiciel mis à disposition de tous. Il s'agit d'une véritable révolution pour ce mouvement de pensée profond ou la solidarité sociale et l'entraide en sont les pilliers.
+
+			\paragraph{Un modèle de développement\\}
+
+			L'utilisation d'un modèle de développement open source communautaire est pour Eric \bsc{Raymond} un moyen de démontrer la \textit{supériorité} des logiciels réalisés. Plus que des valeurs éthiques, c'est par la création de ce mouvement avec la fondation de l'\acrshort{osi} qu'Eric \bsc{Raymond} espère imposer l'open source. Pour certain, ceci apparaît comme une \textit{opération marketing}, pour d'autre comme Richard \bsc{Stallman}, il n'est pas permis de jeter les valeurs fondatrices notemment la \textit{liberté}. 
+
+			\paragraph{Une dimension humaniste et un patrimoine\\}
+
+			L'open source permet avant tout d'offrir une chance pour les informaticiens futur de ne pas repartir de zéro, ne pas ré-inventer la roue. Chaque participation de l'Humain apporte sa pierre à l'édifice.
+			Seulement 10\% d'un code source est issue de notre création pour 90\% de réutilisation de code issus de système d'exploitation, \gls{framework}, et autres composants.
+
+			C'est ici la valeur ajoutée de l'open source. L'informatique progresse essentiellement car le socle de code qui constitue notre patrimoine s'agrandit.
+
+			\paragraph{Respecter des droits\\}
+
+			Je ne peux pas vous parler d'open source sans mentionner les licences et les différents droits inhérent à cette mouvement.
+
+			Les programmes open source ne sont pas des programmes « sans licences » comme on l'entend parfois. C'est au contraire leur licence qui les fait open source. Ils ne sont pas non plus dans le domaine public, c'est à dire n'appartenant à personne en particulier, ou du moins exempts de droits patrimoniaux.\\
+
+			Lorsqu'un développeur écrit un programme, il en détient les droits d'auteur, le « copyright ». Dans certains cas, ce peut être l'entreprise qui l'emploie qui en détient les droits. Et ce copyright peut être vendu, comme bien immatériel, d'une entreprise à une autre. \\
+
+			Le détenteur du copyright est libre de définir l'utilisation qui peut être faite de son programme : 
+
+			\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
+		
+			\item Il peut le garder pour lui, en interdire l'utilisation à qui que ce soit.
+
+			\item Il peut vendre ses droits à un tiers, personne physique ou morale.
+
+			\item Il peut utiliser son droit d'auteur pour préciser les conditions qu'il pose à l'utilisation de son programme. Il écrit ces conditions dans les termes de la licence d'utilisation.
+
+			\end{itemize}
+
+			Il est donc important de bien assimiler la logique suivante : à la base de l'open source il y a la licence, et la licence n'existe qu'à partir du droit d'auteur.\\
+
+			Ainsi tous les logiciels open source ont un propriétaire, ils ne sont pas « à personne », ni même « à tout le monde ». Dans certains cas, ce propriétaire peut être une fondation à but non lucratif, ou bien ce peut être une entreprise commerciale ordinaire. Il peut s'agir aussi de plusieurs coauteurs, en particulier à la suite de contributions successives.\\
+
+			Le détenteur des droits est libre de fixer les conditions de licence, il est libre d'en changer même, et il est libre d'y faire des aménagements ou exceptions, ou de diffuser à certains selon une licence, à d'autres selon une autre licence.\\
+
+			Celui qui reçoit le programme, en revanche, n'est pas libre. Il est lié par les termes de la licence. Certes il n'a pas signé de contrat, mais la licence lui a été bien énoncée, et elle stipule qu'il n'a le droit d'utiliser le programme que sous telles et telles conditions. S'il refuse ces conditions, il n'a pas le droit d'utiliser le programme. 
+
+			Je vais détailler légèrement cette partie car elle est également une explication des différents modes de pensées et communautée qui ont un impact sur l'évolution de l'open source et mes hypothèse.
+
+			Il y a deux grandes familles de licences open source : la famille \acrshort{bsd} et la famille \acrshort{gnu gpl}. le terme de licence copyleft apparait pour les premières. « Copyleft » est bien sûr un jeu de mot en référence au « copyright ». Il ne signifie pas pour autant un abandon de droits.\\
+			
+
+				\subparagraph{Les licences \acrshort{bsd}\\}
+
+				La licence \acrfull{bsd} autorise n'importe quelle utilisation du programme, de son code source et de travaux dérivés. Le code sous licence \acrshort{bsd} peut en particulier être utilisé, intégré à des logiciels sous licence non open source. Microsoft a repris du code sous licence \acrshort{bsd} dans Windows, et que MacOSX est basé sur FreeBSD, une distribution unix \acrshort{bsd}.\\
+
+				La seule contrainte spécifique à cette licence est l'interdiction de chercher à tirer avantage de la dénomination de l'auteur, ici l'Université de Berkeley.\\
+
+				Moins de contrainte, plus de liberté: les programmes sous licence \acrshort{bsd} sont quasiment dans le domaine public.\\
+
+				Dans la famille \acrshort{bsd}, on trouve aussi la licence MIT, et la licence \Gls{apache}. Les différences entre ces différentes licences sont de l'ordre du détail.
+
+				\subparagraph{Les licences GNU/GPL\\}
+
+				La licence \acrfull{gnu gpl} est utilisée par 70\% des programmes open source.\\ 
+				
+				La licence \acrshort{gnu gpl}, se caractérise principalement par son article 2, qui énonce le droit de modifier le programme et de redistribuer ces modifications, qui constituent des œuvres dérivées, à la condition que ce soit sous la même licence GPL. \\
+				
+				C'est ce que certains appellent le caractère viral de la licence : elle se communique aux travaux dérivés. Mais je parlerai ici de donnant-donnant. \\
+				
+				Qu'est-ce exactement qu'une œuvre dérivée et qu'entend-on par distribuer ?\\
+
+				Vous verrez que la définition est vaste et pas toujours évidente à perçevoir.\\
+
+				Est considéré comme une oeuvre dérivée:
+
+				\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
+					\item Si l'on prend un programme A, que l'on modifie des lignes de codes pour obtenir un programme B.
+
+					\item Egalement, utiliser un programme A depuis un programme B, en fesant appel à certaines fonctions (on parlera de \text{\textit{«link»}}) est considéré comme oeuvre dérivée.
+
+					\item Comme il existe beaucoup de façon d'appeler un programme A depuis un programme B, on considère donc que si un programme B ne peut pas fonctionner de manière utile sans A alors il est une oeuvre dérivée.
+				\end{itemize} 
+
+				Lorsque l'on « Distribue » un logiciel open source, on livre l'ensemble du code source aux personnes concernées. Commercialiser son programme c'est le distribuer.\\
+
+				A l'inverse il n'est pas considéré comme distribué une oeuvre dérivée qui est utilisé au sein de son entreprise constructrice.Proposer un oeuvre dérivée à travers son service en ligne, comme les \acrfull{saas}, n'est pas considéré comme \textit{distribué}.\\
+				Je vous détaille cela plus précisemment dans la licence AGPL\\
+
+				En synthétisant, l'idée de la licence GPL est que, en tant qu'auteur ou propriétaire d'un programme, je vous donne le droit de l'utiliser et d'utiliser ses sources à condition que vous en fassiez autant.\\
+
+				Ceci à pour effet de diviser le monde en deux « camps ».
+				Si vous êtes du coté GPL, alors tout le patrimoine open source sous GPL vous est accessible sans restriction.\\
+
+				C'est donc ce que j'appellerai ici du \textbf{donnant-donnant}.
+
+				\subparagraph{La licence AGPL (Affero)\\}
+				
+				Comme dit précédemment il est possible de prendre un programme sous licence GPL, le modifier et l'utiliser au sein de son organisation sans en livrer les sources. Rien n'empêche non plus d'offrir un service en ligne construit avec une oeuvre dérivée sans diffuser les sources.\\
+
+				A l'ère des services hébérgés de type \acrshort{saas}, ce type d'usage est régulier or il devrait être considéré comme prohibé étant donné qu'il ne respecte pas vraiment le dogme de la FSF.En effet si le programme est accessible via internet, commercialisé généralement mais que les sources ne sont pas disponibles, on devrait parler de distribution.
+
+				 Pour répondre à cette controverse, une licence AGPL ou Affero GPL à été créée par la société Affero avec la FSF. Elle ajoute un article qui dit que si le programme initial permettait un accès par le réseau et diffusait ses sources par le réseau, alors le programme dérivé doit en faire de même.\\
+
+				L'article est le suivant:\\
+
+				« Si le programme tel que vous l'avez reçu est prévu pour intéragir avec les utilisateurs au travers d'un réseau, et si, dans la version que vous avez reçue, un  utilisateur intéragissant avec le programme avait la possibilité de demander la transmission du code source intégral du programme, vous ne devez pas retirer cette possibilité pour la version modifiée du programme ou une oeuvre dérivée du programme (...) »
+
+				\subparagraph{Droits d'auteurs\\}
+
+				Qu'en-est-il des droits d'auteurs lors de la réalisation d'une oeuvre dérivée?
+
+				Le droit d'auteur ou copyright sur un programme est une notion quand à elle assez claire contrairement à la notion d'oeuvre dérivée, source d'ambigüité.\\
+
+				Si un programmeur écrit du code que son esprit conçoit, il n'est pas en train de violer un quelconque copyright. Lui-même, ou son employeur, est titulaire des droits d'auteur \textbf{sur son code}.\\
+				Plus simplement, on sait quand on enfreint un droit d'auteur.
+
+			\subsubsection{Statistiques}			
+
+		\subsection{Les éditeurs open source}
+
+			\subsubsection{Zoom sur l'éditeur}
+
+			L'éditeur, c'est celui qui détient les droits du produit, en assure le développement, la promotion, la diffusion et le support.\\
+			
+			La seule différence avec l'éditeur de logiciels pour l'éditeur open source est qu'il publie son produit sous licence open source. Sinon l'investissement dans le développement du produit et son marketing est le même qu'un produit propriétaire.
+
+			Ce modèle a été élu pour permettre de briser les position acquise d'oligopoles sur le marché du logiciel.
+
+			Il s'agit donc majoritairement de petites entreprises éditrice qui font du support et du développement du produit leur credos.
+
+			Développer un programme open source coute (un peu) moins cher pour ces entreprises car :
+
+			\begin{enumerate}[font=\color{burntorange}]
+
+		 		\item Il peut s'appuyer sur autant de brique que la licence de son logiciel lui permette.
+		 		\item Il bénéficie de contribution communautaire, que je détaille ultérieurement.
+			 	\item Il possède généralement plus de développeur passionné participent à son travail.
+
+			\end{enumerate}
+
+			Nous parlerons plus en détail du modèle économque des éditeurs dans la partie sur le marché de l'open source.
+
+			Généralement, l'éditeur fait le choix de partir sur une licence GPL car elle présente pour eux deux avantages considérables:
+
+
+			\begin{enumerate}[font=\color{burntorange}]
+
+		 		\item Du fait de sa popularité, elle est parfaitement lisible et compréhensible ce qui la rend gage de tranparence.
+		 		\item Elle empêche les autres de se faire de l'argent sur son dos car elle interdit l'intégration du produit dans un développement propriétaire.
+
+			\end{enumerate}
+
+			\subsubsection{L'aspect communautaire}
+
+			L'éditeur open source a à sa disposition une communauté qui pourra l'aider non seulement dans le support sur les ressources open source qu'il utilise mais également au développement et au support de son oeuvre.
+
+			Au sein de la communauté il est possible de distinguer deux types d'acteurs:
+
+			\begin{description}[font=\color{burntorange}]
+
+				\item[les développeurs indépendants: ] Qu'il s'agisse de gloire, de monté en compétence sur un domaine ou d'altruisme, il existe des développeurs qui soutiennent le développement de produit et participent au support.
+				\item[Les contributeurs et entreprises contributrices: ] Certaines entreprises favorisent l'aide et autorise leurs employés à travailler une partie de leurs temps d'activité sur des projets open sources.
+
+			\end{description}
+
+
+			\subsubsection{Les supports de l'open source\\}
+
+				% A retravailler
+				Le support dans le monde du logiciel, c'est la capacité à apporter de l'aide dans l'utilisation du programme et à corriger le programme le cas échéant.\\
+				
+				Le support peut s'adresser aux utilisateurs finaux, comme aux exploitants du programme, ou encore aux programmeurs travaillant sur le programme.\\
+				
+				Le déploiement de programmes pour des tâches critiques, en particulier dans des entreprises, requiert absolument un support, car le risque d'une situation de blocage est trop important, cela que ce blocage soit dû à une anomalie ou à un mauvais usage, mauvaise configuration, incompatibilité, etc.
+
+				\paragraph{Le support de l'éditeur\\}
+
+				Du côté des éditeurs open source (MySql, eZ Publish, OpenERP, ...), la question est différente: l'éditeur est une société commerciale et son business model est essentiellement basé sur son offre de support. Ici donc, le dispositif de support est très proche de celui des produits propriétaires. Pas identique toutefois car \textit{en parallèle, en complément} au support payant de l'éditeur, il existe souvent un support communautaire, plus ou moins vivace selon les produits.Mais le plus souvent, les corrections touchant au code ne sont assurées que par l'éditeur.\\
+
+				Pour les nouveaux éditeurs de l'open source commercial, le support produit est le fondement du business model, il est leur raison de vivre, leur unique source de revenus. On peut donc s'attendre à un support de grande qualité.
+
+				\paragraph{Le support de la communauté\\}
+
+				Les produits communautaires bénéficient avant tout d'un support communautaire. C'est à dire basé sur le volontariat de développeurs impliqués, qui répondent aux questions des utilisateurs sur les mailing-lists et forums. Et basé également sur le suivi et la prise en charge des anomalies sur les plateformes de développement communautaires.\\
+
+				Lorsque la communauté est active, comme c'est le cas autour des grands produits, ce support communautaire peut être d'une très grande efficacité, d'une très grande réactivité, très supérieur à un support commercial.\\
+
+				Nous verrons plus tard comment améliorer cette gestion de la communauté dans la partie optimisation des ressources.
+
+		\subsection{Le consommateur}
+
+			\subsubsection{Les bénéfices de l'open source pour le client}
+			%A retravailler
+
+			Bien sûr, les bénéfices économiques sont parmi les premières raisons dans le choix de solutions open source. Même si « libre ne signifie pas gratuit », ces solutions ont toujours un coût de possession sensiblement moins élevé que leurs équivalents propriétaires.\\
+
+			D'autant que les prix de prestations tendent aussi à être moins élevés, car l'ouverture du produit facilite la diffusion de la connaissance.\\
+
+			Mais au fur et à mesure que ces solutions arrivent à maturité, le moindre coût n'est plus le premier critère de choix.\\
+			Les principaux arguments sont alors :\\
+
+
+\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
+	\item \textbf{La non-dépendance}, ou moindre dépendance, par rapport à un éditeur. On sait que changer d'outil peut coûter très cher, et les éditeurs peuvent être tentés de profiter de la vache à lait que constituent ces clients devenus captifs. En anglais, on parle de vendor lock-in, le verrouillage par le fournisseur.
+	\item \textbf{L'ouverture} est également un argument de poids. Les solutions open source sont en général plus respectueuses des standards, et plus ouvertes vers l'ajout de modules d'extension.
+	\item \textbf{La pérennité} est un autre critère de choix fort, nous y revenons plus loin.
+	\item \textbf{Et la qualité} finalement, car dans beaucoup de domaines les solutions open source sont réellement, objectivement, supérieures. Le très grand nombre de déploiements et donc de retours d'expérience, mais aussi leur modèle de développement et leur intégration de composants de haut niveau, permet à beaucoup de surclasser les produits propriétaires souvent vieillissants.
+\end{itemize}
+
+	A quoi on peut ajouter le plaisir, pour les informaticiens, d'utiliser des programmes dont ils peuvent acquérir une totale maîtrise, sans barrière ni technique ni juridique.
+
+		\subsection{Où trouver de l'open source ?}
+	
+	\section{Optimisation des ressources}
+	
+	\section{Etude du consommateur}
+
+	\section{Le marché de l'open source}
+
+	Parmi les 4 grands acteurs de l'open source : 
+	\begin{description}[font=\color{burntorange}]
+	\item[Fondation:] Les fondations telles que Apache ou Eclipse, sont des organismes à but non lucratif qui stimulent et pilotent le développment de grands produits open source.
+	\item[Distributeur:] Redhat, Canonical (Ubuntu) ou Mandriva sont des distributeurs (très souvent éditeurs par la même occasion). Ils sélectionnent des outils et composants autour d'un noyau Linux, en assurent le packaging, la distribution et le support
+	\item[Éditeurs:] Diffusent des logiciels sous licence open source, ils réalisent la promotion de leurs produits et proposent du support
+	\item[Prestataires: ] Ils vendent des services sur l'open source. Il peut s'agir de conseil, d'intégration, de support, de la formation, des solutions d'hébergement, etc.
+	\end{description}
+
+	Je m'intéresse particulièrement aux éditeurs et prestataire de l'open source qui devront mettre en place des solutions pour péréniser financièrement leurs activités.
+
+	Comment fonctionne le modèle économique ou « business model » de ces entreprises ?
+
