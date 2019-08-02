@@ -1,6 +1,12 @@
-\chapter*{\color{burntorange}{Etat de l'art}} %20 pages
+\chapter{\color{burntorange}{Etat de l'art}} %20 pages
 
-	\section{Présentation de l'open source}
+	% --------------------------------------------------%
+	%     												%
+	%             Présentation de l'open source			%
+	%       										    %
+	% --------------------------------------------------%
+
+	\section{Présentation de l'open source} % in progress
 
 		\subsection{L'open source aujourd'hui}
 
@@ -74,7 +80,7 @@
 				
 				C'est ce que certains appellent le caractère viral de la licence : elle se communique aux travaux dérivés. Mais je parlerai ici de donnant-donnant. \\
 				
-				Qu'est-ce exactement qu'une œuvre dérivée et qu'entend-on par distribuer ?\\
+				\textbf{Qu'est-ce exactement qu'une œuvre dérivée et qu'entend-on par distribuer ?}\\
 
 				Vous verrez que la définition est vaste et pas toujours évidente à perçevoir.\\
 
@@ -139,13 +145,13 @@
 
 			\begin{enumerate}[font=\color{burntorange}]
 
-		 		\item Il peut s'appuyer sur autant de brique que la licence de son logiciel lui permette.
-		 		\item Il bénéficie de contribution communautaire, que je détaille ultérieurement.
-			 	\item Il possède généralement plus de développeur passionné participent à son travail.
+		 		\item Elles peuvent s'appuyer sur autant de brique que la licence de son logiciel lui permette.
+		 		\item Elles bénéficient de contributions communautaire, que je détaille ultérieurement.
+			 	\item Elles possèdent généralement plus de développeur passionné participent à son travail.
 
 			\end{enumerate}
 
-			Nous parlerons plus en détail du modèle économque des éditeurs dans la partie sur le marché de l'open source.
+			Nous parlerons plus en détail du modèle économique des éditeurs dans la partie sur le marché de l'open source.
 
 			Généralement, l'éditeur fait le choix de partir sur une licence GPL car elle présente pour eux deux avantages considérables:
 
@@ -170,8 +176,41 @@
 
 			\end{description}
 
+			Parmis ces contributeurs, on retrouve beaucoup de salariés d'entreprise IT et ce pour plusieurs raisons comme:
 
-			\subsubsection{Les supports de l'open source\\}
+			\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
+				\item Le marketing: statuer que l'on a un développeur qui travaille sur un « Grand projet » pour dorer son image et promouvoir son entreprise.
+				\item La gouvernance: car cela permet d'avoir son mot à dire sur les orientations stratégiques d'un produit
+				\item Le socle technique: Plus il y a de contributions à un socle de produit open source dont l'entreprise est utilisatrice, meilleur sera leur business.
+				\item La maitrise du produit: Monter en compétence et proposer du support sur ce produit.
+			\end{itemize}
+
+			\paragraph{Les contributions communautaires\\}
+
+			%A retravailler
+			Les éditeurs open source comptent en général assez peu sur les apports communautaires, du moins sur le coeur de leur produit. Ils les acceptent car c'est dans la logique de l'open source, mais ne les encouragent guère et l'on peut penser qu'il ne leur déplait pas de garder la maîtrise de leur produit.\\
+
+			A noter que si son morceau de code est accepté, le contributeur devra généralement signer un accord spécifique qui permet à l'éditeur de disposer librement de son code. C'est assez naturel, car si chaque contributeur pouvait spécifier ses propres conditions de licence, le produit final serait un enchevêtrement de licences indémêlables.\\
+
+			Afin de bénéficier d'une dynamique communautaire, tout en conservant la maîtrise du noyau de leur produit, certains éditeurs mettent en place un dispositif d'extensions, qui permet d'apporter des enrichissements au produit, de manière propre et indépendante du noyau, en assurant la compatibilité avec les versions futures.
+
+			\paragraph{Le noyau et les extensions, un écosystème\\}
+
+			Le modèle qui semble le plus efficace, et le meilleur compromis, est celui qui distingue le noyau du produit, sous la responsabilité de l'éditeur, et les extensions, réalisées par la communauté.
+
+			Les principes de séparation sont les suivants:
+
+			\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
+				\item Le noyau doit être d'une grande robustesse, il est certifié par l'éditeur, les contributions externes y sont rares.
+
+				\item L'inferface entre le noyau et les extensions est bien documentée et stabke, c'est à dire qu'un changement de version du noyau n'implique pas, du moins le plus souvent, un changement de version des extensions.
+
+				\item L'éditeur stimule la réalisation d'extensions, car elles donnent de la valeur à son produit et témoignent aussi de l'existence d'une communauté, en soi un gage de pérennité. L'éditeur offre en général une plateforme de mise à 
+			\end{itemize}
+
+			Ce modèle noyau/extensions est celui qui réalise le meilleur point d'équilibre entre les rôles respectifs de l'éditeur et de la communauté, réunissant la garantie et l'engagement de l'éditeur avec le dynamisme et l'énorme capacité de développement de la communauté.
+
+			\subsubsection{Les supports de l'open source}
 
 				% A retravailler
 				Le support dans le monde du logiciel, c'est la capacité à apporter de l'aide dans l'utilisation du programme et à corriger le programme le cas échéant.\\
@@ -196,6 +235,14 @@
 
 		\subsection{Le consommateur}
 
+			\subsubsection{Qui est le consommateur ?}
+
+			Je classifie les consommateurs en deux catégories distinctes :
+			\begin{description}[font=\color{burntorange}]
+				\item[Les end-users:] Ce sont les clients finaux du produit open source. Si le logiciel open source à pour vocation d'être utilisé comme tel par le grand public ou bien parmis les entreprises, on considère ces personnes comme des utilisateurs finaux ou \textit{« end-users »}. Ils utilisent le logiciel, remontent leurs besoins d'amélioration, de correctifs et de support.
+				\item[Les autres éditeurs et prestataires:] Comme nous l'avons aperçu précedemment, une licence open source permet de bénéficier de toutes les ressources sous la même licence. Les développeurs chez les éditeurs et prestataires réalisent des aggrégats de différentes solutions open sources à laquelle ils intégrent la leur. Nous le verrons plus en détail dans la partie concernant l'intégration de solution.
+			\end{description}
+			
 			\subsubsection{Les bénéfices de l'open source pour le client}
 			%A retravailler
 
@@ -207,32 +254,173 @@
 			Les principaux arguments sont alors :\\
 
 
-\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
-	\item \textbf{La non-dépendance}, ou moindre dépendance, par rapport à un éditeur. On sait que changer d'outil peut coûter très cher, et les éditeurs peuvent être tentés de profiter de la vache à lait que constituent ces clients devenus captifs. En anglais, on parle de vendor lock-in, le verrouillage par le fournisseur.
-	\item \textbf{L'ouverture} est également un argument de poids. Les solutions open source sont en général plus respectueuses des standards, et plus ouvertes vers l'ajout de modules d'extension.
-	\item \textbf{La pérennité} est un autre critère de choix fort, nous y revenons plus loin.
-	\item \textbf{Et la qualité} finalement, car dans beaucoup de domaines les solutions open source sont réellement, objectivement, supérieures. Le très grand nombre de déploiements et donc de retours d'expérience, mais aussi leur modèle de développement et leur intégration de composants de haut niveau, permet à beaucoup de surclasser les produits propriétaires souvent vieillissants.
-\end{itemize}
+			\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
+				\item \textbf{La non-dépendance}, ou moindre dépendance, par rapport à un éditeur. On sait que changer d'outil peut coûter très cher, et les éditeurs peuvent être tentés de profiter de la vache à lait que constituent ces clients devenus captifs. En anglais, on parle de vendor lock-in, le verrouillage par le fournisseur.
+				\item \textbf{L'ouverture} est également un argument de poids. Les solutions open source sont en général plus respectueuses des standards, et plus ouvertes vers l'ajout de modules d'extension.
+				\item \textbf{La pérennité} est un autre critère de choix fort, nous y revenons plus loin.
+				\item \textbf{Et la qualité} finalement, car dans beaucoup de domaines les solutions open source sont réellement, objectivement, supérieures. Le très grand nombre de déploiements et donc de retours d'expérience, mais aussi leur modèle de développement et leur intégration de composants de haut niveau, permet à beaucoup de surclasser les produits propriétaires souvent vieillissants.
+			\end{itemize}
 
-	A quoi on peut ajouter le plaisir, pour les informaticiens, d'utiliser des programmes dont ils peuvent acquérir une totale maîtrise, sans barrière ni technique ni juridique.
+			A quoi on peut ajouter le plaisir, pour les informaticiens, d'utiliser des programmes dont ils peuvent acquérir une totale maîtrise, sans barrière ni technique ni juridique.
 
-		\subsection{Où trouver de l'open source ?}
-	
-	\section{Optimisation des ressources}
-	
-	\section{Etude du consommateur}
+		\subsection{Où trouver de l'open source ?} 
 
-	\section{Le marché de l'open source}
+		\paragraph{Pour conclure\\}
 
-	Parmi les 4 grands acteurs de l'open source : 
-	\begin{description}[font=\color{burntorange}]
-	\item[Fondation:] Les fondations telles que Apache ou Eclipse, sont des organismes à but non lucratif qui stimulent et pilotent le développment de grands produits open source.
-	\item[Distributeur:] Redhat, Canonical (Ubuntu) ou Mandriva sont des distributeurs (très souvent éditeurs par la même occasion). Ils sélectionnent des outils et composants autour d'un noyau Linux, en assurent le packaging, la distribution et le support
-	\item[Éditeurs:] Diffusent des logiciels sous licence open source, ils réalisent la promotion de leurs produits et proposent du support
-	\item[Prestataires: ] Ils vendent des services sur l'open source. Il peut s'agir de conseil, d'intégration, de support, de la formation, des solutions d'hébergement, etc.
-	\end{description}
+		L’open source est donc un mouvement important. Il apporte des valeurs de liberté, solidarité mais aussi des bénéfices tant pour les citoyens que pour les entreprises. 
+		
+	% --------------------------------------------------%
+	%     												%
+	%             Optimisation des ressources			%
+	%       										    %
+	% --------------------------------------------------%
+	\section{Optimisation des ressources} % in progress
 
-	Je m'intéresse particulièrement aux éditeurs et prestataire de l'open source qui devront mettre en place des solutions pour péréniser financièrement leurs activités.
+		\subsection{Pareto revisité}
 
-	Comment fonctionne le modèle économique ou « business model » de ces entreprises ?
+			Une étude sur la participation de développeur et le code total rédigé rapporte que si l'on prend un projet ou 200 programmeurs participent, seulement, 10 d'entre eux ont écris 50\% du code.
+
+	% --------------------------------------------------%
+	%     												%
+	%              Etude du consommateur				%
+	%       										    %
+	% --------------------------------------------------%
+	\section{Etude du consommateur} % in progress
+
+
+	% --------------------------------------------------%
+	%     												%
+	%            Le marché de l'open source			    %
+	%       										    %
+	% --------------------------------------------------%
+
+	\section{Le marché de l'open source} % in progress
+
+		\subsection{Les acteurs de l'open source}
+			Il existe dans l'open source 4 grands acteurs:
+
+			\begin{description}[font=\color{burntorange}]
+				\item[Les fondations:] telles que Apache ou Eclipse, sont des organismes à but non lucratif qui stimulent et pilotent le développment de grands produits open source.
+				\item[Les distributeurs:] Redhat, Canonical (Ubuntu) ou Mandriva sont des distributeurs (très souvent éditeurs par la même occasion). Ils sélectionnent des outils et composants autour d'un noyau Linux, en assurent le packaging, la distribution et le support
+				\item[Les éditeurs:] Diffusent des logiciels sous licence open source, ils réalisent la promotion de leurs produits et proposent du support
+				\item[Les prestataires: ] Ils vendent des services sur l'open source. Il peut s'agir de conseil, d'intégration, de support, de la formation, des solutions d'hébergement, etc.
+			\end{description}
+
+			Je m'intéresse particulièrement aux éditeurs et aux prestataires de l'open source qui devront mettre en place des solutions pérénisant financièrement leur activité.\\
+
+			\textbf{Comment fonctionne le modèle économique ou « business model » de ces entreprises ?}\\
+
+		\subsection{Chez les éditeurs}
+
+			Même s'ils bénéficient de l'open source pour réduire leur coût de ressources, celle-ci ne comblent pas les besoins de financement de la partie développement en interne, hébergement, marketing. Il est donc nécessaire de trouver des sources de revenus pour les éditeurs.
+
+			Parmis celles-ci, on distingue 3 principales sources pour l'éditeur:
+
+			\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
+				\item Vendre des licences
+				\item Vendre du support
+				\item Vendre de l'intégration
+			\end{itemize}
+
+			\subsubsection{Vendre des licences}
+
+			Même s'il est interdit de faire payer l'utilisation d'un logiciel open source, les éditeurs ont bien compris commment faire bon usage de la « double licence ».
+
+			\paragraph{Double licence commerciale\\}
+
+			Il est possible de distribuer une oeuvre dérivée utilisant le programme sans diffuser ses sources à l'aide d'une licence commerciale.\\
+			Le programme officiel open source est gratuit mais sa version dérivée elle est payante à travers l'achat de licence commerciale.\\
+
+			Pour l'entreprise MySql, la vente de licence représente plus de la moitié du \acrfull{ca}. Pour d'autre, ce n'est pas une source de revenu suffisante car leur finalité est de faire un \textit{site} et non \textit{un produit}.
+
+			\paragraph{Les extension payantes\\}
+
+			L'éditeur peut proposer des extensions aux fonctionnalités présente dans le logiciel open source. Le logiciel initial est suffisemment de qualité et donne envie de payer quelques extension \textit{optionnelles} supplémentaire pour le confort et le besoin de l'utilisateur.
+
+			\paragraph{Un support uniquement sur licence commerciale\\}
+
+			Ici aussi, le logiciel est sous licence open source mais si l'on désire avoir le moindre support dessus, il faudra se tourner vers son confrère et sa licence commerciale.
+
+			\subsubsection{Vendre du support}
+
+			La prestation de support est une source principale de revenu pour l'éditeur, même s'il doit pour celà faire face à la concurrence potentielle de prestataires tiers que je précise juste après.
+
+			Le support d'un logiciel inclut généralement :
+
+			\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
+				\item L'accès privilégié aux correctif et ressources spécifique
+				\item Une prise en chage des problèmes (anomalies, utilisation, mise en oeuvre ...)
+				\item Des prestation d'audit, de certification, ou de prise de contrôle à distance, ainsi que la surveillance proactive et les corrections.
+			\end{itemize}
+
+			On peux distinguer différent modèles de financement concernant la vente de support:
+
+			\paragraph{Uniquement le support\\}
+
+			Certains éditeurs misent uniquement sur la vente de support. Le logiciel est gratuit mais le support lui est payant. Ce modèle de financement fonctionne pour certaines entreprises comme Tiny(OpenERP), Nuxeo.\\
+
+			Le problème est qu'en cas ou le support n'a pas été utile l'année souscrite pour cause de stabilité du logiciel, le client voudra surement le résilier pour la suite.\\
+
+			Plus le produit est de qualité, moins le support est facile à vendre car le client rencontre moins de difficultés.\\
+
+			L'avantage est que plus on avance dans la technologie et plus la concurrence est présente on doit donc sortir des nouveautés constemment ce qui fragilise le produit et le rend instable.Le support est donc précieux dans le cadre professionnel.
+
+			\paragraph{Faire payer la stabilité\\}
+
+			Pour d'autre éditeurs, la stabilité d'un logiciel peut devenir source de profit. L'idée est de proposer deux logiciel:\\
+
+			\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
+				\item Celui en licence open source sera classifié de « community edition ». Il sera présenté comme instable, pas entièrement testé, à ne pas déployer en production
+				\item Tandis que le logiciel sous licence non-libre sera la licence sécurisée, une version « enterprise-ready », « fully tested ».
+			\end{itemize} 
+
+			Au final, la version community, c'est celle en cours de développement donc en avance de phase alors que la version entreprise c'est celle qui a été \textit{gelée} dans un état dit \textit{« stable »}.\\
+
+			L'éditeur peut alors diffuser et promouvoir son produit à travers la version community, et apâter les entreprises dans la version payante ou généralement le support est packagé avec.\\
+
+			L'éditeur jongle sur la stabilité de la version community en la rendant suffisamment stable pour donner envie de l'utiliser mais inciter fortement les entreprises à prendre la version sous licence commerciale qui sera accompagnée du support.
+
+			\paragraph{Fonctionnalités avancées\\}
+
+			Pour l'éditeur, un autre business model et celui de la fonctionnalitée avancée.\\
+			La version community et enterprise n'est pas différente d'un point de vue stabilité mais ce sont les fonctionnalitées présente qui sont réduites sur la version community.\\
+
+			Ceci permet de se dégager du paradigme « libre = instable » totalement infondé.\\
+
+			La difficulté pour l'éditeur va être d'avoir suffisemment de fonctionnalitées pour rendre la version libre intéressante mais d'avoir une forte valeur ajoutée sur les fonctionnalités dans la version payante.
+
+		\subsubsection{Vendre de l'intégration}
+
+		Pour les éditeurs qui ne sont pas mondialement connu, il est possible de trouver la rentabilité en proposant l'intégration de son produit open source. C'est un moyen de démarrer dans le milieu sans trop de risque mais qui n'est pas « \gls{scalable} ». On ne peux s'étendre à l'étranger si l'on est le concurrent direct de ses intégrateurs partenaires. On reste donc sur un marché réduit.
+			
+		\subsection{Chez les prestataires}
+
+			Pour les prestataires de l'open source, le business model est basé sur la vente de prestation et d'expertise sur les produit.
+
+				\paragraph{La naissance des \acrfull{ssll}\\}
+
+				L'une des activité du prestataire est la gestion du support de solution open source. Il existe une telle diversité de composant open source qu'il est difficile pour un prestataire unique de se concentrer sur le support dudit logiciel.\\
+
+				Dans certains cas, la prestation est demandé par l'éditeur. Dans d'autre, c'est un prestataire tiers qui assurera du support, sans doute moins légitime et moins expert que l'éditeur lui-même mais aussi moins chère.\\
+
+				Ainsi est né en France le concept de \acrshort{ssll}, une société qui propose d'assurer le déploiement et le support de configuration multi-produits à base d'open source.\\
+
+				Un peu plus tard les \acrfull{ssii} généralistes prennent partis en ouvrant des centre de support open source.
+
+				\paragraph{Intégrer des solution open sources\\}
+
+				Le principe de ce modèle est de construire une application globale, un système d'information, en assemblant des logiciels open sources.\\
+
+				Il faudra donc également assurer le support de ces créations.\\
+				La valeur ajoutée ici est dans le choix des solutions à intégrer. 
+
+				Il y a tellement de possibilité de solution dans l'open source qu'il est nécessaire d'étudier correctement le marché en fesant les bons choix. Ceci passe par une action de veille permanente sur les solutions disponible, afin de déceler les opportunité et produits prometteur pour avoir la création la plus solide et pérenne possible.
+
+
+
+
+
+
+
+
 

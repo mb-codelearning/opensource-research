@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.3)  1 AUG 2019 12:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.3)  2 AUG 2019 17:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -566,38 +566,24 @@ Package csquotes Info: Redefining alias 'default' -> 'french'.
 
 (/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/opensource
 -thesis.aux
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/prefac
-e.aux)
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/abstra
-ct.aux)
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/introd
-uction.aux)
 (/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/etatde
-lart.aux)
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/etudet
-errain.aux)
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/confro
-ntation.aux)
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/transp
-osition.aux)
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/conclu
-sion.aux))
+lart.aux))
 \openout1 = `opensource-thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count165
@@ -626,15 +612,15 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \degres on input line 75.
-LaTeX Info: Redefining \dots on input line 75.
+LaTeX Info: Redefining \degres on input line 86.
+LaTeX Info: Redefining \dots on input line 86.
 Package french.ldf Info: Setting StandardItemizeEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 75.
+(french.ldf)             reported on input line 86.
 Package french.ldf Info: Setting StandardEnumerateEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 75.
-LaTeX Info: Redefining \up on input line 75.
+(french.ldf)             reported on input line 86.
+LaTeX Info: Redefining \up on input line 86.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -674,7 +660,7 @@ LaTeX Info: Redefining \up on input line 75.
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-Package hyperref Info: Link coloring OFF on input line 75.
+Package hyperref Info: Link coloring OFF on input line 86.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -682,9 +668,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count171
 )
-LaTeX Info: Redefining \ref on input line 75.
-LaTeX Info: Redefining \pageref on input line 75.
-LaTeX Info: Redefining \nameref on input line 75.
+LaTeX Info: Redefining \ref on input line 86.
+LaTeX Info: Redefining \pageref on input line 86.
+LaTeX Info: Redefining \nameref on input line 86.
 
 (/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/opensource
 -thesis.out)
@@ -713,7 +699,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.79 \listoffigures
+l.90 \listoffigures
                     [1]
 (/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/opensource
 -thesis.lof)
@@ -752,29 +738,26 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-\openout2 = `tex/preface.aux'.
+\openout2 = `tex/etatdelart.aux'.
 
 
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/prefac
-e.tex
-<confidentialite.pdf, id=128, 597.50786pt x 845.04686pt>
-File: confidentialite.pdf Graphic file (type pdf)
-<use confidentialite.pdf>
-Package pdftex.def Info: confidentialite.pdf  used on input line 3.
-(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
-File: confidentialite.pdf Graphic file (type pdf)
-<use confidentialite.pdf>
-Package pdftex.def Info: confidentialite.pdf  used on input line 3.
-(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
-<confidentialite.pdf, id=131, page=1, 597.50786pt x 845.04686pt>
-File: confidentialite.pdf Graphic file (type pdf)
-<use confidentialite.pdf, page 1>
-Package pdftex.def Info: confidentialite.pdf , page1 used on input line 3.
-(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
-File: confidentialite.pdf Graphic file (type pdf)
-<use confidentialite.pdf, page 1>
-Package pdftex.def Info: confidentialite.pdf , page1 used on input line 3.
-(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
+(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/etatde
+lart.tex
+Chapitre 1.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@ifnextchar' on input line 1.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -785,119 +768,19 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-File: confidentialite.pdf Graphic file (type pdf)
-<use confidentialite.pdf, page 1>
-Package pdftex.def Info: confidentialite.pdf , page1 used on input line 3.
-(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
-File: confidentialite.pdf Graphic file (type pdf)
-<use confidentialite.pdf, page 1>
-Package pdftex.def Info: confidentialite.pdf , page1 used on input line 3.
-(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
-File: confidentialite.pdf Graphic file (type pdf)
-<use confidentialite.pdf, page 1>
-Package pdftex.def Info: confidentialite.pdf , page1 used on input line 3.
-(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
-[6 <./confidentialite.pdf>])
-\openout2 = `tex/abstract.aux'.
-
-
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/abstra
-ct.tex)
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[7
-
-
-
-]
-\openout2 = `tex/introduction.aux'.
-
-
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/introd
-uction.tex
-Underfull \hbox (badness 10000) in paragraph at lines 45--49
-
- []
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[8
-
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
-
- []
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[9]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 106.
-
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 44.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 106.
-)
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[10]
-\openout2 = `tex/etatdelart.aux'.
-
-
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/etatde
-lart.tex
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-
- []
-
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <17.28> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 44.
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[11
-
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
  []
 
@@ -907,32 +790,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--57
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 71--72
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
@@ -947,38 +820,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--80
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--95
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--100
+Underfull \hbox (badness 10000) in paragraph at lines 99--101
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--106
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
+Underfull \hbox (badness 10000) in paragraph at lines 104--106
 
  []
 
@@ -988,7 +866,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 111--112
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
 
  []
 
@@ -998,23 +881,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 130--131
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--174
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 177--178
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 179--180
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 
  []
 
@@ -1024,12 +897,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 185--186
-
- []
-
-
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 191--192
 
  []
@@ -1040,17 +908,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 193--194
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--203
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--205
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--208
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
 
  []
 
@@ -1060,129 +928,176 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15])
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--255
+
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[16]
-\openout2 = `tex/etudeterrain.aux'.
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+
+ []
 
 
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/etudet
-errain.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
+
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 331--333
+
+ []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 360--361
 
-]
-\openout2 = `tex/confrontation.aux'.
+ []
 
 
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/confro
-ntation.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 362--363
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--365
+
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[18
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
+
+ []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
 
-]
-\openout2 = `tex/transposition.aux'.
+ []
 
 
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/transp
-osition.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--387
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--403
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
+
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[19
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 406--407
+
+ []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 412--413
 
-]
-\openout2 = `tex/conclusion.aux'.
+ []
 
-
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/conclu
-sion.tex)
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[20
-
-
-
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
+[14]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 103.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 103.
 
 (/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/opensource
 -thesis.aux
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/prefac
-e.aux)
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/abstra
-ct.aux)
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/introd
-uction.aux)
 (/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/etatde
-lart.aux)
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/etudet
-errain.aux)
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/confro
-ntation.aux)
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/transp
-osition.aux)
-(/Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/conclu
-sion.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 92.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 92.
+lart.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 103.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 103.
 Package rerunfilecheck Info: File `opensource-thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 00F91D45E1A0804BE398393C9AE48F6A;1256.
+(rerunfilecheck)             Checksum: EE745BC4E7AAF38D6287C43B2C6A12E9;1058.
  ) 
 Here is how much of TeX's memory you used:
- 17050 strings out of 492616
- 280783 string characters out of 6128983
- 450187 words of memory out of 5000000
- 20509 multiletter control sequences out of 15000+600000
- 17437 words of font info for 43 fonts, out of 8000000 for 9000
+ 17085 strings out of 492616
+ 278381 string characters out of 6128983
+ 449803 words of memory out of 5000000
+ 20614 multiletter control sequences out of 15000+600000
+ 18987 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,18n,51p,2070b,619s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,12n,57p,2070b,611s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
 /usr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></u
 sr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr
 /local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/l
-ocal/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/loc
-al/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local
-/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/t
-exlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/tex
-live/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texli
-ve/2018/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive
-/2018/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
+ocal/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/loc
+al/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local
+/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/t
+exlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/tex
+live/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texli
+ve/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive
+/2018/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2
+018/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
 Output written on /Users/matthieubalondrade/Documents/MSI/Thèse/opensource-re
-search/opensource-thesis.pdf (22 pages, 286832 bytes).
+search/opensource-thesis.pdf (16 pages, 224523 bytes).
 PDF statistics:
- 342 PDF objects out of 1000 (max. 8388607)
- 293 compressed objects within 3 object streams
- 93 named destinations out of 1000 (max. 500000)
- 165 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 256 PDF objects out of 1000 (max. 8388607)
+ 223 compressed objects within 3 object streams
+ 71 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
