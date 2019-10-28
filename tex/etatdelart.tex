@@ -6,7 +6,7 @@
 	%       										    %
 	% --------------------------------------------------%
 
-	\section{Présentation de l'open source} % in progress
+	\section{Présentation de l'open source} % ready to review
 
 		\subsection{L'open source aujourd'hui}
 
@@ -25,16 +25,13 @@
 				\paragraph{Une dimension humaniste et un patrimoine\\}
 
 					L'open source permet avant tout d'offrir une chance pour les informaticiens futur de ne pas repartir de zéro, ne pas ré-inventer la roue. Chaque participation de l'Humain apporte sa pierre à l'édifice.
-					Seulement 10\% d'un code source est issue de notre création pour 90\% de réutilisation de code issus de système d'exploitation, \gls{framework}, et autres composants.
+					Selon Smile, la société leader en Europe de l'open source, seulement 10\% d'un code source est issue de notre création pour 90\% de réutilisation de code issus de système d'exploitation, \gls{framework}, et autres composants.
 
 					C'est ici la valeur ajoutée de l'open source. L'informatique progresse essentiellement car le socle de code qui constitue notre patrimoine s'agrandit.
 
 				\paragraph{Respecter des droits\\}
 
-					Je ne peux pas vous parler d'open source sans mentionner les licences et les différents droits inhérent à cette mouvement.
-
 					Les programmes open source ne sont pas des programmes « sans licences » comme on l'entend parfois. C'est au contraire leur licence qui les fait open source. Ils ne sont pas non plus dans le domaine public, c'est à dire n'appartenant à personne en particulier, ou du moins exempts de droits patrimoniaux.\\
-
 					Lorsqu'un développeur écrit un programme, il en détient les droits d'auteur, le « copyright ». Dans certains cas, ce peut être l'entreprise qui l'emploie qui en détient les droits. Et ce copyright peut être vendu, comme bien immatériel, d'une entreprise à une autre. \\
 
 					Le détenteur du copyright est libre de définir l'utilisation qui peut être faite de son programme : 
@@ -49,128 +46,10 @@
 
 					Ainsi tous les logiciels open source ont un propriétaire, ils ne sont pas « à personne », ni même « à tout le monde ». Dans certains cas, ce propriétaire peut être une fondation à but non lucratif, ou bien ce peut être une entreprise commerciale ordinaire. Il peut s'agir aussi de plusieurs coauteurs, en particulier à la suite de contributions successives.\\
 
-					Le détenteur des droits est libre de fixer les conditions de licence, il est libre d'en changer même, et il est libre d'y faire des aménagements ou exceptions, ou de diffuser à certains selon une licence, à d'autres selon une autre licence.\\
+					Le détenteur des droits est libre de fixer les conditions de licence, il est libre de changer de modèle même (GPL, Affero, AGPL), et il est libre d'y faire des aménagements ou exceptions, ou de diffuser à certains selon une licence, à d'autres selon une autre licence.\\
 
 					Celui qui reçoit le programme, en revanche, n'est pas libre. Il est lié par les termes de la licence. Certes il n'a pas signé de contrat, mais la licence lui a été bien énoncée, et elle stipule qu'il n'a le droit d'utiliser le programme que sous telles et telles conditions. S'il refuse ces conditions, il n'a pas le droit d'utiliser le programme. 
-
-					Je vais détailler légèrement cette partie car elle est également une explication des différents modes de pensées et communautée qui ont un impact sur l'évolution de l'open source et mes hypothèse.
-
-					Il y a deux grandes familles de licences open source : la famille \acrshort{bsd} et la famille \acrshort{gnu gpl}. le terme de licence copyleft apparait pour les premières. « Copyleft » est bien sûr un jeu de mot en référence au « copyright ». Il ne signifie pas pour autant un abandon de droits.\\
-
-					\subparagraph{Les licences \acrshort{bsd}\\}
-
-						La licence \acrfull{bsd} autorise n'importe quelle utilisation du programme, de son code source et de travaux dérivés. Le code sous licence \acrshort{bsd} peut en particulier être utilisé, intégré à des logiciels sous licence non open source. Microsoft a repris du code sous licence \acrshort{bsd} dans Windows, et que MacOSX est basé sur FreeBSD, une distribution unix \acrshort{bsd}.\\
-
-						La seule contrainte spécifique à cette licence est l'interdiction de chercher à tirer avantage de la dénomination de l'auteur, ici l'Université de Berkeley.\\
-
-						Moins de contrainte, plus de liberté: les programmes sous licence \acrshort{bsd} sont quasiment dans le domaine public.\\
-
-						Dans la famille \acrshort{bsd}, on trouve aussi la licence MIT, et la licence \Gls{apache}. Les différences entre ces différentes licences sont de l'ordre du détail.
-
-					\subparagraph{Les licences GNU/GPL\\}
-
-						La licence \acrfull{gnu gpl} est utilisée par 70\% des programmes open source.\\ 
-				
-						La licence \acrshort{gnu gpl}, se caractérise principalement par son article 2, qui énonce le droit de modifier le programme et de redistribuer ces modifications, qui constituent des œuvres dérivées, à la condition que ce soit sous la même licence GPL. \\
-				
-						C'est ce que certains appellent le caractère viral de la licence : elle se communique aux travaux dérivés. Mais je parlerai ici de donnant-donnant. \\
-				
-						\textbf{Qu'est-ce exactement qu'une œuvre dérivée et qu'entend-on par distribuer ?}\\
-
-						Vous verrez que la définition est vaste et pas toujours évidente à perçevoir.\\
-
-						Est considéré comme une oeuvre dérivée:
-
-						\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
-							\item Si l'on prend un programme A, que l'on modifie des lignes de codes pour obtenir un programme B.
-							\item Egalement, utiliser un programme A depuis un programme B, en fesant appel à certaines fonctions (on parlera de \text{\textit{«link»}}) est considéré comme oeuvre dérivée.
-							\item Comme il existe beaucoup de façon d'appeler un programme A depuis un programme B, on considère donc que si un programme B ne peut pas fonctionner de manière utile sans A alors il est une oeuvre dérivée.
-						\end{itemize} 
-
-						Lorsque l'on « Distribue » un logiciel open source, on livre l'ensemble du code source aux personnes concernées. Commercialiser son programme c'est le distribuer.\\
-
-						A l'inverse il n'est pas considéré comme distribué une oeuvre dérivée qui est utilisé au sein de son entreprise constructrice.Proposer un oeuvre dérivée à travers son service en ligne, comme les \acrfull{saas}, n'est pas considéré comme \textit{distribué}.\\
-						Je vous détaille cela plus précisemment dans la licence AGPL\\
-
-						En synthétisant, l'idée de la licence GPL est que, en tant qu'auteur ou propriétaire d'un programme, je vous donne le droit de l'utiliser et d'utiliser ses sources à condition que vous en fassiez autant.\\
-
-						Ceci à pour effet de diviser le monde en deux « camps ».
-						Si vous êtes du coté GPL, alors tout le patrimoine open source sous GPL vous est accessible sans restriction.\\
-
-						C'est donc ce que j'appellerai ici du \textbf{donnant-donnant}.
-
-					\subparagraph{La licence AGPL (Affero)\\}
-				
-						Comme dit précédemment il est possible de prendre un programme sous licence GPL, le modifier et l'utiliser au sein de son organisation sans en livrer les sources. Rien n'empêche non plus d'offrir un service en ligne construit avec une oeuvre dérivée sans diffuser les sources.\\
-
-						A l'ère des services hébérgés de type \acrshort{saas}, ce type d'usage est régulier or il devrait être considéré comme prohibé étant donné qu'il ne respecte pas vraiment le dogme de la FSF.En effet si le programme est accessible via internet, commercialisé généralement mais que les sources ne sont pas disponibles, on devrait parler de distribution.
-
-						Pour répondre à cette controverse, une licence AGPL ou Affero GPL à été créée par la société Affero avec la FSF. Elle ajoute un article qui dit que si le programme initial permettait un accès par le réseau et diffusait ses sources par le réseau, alors le programme dérivé doit en faire de même.\\
-
-						L'article est le suivant:\\
-
-						« Si le programme tel que vous l'avez reçu est prévu pour intéragir avec les utilisateurs au travers d'un réseau, et si, dans la version que vous avez reçue, un  utilisateur intéragissant avec le programme avait la possibilité de demander la transmission du code source intégral du programme, vous ne devez pas retirer cette possibilité pour la version modifiée du programme ou une oeuvre dérivée du programme (...) »
-
-					\subparagraph{Droits d'auteurs\\}
-
-						Qu'en-est-il des droits d'auteurs lors de la réalisation d'une oeuvre dérivée?
-
-						Le droit d'auteur ou copyright sur un programme est une notion quand à elle assez claire contrairement à la notion d'oeuvre dérivée, source d'ambigüité.\\
-
-						Si un programmeur écrit du code que son esprit conçoit, il n'est pas en train de violer un quelconque copyright. Lui-même, ou son employeur, est titulaire des droits d'auteur \textbf{sur son code}.\\
-						Plus simplement, on sait quand on enfreint un droit d'auteur.
-
-			\subsubsection{Études et statistiques sur l'open source}
-
-				\paragraph{L'open source à travers le monde\\}
-
-					L'open source est donc utilisé par beaucoup de personnes et ce à travers le monde comme le montre une étude sur la diffusion du libre à travers les frontières.
-					Son utilisation est versatile car il existe beaucoup de secteur d'application.
-
-					\begin{figure}[h]
-						\center
-						\includegraphics[scale=0.65]{./img/Use_os.png}
-						\caption{Secteur d'application de l'open source}					
-					\end{figure}
-					\clearpage
-
-				\paragraph{Les domaines informatique de l'open source dans l'entreprise\\}
-
-					Ce relevé indique pour quels domaines métier de l'informatique nous utilisons majoritairement l'open source:
-
-					\begin{figure}[h]
-						\center
-						\includegraphics[scale=0.65]{./img/Domain_os.png}
-						\caption{Domaine d'application de l'open source dans l'IT}					
-					\end{figure}
-					\clearpage
-
-
-				\paragraph{Les réticences encores présente sur l'open source\\}
-
-					Malgré l'impact bénéfique de l'open source pour les entreprises, il reste encore quelques inquiétudes planant au dessus de l'open source et des réticence à son utilisation généralisée.
-
-					A travers le hack et le piratage de produit open source, les entreprise positionnent la sécurité de l'open source comme une inquiétude majeure.
-
-					\begin{figure}[h]
-						\center
-						\includegraphics[scale=0.75]{./img/Barreer_os.png}
-						\caption{Causes principales des réticences à l'open source}					
-					\end{figure}
-					\clearpage
-
-				\paragraph{L'évolution de l'utilisation de l'open source\\}
-
-					Beaucoup d'entreprises continuent tout de même à utiliser des logiciels propriétaires, mais cette tendance tend à diminuer sur les 2 prochaines années. Ceci grâce aux nouvelles technologies provenant du \gls{web 3.0}, notemment la \gls{conteneurisation}, qui est considéré comme un brassage de produit collaboratif open sources.De nombreuses entreprise aujourd'hui se tourne vers des solutions de conteneurisation, due à l'open source.
 					
-					\begin{figure}[h]
-						\center
-						\includegraphics[scale=0.65]{./img/Enterprise_os.png}
-						\caption{Évolution de l'open source dans les années à suivre}					
-					\end{figure}
-					\clearpage
-					
-
 		\subsection{Les éditeurs open source}
 
 			\subsubsection{Zoom sur l'éditeur}
@@ -185,12 +64,11 @@
 				\begin{enumerate}[font=\color{burntorange}]
 		 			\item Elles peuvent s'appuyer sur autant de brique que la licence de son logiciel lui permette.
 		 			\item Elles bénéficient de contributions communautaire, que je détaille ultérieurement.
-			 		\item Elles possèdent généralement plus de développeur passionné participent à son travail.
+			 		\item Elles possèdent généralement plus de développeurs passionnés qui participent à son travail.
 				\end{enumerate}
 
 				Nous parlerons plus en détail du modèle économique des éditeurs dans la partie sur le marché de l'open source.
-				Généralement, l'éditeur fait le choix de partir sur une licence GPL car elle présente pour eux deux avantages considérables:
-
+				Généralement, l'éditeur fait le choix de partir sur une licence dite GPL car elle présente pour eux deux avantages considérables:
 
 				\begin{enumerate}[font=\color{burntorange}]
 		 			\item Du fait de sa popularité, elle est parfaitement lisible et compréhensible ce qui la rend gage de tranparence.
@@ -219,30 +97,14 @@
 
 				\paragraph{Les contributions communautaires\\}
 
-				%A retravailler
-				Les éditeurs open source comptent en général assez peu sur les apports communautaires, du moins sur le coeur de leur produit. Ils les acceptent car c'est dans la logique de l'open source, mais ne les encouragent guère et l'on peut penser qu'il ne leur déplait pas de garder la maîtrise de leur produit.\\
+				De manière générale, les éditeurs open source ne sont pas trop pour l'apport par le biais de la communauté, du moins sur le coeur de leur produit. Ils les acceptent car c'est dans la logique de l'open source, mais ne les encouragent guère ce qui m'apparait comme un frein à l'utilisation du plein potentiel de l'open source\\
 
-				A noter que si son morceau de code est accepté, le contributeur devra généralement signer un accord spécifique qui permet à l'éditeur de disposer librement de son code. C'est assez naturel, car si chaque contributeur pouvait spécifier ses propres conditions de licence, le produit final serait un enchevêtrement de licences indémêlables.\\
+				Lorsque le code du contributeur est accepté, il passe sous un accord spécifique signé avec l'éditeur qui dispose librement du code. Cela empêche chaque contributeurs de spécifier ses clauses de licence conduisant à un sac de noeud de licences.\\
 
-				Afin de bénéficier d'une dynamique communautaire, tout en conservant la maîtrise du noyau de leur produit, certains éditeurs mettent en place un dispositif d'extensions, qui permet d'apporter des enrichissements au produit, de manière propre et indépendante du noyau, en assurant la compatibilité avec les versions futures.
-
-				\paragraph{Le noyau et les extensions, un écosystème\\}
-
-				Le modèle qui semble le plus efficace, et le meilleur compromis, est celui qui distingue le noyau du produit, sous la responsabilité de l'éditeur, et les extensions, réalisées par la communauté.
-
-				Les principes de séparation sont les suivants:
-
-				\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
-					\item Le noyau doit être d'une grande robustesse, il est certifié par l'éditeur, les contributions externes y sont rares
-					\item L'inferface entre le noyau et les extensions est bien documentée et stabke, c'est à dire qu'un changement de version du noyau n'implique pas, du moins le plus souvent, un changement de version des extensions.	
-					\item L'éditeur stimule la réalisation d'extensions, car elles donnent de la valeur à son produit et témoignent aussi de l'existence d'une communauté, en soi un gage de pérennité. L'éditeur offre en général une plateforme de mise à disposition de 
-				\end{itemize}
-
-				Ce modèle noyau/extensions est celui qui réalise le meilleur point d'équilibre entre les rôles respectifs de l'éditeur et de la communauté, réunissant la garantie et l'engagement de l'éditeur avec le dynamisme et l'énorme capacité de développement de la communauté.
+				Afin de conserver la maitrise de leur noyau mais d'apporter l'aspect communautaire, les éditeurs utilisent un dispositif d'extensions, qui enrichit le produit indépendemment du noyau . Bien que rapidement évoqué, je détaille plus ce modèle noyau-extension dans la partie sur l'optimisation des ressources.
 
 			\subsubsection{Les supports de l'open source}
 
-				% A retravailler
 				Le support dans le monde du logiciel, c'est la capacité à apporter de l'aide dans l'utilisation du programme et à corriger le programme le cas échéant.\\
 				
 				Le support peut s'adresser aux utilisateurs finaux, comme aux exploitants du programme, ou encore aux programmeurs travaillant sur le programme.\\
@@ -274,49 +136,47 @@
 				\item[Les autres éditeurs et prestataires:] Comme nous l'avons aperçu précedemment, une licence open source permet de bénéficier de toutes les ressources sous la même licence. Les développeurs chez les éditeurs et prestataires réalisent des aggrégats de différentes solutions open sources à laquelle ils intégrent la leur. Nous le verrons plus en détail dans la partie concernant l'intégration de solution.
 			\end{description}
 
-			Il est important de considérer que nous somme tous des consommateurs appartenants à la catégorie « end-user » car aujourd'hui, nous avons tous utilisé au moins une application, une partie de logiciel qui utilise de l'open source. Même sans en avoir conscience.\\
+			Il est important de considérer que nous somme tous des consommateurs appartenants à la catégorie « end-user » car aujourd'hui, nous avons tous utilisé au moins une application, une partie de logiciel qui utilise de l'open source. Même sans en avoir conscience.
 
 			Favoriser l'open source pour ces consommateurs c'est leur permettre une expérience plus libre dans leurs besoins. Voyons à présent quels en sont leur bénéfices.
 			
 			\subsubsection{Les bénéfices de l'open source pour le client}
-			%A retravailler
 
-			Bien sûr, les bénéfices économiques sont parmi les premières raisons dans le choix de solutions open source. Même si « libre ne signifie pas gratuit », ces solutions ont toujours un coût de possession sensiblement moins élevé que leurs équivalents propriétaires.\\
+			Meme si les solution open source ne sont pas toute gratuites, elles sont en générale moins couteuse, ce qui en fait un critère de choix essentiel aux yeux des consommateurs.
 
-			D'autant que les prix de prestations tendent aussi à être moins élevés, car l'ouverture du produit facilite la diffusion de la connaissance.\\
+			Le produit étant ouvert, la diffusion des source tend à réduire le coût des prestations associés car la communauté est de plus en plus compétente et permet de se passer de prestations telles que le support.
 
-			Mais au fur et à mesure que ces solutions arrivent à maturité, le moindre coût n'est plus le premier critère de choix.\\
-			Les principaux arguments sont alors :\\
-
+			Mais au fur et à mesure que ces solutions arrivent à maturité, le moindre coût n'est plus le premier critère de choix.
+			Les principaux arguments sont alors :
 
 			\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
-				\item \textbf{La non-dépendance}, ou moindre dépendance, par rapport à un éditeur. On sait que changer d'outil peut coûter très cher, et les éditeurs peuvent être tentés de profiter de la vache à lait que constituent ces clients devenus captifs. En anglais, on parle de vendor lock-in, le verrouillage par le fournisseur.
-				\item \textbf{L'ouverture} est également un argument de poids. Les solutions open source sont en général plus respectueuses des standards, et plus ouvertes vers l'ajout de modules d'extension.
-				\item \textbf{La pérennité} est un autre critère de choix fort, nous y revenons plus loin.
-				\item \textbf{Et la qualité} finalement, car dans beaucoup de domaines les solutions open source sont réellement, objectivement, supérieures. Le très grand nombre de déploiements et donc de retours d'expérience, mais aussi leur modèle de développement et leur intégration de composants de haut niveau, permet à beaucoup de surclasser les produits propriétaires souvent vieillissants.
+				\item \textbf{La non-dépendance}, par rapport à un éditeur. Comme changer d'outil est souvent cher pour les entreprises, il peut être intéressant de se détacher d'un propriétaire qui souhaite garder sa « vache à lait ».
+				\item \textbf{L'ouverture} des solution open source les rends plus respectueuses des standards, et plus ouvertes vers l'ajout de modules d'extension.
+				\item \textbf{La pérennité}, du fait de sa diffusion, le logiciel devient un bien commun que l'on souhaite péreniser. 
+				\item \textbf{Et la qualité} due au grand nombre de déploiements et donc de retours d'expérience, mais aussi le modèle de développement et l'intégration de composants de haut niveau, permet de dépasser les logiciels propriétaires.
 			\end{itemize}
 
-			A quoi on peut ajouter le plaisir, pour les informaticiens, d'utiliser des programmes dont ils peuvent acquérir une totale maîtrise, sans barrière ni technique ni juridique.
+			A ceci s'ajoute le plaisir d'utiliser des programmes dont on peut acquérir la totale maîtrise, sans barrière ni technique ni juridique.
 
 		\subsection{Où trouver de l'open source ?} 
 
 			Que l'on souhaite démarrer son projet open source ou contribuer au patrimoine du Logiciel Libre, de nombreuses plateforme et espace web permettent le stockage et la redistribution de ces projet open sources.
 
-				\begin{figure}[h]
-					\center
-					\includegraphics[scale=0.40]{./img/google_os}
-					\caption{Interface de google open source}					
-				\end{figure}
-
-
 			\paragraph{Plateforme de dépot de code}
-				% A retravailler
 
 				\subparagraph{Github\\}
-				La plateforme «open source» par excellence centralisant le code source des plus grandes entreprises du monde: Microsoft, Netflix, Facebook entre autres.
+				La plateforme «open source» par excellence centralisant le code source des plus grandes entreprises du monde: Google, Microsoft, Netflix, Facebook, Apple entre autres.
+
+				\begin{figure}[h]
+					\center
+					\includegraphics[scale=0.28]{./img/gh_os}
+					\caption{Interface de github}					
+				\end{figure}
+				\newpage
 			
 				\subparagraph{Bitbucket\\}
 				Très similaire à GitHub, Bitbucket est un hébergeur de code source libre qui permet à chacun de s’intéresser à des solutions libres.
+				
 
 			\paragraph{Plateforme de promotion de projet}
 
@@ -325,16 +185,28 @@
 				Avec plus de 2000 projets libres sous sa tutelle, Google Open Source est un incubateur des nouveaux projets libres sur le marché.
 				La plateforme est simple, rechercher un projet comme une recherche google, ou attendre la présentation de différents projets et laisser la magie opérer 
 
+				\begin{figure}[h]
+					\center
+					\includegraphics[scale=0.35]{./img/google_os}
+					\caption{Interface de google open source}					
+				\end{figure}
+
 				\subparagraph{Github Explore\\}
-				L'interface prévue pour trouver un projet open source auquel contribuer et offerte par la plateforme de dépot Github.
+				L'interface simplifié pour démarrer et trouver un projet open source auquel contribuer.
+
+				\begin{figure}[h]
+					\center
+					\includegraphics[scale=0.30]{./img/gh_explore_os}
+					\caption{Interface de github explore}					
+				\end{figure}
 
 				\subparagraph{Open source friday\\}
-				Github propose comme date de rendez-vous tout les vendredi pour contribuer chaque semaine à enrichir le logiciel libre pour les curieux et les plus passionnés.
+				Github propose comme date de rendez-vous tout les vendredi pour contribuer chaque semaines à enrichir le logiciel libre pour les curieux et les plus passionnés.
 
 				\subparagraph{24 pull request\\}
 
 				Chaque année pour la période de Noël, 24 Pull Request organise un moment de développement logiciel sur de l'open source avec comme objectif de remercier les éditeurs et leurs projets qui nous aident tant.
-				En 2018, 1364 contributeurs ont participés sur 3321 différents projets open sources.
+				En 2018, \textbf{1364} contributeurs ont participés sur \textbf{3321} différents projets open sources.
 
 				\subparagraph{Code triage\\}
 
@@ -343,6 +215,12 @@
 				\subparagraph{Contributor ninja\\}
 
 				Ici plus qu'un évenement c'est une plateforme avec une interface rapide, pour contribuer très rapidement (tel un ninja!) à n'importe quel projets selon le langage de prédilection du contributeur potentiel.
+
+				\begin{figure}[h]
+					\center
+					\includegraphics[scale=0.30]{./img/ninja_os}
+					\caption{Interface de contributor ninja}					
+				\end{figure}
 
 				\subparagraph{Up for grabs}
 
@@ -358,15 +236,6 @@
 				\subparagraph{First Timers Only}
 
 				On peut être pris au dépourvu lorsque l'on s'aperçoit que l'open source est un monde bien vaste que l'on ignorait. Pour celà, First Timers Only nous donne les clés pour débuter l'aventure dans l'open source en tant que contributeur.
-
-
-			\paragraph{Association du libre\\}
-
-				\subparagraph{Capitole du libre}
-				Association française du code source libre que j’ai eu le plaisir de rencontrer à l’ENSEEIHT, leur chaîne youtube fournit des présentations utiles à ce sujet.
-
-				\subparagraph{April}
-				Une association française qui contribue à l’open source via des campagnes et thèmes de travail autour du sujet.
 		
 		\paragraph{Pour conclure\\}
 
@@ -377,74 +246,188 @@
 	%             Optimisation des ressources			%
 	%       										    %
 	% --------------------------------------------------%
-	\section{Optimisation des ressources} % in progress % Utiliser des livres sur comment monter et créer son logiciels open source et mettre en concordance led élement apporté dans Reflechissez et devenez riche + Oser la confiance
+	\section{Optimisation des ressources} % in progress
 
 		\paragraph{Concept de l'optimisation\\}
 
-	 		Le succès d'un projet open source dépend pour beaucoup de leur code, mais pas uniquement. De leur concept, de leur capacité à faire connaître votre projet, à faire naître une communauté, à piloter une startup aussi, et le cas échéant à convertir leur succès en revenus, qui pourront assurer la pérennité de leur aventure.
+	 		Le succès d'un projet open source dépend pour beaucoup de leur code, mais pas uniquement. De leur concept, de leur capacité à faire connaître le projet, à faire naître une communauté afin d'assurer la pérennité de leur aventure.
+
+		\subsection{Le cerveau collectif}
+			\paragraph{Introduction au cerveau collectif\\}
+
+				A travers l'ouvrage de Napoleon \bsc{Hill}, intitulé \emph{« Réflechissez et devenez riche »}, on retrouve plusieurs fois la notion de cerveau collectif.
+
+				L'élaboration d'un cerveau collectif constitue à regrouper des membres partageant les mêmes intérêt et passions ou du moins complémentaire.
+				Chaque personnes veillent à maintenir un climat de confiance au sein du cerveau collectif.
+				Au sein du cerveau collectif, l'intérêt est que chaque membre possède sa connaissance, son domaine particulier. 
+				Napoleon \bsc{Hill} dans son oeuvre traite de personne instruite. Il définit une personne instruite, tout personne qui sans léser les intérêt d'autrui sait obtenir ce qu'elle veut.
+
+				\subparagraph{Être instruit\\}
+
+					Quand l'on sait que Henry \bsc{Ford} n'est allé à l'école que jusqu'à ses 6 ans. Malgré cela on peut qualifier cet homme d'instruit. Il fût traité de pacifiste ignorant pendant la première guerre mondiale par un journaliste. Afin de prouver son esprit inculte, les avocats des journalistes lui posèrent des questions innatendues sur des sujets variés. Face à tant de colles, celui-ci répondit:
+
+					\begin{quote}
+					« Permettez moi de vous rappeler que j'ai dans mon bureau une rangée de boutons électriques. Il me suffit d'appuyer sur l'un d'eux pour appeler un homme capable de répondre à n'importe quelle question relative à l'affaire dont je m'occupe personnellement(...), pourquoi je devrais avoir la cervelle farcie de culture générale alors que je suis entouré de collaborateur qui suppléent à toute lacune ou défaillance de ma part.»
+					\end{quote}
+
+			L'intérêt de vous partager cela est de vous faire réagir sur ce concept que l'on essaye tant d'inculquer à notre époque. La multi-compétence. A quoi bon souhaiter être bon dans une multitude de domaine, quand l'on peut être excellent voire une référance dans l'un des domaines qui nous siet tant.
+
+			C'est sur ce principe que se base le fondement du cerveau collectif. \textbf{Utiliser le plein pouvoir de la connaissance de personnes} si compétentes dans un domaine qu'il serait une perte de temps de chercher à les égaler.
+			Egalement, je rajouterai que le cerveau collectif se veut complémentaire et que l'intéraction entre les divers membres permet d'aller encore plus loin ensemble mais surtout indépendemment.
+			Ainsi, on peut définir un cerveau collectif par les concepts suivants : \\
+
+			\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
+				\item Avoir un même idéal, but commun et être sur la même longueur d'onde.
+				\item Un climat de confiance règne au sein de l'équipage.
+				\item Chacun sa compétence qu'il améliore au fil du temps.
+				\item Utiliser en collaboration les compétences de chaque membre dans leur domaine afin d'en résulter un plein pouvoir permettant de mener un projet à l'excellence.
+			\end{itemize}
+
+			\begin{quote}
+			 « Si deux esprits travaillent ensemble, ils libèrent une troisième force invisible et intangible qui est semblable à un troisième esprit » - Napoleon \bsc{Hill} - \emph{Réflechissez et devenez riche}
+			\end{quote}
+
+			Imaginez si ce concept s'applique à l'ensemble de la communauté. C'est avec ce principe que nait mon idée d'optimiser la communauté d'un projet open source et le rendre incontournable.
+
+			Le cerveau collectif à déja fait ses preuves pour nombres de personnes. Napoleon Hill décrit le succès du célèbre industriel Andrew \bsc{Carnegie} dont je vous invite à lire sa bibliographie. Il a utilisé le cerveau collectif avec son équipe d'une cinquantaine de personne dans l'industrie de l'acier.
+
+			\paragraph{Application du cerveau collectif au sein de la communauté}
+
+			Bien évidemment avant de pouvoir appliquer ce concept il faut le faire accepter par les membres, qu'ils aient le même esprit de travail, ambition ou qu'ils puissent comprendre et se tourner vers ce mode de pensée.
+
+				\subparagraph{Choisir les membres du cerveau collectif\\}
+
+					Bien choisir son équipe est l'élement prédominant dans tout projet. Je pars du principe que l'on souhaite monter une communauté qui nous aidera à travailler sur notre projet. Il me semble alors essentiel avant de fonder le projet, de rechercher les membres essentiels qui composeront le cerveau collectif qui menera à bien le projet.
+
+					L'idée de démarrer dès que possible son projet est certe une direction tentante pour très vite faire contribuer des membres mais penser dès la conception du projet à monter le coeur du cerveau collectif permet de gagner un temps d'avance sur les étapes futures. Egalement celà renforcera les décision prises afin que le projet se stabilise le plus rapidement possible.
+
+					Alors avant de démarrer sur les chapeaux de roue, prenons le temps dès que l'on souhaite se lancer dans un projet, de trouver et d'impliquer les ressources humaines essentielles nécessaire à la construction de celui-ci. 
+
+				\subparagraph{Choisir un support de communication adapté\\}
+
+					L'outil de communication avec le cerveau collectif sera la principale source d'inspiration, de compte rendu, de retour et d'évolution du projet.
+					Lorsque l'on souhaite se lancer en tant qu'éditeur d'un logiciel open source, il est important de veiller à mettre en place un outil de communication propre et clair sur lequel les décisions seront inscrite durablement.
+					Savoir prendre des décisions précises sur lesquel nous ne revenons pas fait partis des qualités essentielle d'un dirigeant.
+
+					Chaque membre du cerveau collectif est donc responsable des directions qu'il souhaite faire prendre au projet, à l'équipe, à la communauté et l'on attendra de lui qu'il ne devienne pas une girouette car il représente une partie importante du projet.
+
+				\subparagraph{Gestion du cerveau collectif\\}
+
+					Le cerveau collectif est alors composé des membres du coeur du produit, le « noyau » que je détaille dans la partie sur le modèle noyau-extension et de la communauté qui eux constituent les équipes qui gravitent autour du projet et réalisent les extensions.
+
+					Gérer la communauté par domaine de connaissance ou métier permet de catégoriser et focaliser sur les contributions à apporter.
+					Un cerveau collectif central et de multiple cerveaux collectifs qui gravitent autour du noyau permettront de maintenir le cadre d'évolution nécessaire à ce mode de pensée.
+
+				\subparagraph{La communication au coeur de la stratégie\\}
+
+					Et maintenant quoi ? On a un cerveau collectif, on a choisi les membres, on a respecté leur domaines de prédilection, mis en relation ... Mais ou est la stratégie pour développer et déployer notre projet ?
+
+					La gestion de projet inhérente à l'édition d'un logiciel est un standard que je ne développe pas ici (méthodologie agile, gestion d'entreprise) mais l'on pourra compléter ceci avec l'ouvrage « Oser la confiance » comme nous le verrons dans la partie « Eveiller sa communauté » .
 
 		\subsection{Rendre le libre populaire}
 
-			\subsubsection{Pareto revisité}
-			Une étude sur la participation de développeur et le code total rédigé rapporte que si l'on prend un projet ou 200 programmeurs participent, seulement, 10 d'entre eux ont écris 50\% du code.
+			\paragraph{Pareto revisité\\}
+
+				Une étude sur la participation de développeur et le code total rédigé rapporte que si l'on prend un projet ou 200 programmeurs participent, seulement, 10 d'entre eux ont écris 50\% du code. C'est donc la preuve d'un investissement mal répartis généralement dans la programmation logicielle. Il faut donc veiller à \textbf{mettre en place une implication des participant au code} et plus largement au projet.
 
 			\subsubsection{L'enseignement du logiciel libre}
 
-			Comme mentionné dans l'introduction de ce document, le logiciel libre me semble pas suffisemment enseigné. 
+				Comme mentionné dans l'introduction de ce document, le logiciel libre me semble pas suffisemment enseigné.\\
 
-			\textbf{Qu'est-ce que j'entend par enseigner le logiciel libre ?}
+				\textbf{Qu'est-ce que j'entend par enseigner le logiciel libre ?}
 
-			\paragraph{Susciter l'intérer du libre\\}
+				\paragraph{Susciter l'intérer du libre\\}
 
-			Enseigner un logiciel libre par la mise en place d'efforts spécifiques à celui-ci. Ce n'est pas en utilisant sans le savoir de l'open source ou en cherchant spécifiquement à remplacer tout logiciel propriétaire par du libre que l'on enseigne l'open source. Il est nécessaire d'expliquer les mécanismes liés à l'open source, de prendre le temps d'informer sur toute l'importance et ce qui gravite autour de l'open source.\\
-			Ceci afin de permettre à des centaines de programmeur éparpillé sur la planète à coopérer de façon cohérente sur la réalisation des millions de lignes de code.\\
+					Enseigner un logiciel libre par la mise en place d'efforts spécifiques à celui-ci. 
 
-			Celà passe également par la mise en relation des étudiants avec les communautés de développeur.
+					Je retrouve dans le livre blanc «Point de vue sur l'open source » de Smile mon hypothèse concernant le manque d'enseignement de l'open source. Ce n'est pas en utilisant sans le savoir de l'open source ou en cherchant spécifiquement à remplacer tout logiciel propriétaire par du libre que l'on enseigne l'open source. Il est nécessaire d'\textbf{expliquer les mécanismes} liés à l'open source, de prendre le temps d'\textbf{informer sur toute l'importance} de ce qui gravite autour de l'open source.\\
+					Ceci afin de permettre à des centaines de programmeur éparpillé sur la planète à coopérer de façon cohérente sur la réalisation des millions de lignes de code.\\
 
-			\paragraph{Améliorer la recherche sur l'open source\\}
+					Celà passe également, selon moi, par la \textbf{mise en relation des étudiants avec les communautés de développeur}.
 
-			Il est nécessaire d'encourager la recherche qui se développe autour des logiciels libre et fournir des outils nouveaux pour accompagner leur essor.\\
+				\paragraph{Améliorer la recherche sur l'open source\\}
 
-			Les plateformes distribuant l'open source sont à première vue trop réservée à la communauté de développeurs, des « Nerds » qui développent la nuit .
+					Il est nécessaire d'encourager la recherche, comme le souligne Smile dans son livre blanc «Comprendre l'open source», qui se développe autour des logiciels libres et \textbf{fournir des outils nouveaux} pour accompagner leur essor.\\
 
-			\paragraph{Un gisement d'emplois futur\\}
+					Les plateformes distribuant l'open source sont à première vue trop réservée à la communauté de développeurs, des « Nerds » qui développent la nuit.
 
-			Tant par ses valeurs humanistes que par la contribution au patrimoine de l'humanité, l'open source doit être vue comme un bien commun qu'il faut cultiver en commun.\\
+					Des spécificité métier, tant dans le juridique et l'architecture logicielle pourrait se dégager afin de veiller au bon respect du libre.
 
-			Tout autant que l'art qui est exposé dans de nombreux musée que l'on rends accecibles les 1er dimanche du mois gratuitement pour contribuer à la culture de l'homme, l'open source devrait être considéré de même.\\
+				\paragraph{Un gisement d'emplois futur\\}
 
-			Au coeur de l'activité industrielle encore méconnu, l'open source c'est \textbf{4,46 Md d' \euro{}} de \acrshort{ca} en 2017. \textbf{4000 emplois} nets ont été estimée d'ici 2020. La France est le leader Européen de l'open source. Et pourtant, le système éducatif actuel ne perçoit pas ce gisement. 
+					Tant par ses valeurs humanistes que par la contribution au patrimoine de l'humanité, l'open source doit être vue comme un bien commun qu'il faut cultiver en commun.\\
+					
+					Tout autant que l'art qui est exposé dans de nombreux musée que l'on rends accessibles de temps en temps gratuitement pour contribuer à la culture de l'homme, \textbf{l'open source devrait être considéré de même}.\\
 
-		\subsection{Intêret et communauté}
+					Au coeur de l'activité industrielle encore méconnu, l'open source c'est 4,46 Md d' \euro{} de \acrshort{ca} révèle l'enquête du \acrfull{cnll}, en 2017. 4000 emplois nets ont été estimée d'ici 2020. La France est le leader Européen de l'open source. Et pourtant, le système éducatif actuel ne perçoit pas ce gisement. 
 
-		\subsection{Le modèle noyau extension}
+		\subsection{Le modèle noyau-extension, tout un écosystème}
+			
+			 Dans ce schéma de développement, connu pour déployer son activité open source, on distingue le noyau du produit, sous la responsabilité de l'éditeur, et les extensions, réalisées par la communauté.
 
-			Comme précedemment évoqué, il s'agit ici du meilleur schéma de développement connu pour déployer son activité open source. Il s'agit d'identifier et d'offrir noyau logiciel et mettre en place des points d'attaches pour les différentes extensions que l'on souhaiterai apporter.
+				Les principes de séparation sont les suivants:
 
-			On dénote plusieurs avantages à ce modèle d'architecture:
+				\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
+					\item Le noyau doit être d'une grande robustesse, il est certifié par l'éditeur, les contributions externes y sont rares
+					\item L'inferface entre le noyau et les extensions est bien documentée et stable, c'est à dire qu'un changement de version du noyau n'implique pas, du moins le plus souvent, un changement de version des extensions.	
+					\item L'éditeur stimule la réalisation d'extensions, car elles donnent de la valeur à son produit et témoignent aussi de l'existence d'une communauté, en soi un gage de pérennité.
+				\end{itemize}
 
-			\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
-			\item Ne pas faire grossir inutilement un programme en se concentrant sur l'essentiel du business et de sa fonctionnalité.
-			\item Jouer sur l'aspect modulable et simple du logiciel et concurrencer les logiciels propriétaires qui, sous pressions, rajoutent de plus en plus de fonctionnalités sur leur logiciel jusqu'à le rendre trop lourd .
-			\item Déjouer la concurrence sur le marché, car la communauté se concentre sur la création et l' amélioration perpetuelle des extensions. Donnant un coup de neuf tout les jours.
-			\item Eviter de destabiliser son logiciel car les fonctionnalités peuvent être ajouté sous forme de modules.
-			\end{itemize}
+				Ce \textbf{modèle noyau-extensions est celui qui réalise le meilleur point d'équilibre} entre les rôles respectifs de l'éditeur et de la communauté, réunissant la garantie et l'engagement de l'éditeur avec le dynamisme et l'énorme capacité de développement de la communauté.
 
-			Le modèle noyaux-extension permet de tracer cette frontière entre l'éditeur et la communauté tout en s'assurant que la communauté trouve sa place au sein du produit et que chacun puisse répondre à son besoin.
+				\begin{figure}[h]
+					\center
+					\includegraphics[scale=0.60]{./img/noyauextension_os.png}
+					\caption{Représentation du modèle noyau/extension}					
+				\end{figure}
 
-			Pour favoriser la mise en place et le maintient du modèle noyau-extension, l'éditeur met généralement en place une plateforme pour accueillir ces extensions afin d'avoir une meilleur visibilité, classer par popularité, trier selon les besoins et de rendre gloire aux auteurs de ces extensions.
+				Ce modèle d'architecture présente plusieurs avantages:
+
+				\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
+					\item Ne pas faire grossir inutilement un programme en se concentrant sur l'essentiel du business et de sa fonctionnalité.
+					\item Jouer sur l'aspect modulable et simple du logiciel et concurrencer les logiciels propriétaires qui, sous pressions, rajoutent de plus en plus de fonctionnalités sur leur logiciel jusqu'à le rendre trop lourd .
+					\item Déjouer la concurrence sur le marché, car la communauté se concentre sur la création et l' amélioration perpetuelle des extensions. Donnant un coup de neuf tout les jours.
+					\item Eviter de destabiliser son logiciel car les fonctionnalités peuvent être ajouté sous forme de modules.
+				\end{itemize}
+
+				Le modèle noyau-extension permet de tracer cette frontière entre l'éditeur et la communauté tout en s'assurant que la communauté trouve sa place au sein du produit et que chacun puisse répondre à son besoin.
+
+				Pour favoriser la mise en place et le maintient du modèle noyau-extension, l'éditeur peux \textbf{mettre généralement en place une plateforme pour accueillir ces extensions} afin d'avoir une meilleur visibilité, classer par popularité, trier selon les besoins et de rendre gloire aux auteurs de ces extensions.
 			
 		\subsection{Eveiller sa communauté}
 
-			Afin de faire naitre et grandir sa propre communauté autour de son produit open source, il existe déjà quelques points clés ou « best practices » dont il est bon de rappeler:
+			Afin de faire naitre et grandir sa propre communauté autour de son produit open source, il existe déjà quelques points clés souligné dans le livre blanc « comprendre l'open source » de Smile:
 
 			\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
-				\item \textbf{Semer la graine} en mettant en ligne son code source. Être patient vis à vis de l'épanouissement de la communauté qui va prendre racine. Celà ne prendra pas quelques jours mais est un travail de longue halaine.
-				\item Être \textbf{transparent} tant dans son projet et ses orientation que dans la \textbf{gouvernance} du projet.
-				\item Choisir et \textbf{décréter son support d'échange} avec la communauté. Afin de centraliser la communauté sur ses outils.
-				\item Instaurer sa \textbf{politique de l'open source} en proposant un modèle \textbf{noyau-extension}, celui qui fonctionne pour le mieux. Bien préciser quels sont les aspects que l'on veut retrouver dans notre \textbf{vision} open source.
-				\item \textbf{Inspirer des valeurs}: le logiciel que l'on va construire n'a pas de but lucratif ou du moins il est moindre.Ceci aide à construire la communauté plus facilement car elle n'aura pas l'idée qu'on génère de l'argent sur son dos. On aspire à aider, changer le monde. Il faudra trouver l'idée d'\textbf{une mission} que les gens adoptent.
+				\item Semer la graine en mettant en ligne son code source. Être patient vis à vis de l'épanouissement de la communauté qui va prendre racine. Celà ne prendra pas quelques jours mais est un travail de longue halaine.
+				\item Être transparent tant dans son projet et ses orientation que dans la gouvernance du projet.
+				\item Choisir et décréter son support d'échange avec la communauté. Afin de centraliser la communauté sur ses outils.
+				\item Instaurer sa politique de l'open source en proposant un modèle noyau-extension, celui qui fonctionne pour le mieux. Bien préciser quels sont les aspects que l'on veut retrouver dans notre vision open source.
+				\item Inspirer des valeurs: le logiciel que l'on va construire n'a pas de but lucratif ou du moins il est moindre.Ceci aide à construire la communauté plus facilement car elle n'aura pas l'idée qu'on génère de l'argent sur son dos. On aspire à aider, changer le monde. Il faudra trouver l'idée d'une mission que les gens adoptent.
 			\end{itemize}
+
+			Le respect de ces standards permet d'instaurer la communauté au projet. Pour compléter ces bonnes pratiques, j'y ajoute la notion de gestion de la communauté appuyé par les propos tiré du livre « Oser la confiance » qui sont les suivants :
+
+			\paragraph{Les valeurs}
+
+			La mission que doit relever l'éditeur à travers son projet open source n'est pas anodine. Les valeurs qu'elle représente peuvent apporter le comportement idéal attendu des contributeur. Je souhaite donc \textbf{mettre en avant lors de la présentation de son projet, les valeurs représentées}.
+
+			Dans l'ouvrage « Osez la confiance», une entreprise de construction navale est sur la faillite, le nouveau PDG, Bertrand \bsc{Martin} leur indique à défaut de solution qui marche avec un grand succès pour autant qu'elle n'était pas vraiment salvatrice et il témoigne :
+			\begin{quote}
+			\emph{« C'est parce que le personnel le voulait, qu'il avait pu s'approprier le projet, qu'il en comprenait les enjeux, que nous avons opéré avec le maximum d'efficacité»}
+			\end{quote}
+
+			\paragraph{Mettre en confiance}
+
+			Vincent \bsc{Lenhardt} dans son livre nous confie le vrai pouvoir de la confiance, il emplois le mot \emph{empowered} qui définie clairement l'acteur d'un projet à qui l'on attribue toute confiance et dont on apporte toute ressource et aide nécessaire donne alors le meilleur de lui-même.
+
+			Il y a donc une attitude à rechercher chez l'éditeur c'est la confiance en ses contributeurs. \textbf{Apprendre à faire confiance en sa communauté} en leur confiant des tâches essentielles, avec des enjeux dont ils ont pleinement conscience permet de dépasser ses limites pour atteindre les sommets.
+
+			C'est ce qui a permis de relever l'entreprise de chantier naval de Bertrand \bsc{Martin}.
+
+			\paragraph{Donner l'exemple}
+
+			L'éditeur se doit de faire partie des élements contributeurs, se mettre non au dessus mais dans le bocal permet à chacun de se responsabiliser mais également de comprendre que l'on est une force selon le dicton « L'union fait la force». Dans oser la confiance, ce principe est bien détaillé. Vincent \bsc{Lenhardt}, analyse celà en concluant que le pouvoir et l'initiative sera entre le mains des acteurs ce qui les poussera à mettre en oeuvre les décisions. On ne recherche plus forcément la compétence de l'éditeur, ni de donner les solution mais de \textbf{déléguer et faire partie du groupe} afin d'améliorer la responsabilité des acteurs.
 
 	% --------------------------------------------------%
 	%     												%
@@ -453,14 +436,67 @@
 	% --------------------------------------------------%
 	\section{Etude du consommateur} % in progress
 
-		\subsection{Les entreprises adoptent l'open source}
+		\subsection{le choix du consommateur}
 
-			L'open source croît sans cesse et il n'est plus une en,treprise dont une part du système d'information ne soit construit avec des composants et solutions open source. L'open source et partout on retrouve l'expression anglo-saxonne « Open source is going mainstream», l'open source est devenu un standard, une normalité.\\
-			%A retravailler
+			\paragraph{L'activité d'un projet}
 
-			Pour une grande majoritée de clients, de DSI, quelle que soit la taille d'entreprise ou son scteur d'activité, les solution Open source sont désormais pleinement acceptées, et leur bénéfices parfaitement appréciés. C'est énorme. La banalisation ici, est bien une forme de consécration. Chez les prestataires, ce marché à attiré du monde notemment avec les \acrshort{ssii}.\\
+			Afin d'établir un choix de solution pérenne, le consommateur va s'intérroger sur l'historique du projet et les orientations de celui-ci si il provient d'un « \gls{fork} » ou si un fork est fortement probable comme le souligne la société OpenDsi dans son article de blog intitulé « Comment choisir un logiciel libre ou open source ».
+			Il pourra alors s'orienter vers toute sources d'informations disponible : blog, article, forum de discussion et liste de diffusion des activités lié à ce projet. Il peut être également intéressant de faire attention au nombre de contributeur au projet car il peut y avoir certaines incohérences autour d'un projet massivement adopté et le nombre de développeur qui le portent.
 
-			Le catalogue de service lié à l'open source s'aggrandit chaque jour et aide à convaincre les DSI les plus exigentes.
+			\paragraph{La nature des contributions}
+
+			Dans certain domaine, notemment dans celui de l'industrie, un projet open source peut fortement dépendre des contributions d'une entreprise et non d'une communauté. Ceci peut prendre différentes tournures, le projet peut partir vers un modèle propriétaire au bout d'un certain temps. Prendre des décisions qui arrangent l'entreprise en question et qui sera pénalisant pour l'utilisateur final. 
+
+			Ainsi le consommateur sera davantage \textbf{rassuré par le nombre de contributeurs et la diversité de ceux-ci}, signe d'indépendance et de pérennité du projet.
+
+			\paragraph{Les droits inhérents de la licence}
+
+			En fonction du besoin du consommateur comme je vous l'ai présenté à plusieurs reprise, les licences vont permettre la ré-utilisation, la commercialisation et bien d'autres actions au projet. Le choix d'un logiciel open source se fait donc également entre la \textbf{cohérence du besoin et des idées du consommateur et les permissions accordées} à celui-ci.
+
+		\subsection{L'expérience des consommateurs}
+
+			Github a lancé une étude auprès de nombreux dépot de code et de la communauté qui gravite autour. C'est plus de 3800 projets open source et plus de 500 réponses qu'ils ont réussis à obtenir les conclusions suivantes:
+
+			\paragraph{Le retour des consommateurs \\}
+
+				Beaucoup de critiques font rages auprès des consommateurs et « pilleurs » de l'open source car ils laisseraient sans retour les éditeurs. C'est ce que critique l'article « Les logiciels libres meurent lentement sans contributions » de Framasoft, une société éditrice de solution libre. Malgré la liberté prônnée depuis le début, les éditeurs du logiciel libre s'attendent à des retours de la part des consommateurs et utilisateurs finaux. Egalement, les propositions de correction ou d'amélioration sont des retours apréciable du consommateur.
+				Cette contribution permet aux éditeur de progresser et de s'adapter au marché et à la demande.
+				Ainsi il s'agit d'une notion à prendre en compte dans l'optimisation de la communication avec les consommateurs. Il est possible \textbf{d'intégrer un module sur la plateforme de promotion qui facilitera les retours d'informations et critiques à l'éditeur}. 
+
+			\paragraph{Les problèmes rencontrés par les consommateurs\\}
+
+				Les consommateurs recensent de nombreux problèmes que l'on retrouve dans l'open source et qui peuvent être un frein à son utilisation. Lors d'une étude réalisé par github, il ressort que la documentation et le support sont essentiel auprès des consommateurs auquel je suggère de faire principalement attention. 
+
+				\begin{figure}[h]
+					\center
+					\includegraphics[scale=0.50]{./img/pb_os.png}
+					\caption{Problèmes rencontrés dans l'open source par les utilisateurs}
+   					\caption*{\color{silver}Source: opensourcesurvey.org}
+				\end{figure}
+				\clearpage
+
+			\paragraph{Un climat néfaste ?\\}
+
+				Au sein de projet open source du au fait d'une communauté décentralisé, virtuelle et des enjeux, nous pouvons retrouver de nombreuses violences dans les communication entres consommateur et éditeurs. Le \textbf{respect dans la communication et la bienveillance} sont des facteurs essentiels pour la satisfaction client et donc croître le nombre d'utilisateurs.
+
+				\begin{figure}[h]
+					\center
+					\includegraphics[scale=0.50]{./img/ng_behaviour_os.png}
+					\caption{Comportement néfaste dans l'open source}
+   					\caption*{\color{silver}Source: opensourcesurvey.org}
+				\end{figure}
+
+			\paragraph{Ce qui est regardé dans le choix d'un logiciel open source\\}
+
+				Sur les utilisateurs intérrogés, un classement des critère de sélection d'une application a été réalisé. Les premiers regards des consommateurs sont porté sur la stabilité et la sécurité du projet open source. Je préconise ainsi l'\textbf{utilisation d'outils spécialisés pour vérifier, certifier le projet} open source pour rassurer les consommateurs.
+
+				\begin{figure}[h]
+					\center
+					\includegraphics[scale=0.50]{./img/value_soft_os.png}
+					\caption{Ce que les utilisateurs d'open source recherchent dans les logiciels}
+   					\caption*{\color{silver}Source: opensourcesurvey.org}
+				\end{figure}
+
 
 	% --------------------------------------------------%
 	%     												%
@@ -489,11 +525,11 @@
 				\item[Les prestataires: ] Ils vendent des services sur l'open source. Il peut s'agir de conseil, d'intégration, de support, de la formation, des solutions d'hébergement, etc.
 			\end{description}
 
-			Je m'intéresse particulièrement aux éditeurs et aux prestataires de l'open source qui devront mettre en place des solutions pérénisant financièrement leur activité.\\
+			Je m'intéresse particulièrement aux éditeurs de l'open source qui devront mettre en place des solutions pérénisant financièrement leur activité.\\
 
 			Et de la prospérité les éditeurs en ont bien besoin car pour les autres acteurs, la taille, la mission et le produit présenté ne pose plus aucune difficulté de revenu. Doit-on encore se soucier du bon développement de Linux et de sa communauté ? Ces géants de l'open source, association à but non lucratif, ont des moyens marketings (plus de 60\% de leur revenus) et financier bien supérieurs aux éditeurs et prestataires qui restent pour la majorité des petites et moyennes entreprises.
 
-			\textbf{Comment fonctionne donc le modèle économique ou « business model » de ces entreprises ?}\\
+			\emph{Comment fonctionne donc le modèle économique ou « business model » de ces entreprises ?}\\
 
 		\subsection{Chez les éditeurs}
 
@@ -505,130 +541,101 @@
 				\item Vendre des licences
 				\item Vendre du support
 				\item Vendre de l'intégration
-				\item Autres sources de revenus
 			\end{itemize}
 
 			\subsubsection{Vendre des licences}
 
-			Même s'il est interdit de faire payer l'utilisation d'un logiciel open source, les éditeurs ont bien compris commment faire bon usage de la « double licence ».
+				Même s'il est interdit de faire payer l'utilisation d'un logiciel open source, les éditeurs ont bien compris commment faire bon usage de la « double licence ».
 
-			\paragraph{Double licence commerciale\\}
+				\paragraph{Double licence commerciale\\}
 
-			Il est possible de distribuer une oeuvre dérivée utilisant le programme sans diffuser ses sources à l'aide d'une licence commerciale.\\
-			Le programme officiel open source est gratuit mais sa version dérivée elle est payante à travers l'achat de licence commerciale.\\
+					Il est possible de distribuer une œuvre dérivée utilisant le programme sans diffuser ses sources à l'aide d'une licence commerciale.\\
+					Le programme officiel open source est gratuit mais sa version dérivée elle est payante à travers l'achat de licence commerciale.\\
+					Pour l'entreprise MySql par exemple, la vente de licence représente plus de la moitié du \acrfull{ca}.
 
-			Pour l'entreprise MySql, la vente de licence représente plus de la moitié du \acrfull{ca}. Pour d'autre, ce n'est pas une source de revenu suffisante car leur finalité est de faire un \textit{site} et non \textit{un produit}.
+				\paragraph{Les extension payantes\\}
 
-			\paragraph{Les extension payantes\\}
+					L'éditeur peut proposer des extensions aux fonctionnalités présente dans le logiciel open source. Le logiciel initial est suffisemment de qualité et donne envie de payer quelques extension \textit{optionnelles} supplémentaire pour le confort et le besoin de l'utilisateur.
 
-			L'éditeur peut proposer des extensions aux fonctionnalités présente dans le logiciel open source. Le logiciel initial est suffisemment de qualité et donne envie de payer quelques extension \textit{optionnelles} supplémentaire pour le confort et le besoin de l'utilisateur.
+				\paragraph{Un support uniquement sur licence commerciale\\}
 
-			\paragraph{Un support uniquement sur licence commerciale\\}
-
-			Ici aussi, le logiciel est sous licence open source mais si l'on désire avoir le moindre support dessus, il faudra se tourner vers son confrère et sa licence commerciale.
+					Ici aussi, le logiciel est sous licence open source mais si l'on désire avoir le moindre support dessus, il faudra se tourner vers son confrère et sa licence commerciale.
 
 			\subsubsection{Vendre du support}
 
-			La prestation de support est une source principale de revenu pour l'éditeur, même s'il doit pour celà faire face à la concurrence potentielle de prestataires tiers que je précise juste après.
+				La prestation de support est une source principale de revenu pour l'éditeur, même s'il doit pour celà faire face à la concurrence potentielle de prestataires tiers que je précise juste après.
 
-			Le support d'un logiciel inclut généralement :
+				Le support d'un logiciel inclut généralement :
 
-			\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
-				\item L'accès privilégié aux correctif et ressources spécifique
-				\item Une prise en chage des problèmes (anomalies, utilisation, mise en oeuvre ...)
-				\item Des prestation d'audit, de certification, ou de prise de contrôle à distance, ainsi que la surveillance proactive et les corrections.
-			\end{itemize}
+				\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
+					\item L'accès privilégié aux correctif et ressources spécifique
+					\item Une prise en chage des problèmes (anomalies, utilisation, mise en oeuvre ...)
+					\item Des prestation d'audit, de certification, ou de prise de contrôle à distance, ainsi que la surveillance proactive et les corrections.
+				\end{itemize}
 
-			On peux distinguer différent modèles de financement concernant la vente de support:
+				On peux distinguer différent modèles de financement concernant la vente de support:
 
-			\paragraph{Uniquement le support\\}
+				\paragraph{Uniquement le support\\}
 
-			Certains éditeurs misent uniquement sur la vente de support. Le logiciel est gratuit mais le support lui est payant. Ce modèle de financement fonctionne pour certaines entreprises comme Tiny(OpenERP), Nuxeo.\\
+					Certains éditeurs misent uniquement sur la vente de support. Le logiciel est gratuit mais le support lui est payant. Ce modèle de financement fonctionne pour certaines entreprises comme Tiny(OpenERP), Nuxeo.\\
 
-			Le problème est qu'en cas ou le support n'a pas été utile l'année souscrite pour cause de stabilité du logiciel, le client voudra surement le résilier pour la suite.\\
+					Le problème est qu'en cas ou le support n'a pas été utile l'année souscrite pour cause de stabilité du logiciel, le client voudra surement le résilier pour la suite.\\
 
-			Plus le produit est de qualité, moins le support est facile à vendre car le client rencontre moins de difficultés.\\
+					Plus le produit est de qualité, moins le support est facile à vendre car le client rencontre moins de difficultés.\\
 
-			L'avantage est que plus on avance dans la technologie et plus la concurrence est présente on doit donc sortir des nouveautés constemment ce qui fragilise le produit et le rend instable.Le support est donc précieux dans le cadre professionnel.
+					L'avantage est que plus on avance dans la technologie et plus la concurrence est présente on doit donc sortir des nouveautés constemment ce qui fragilise le produit et le rend instable.Le support est donc précieux dans le cadre professionnel.
 
-			\paragraph{Faire payer la stabilité\\}
+				\paragraph{Faire payer la stabilité\\}
 
-			Pour d'autre éditeurs, la stabilité d'un logiciel peut devenir source de profit. L'idée est de proposer deux logiciel:\\
+					Pour d'autre éditeurs, la stabilité d'un logiciel peut devenir source de profit. L'idée est de proposer deux logiciel:\\
 
-			\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
-				\item Celui en licence open source sera classifié de « community edition ». Il sera présenté comme instable, pas entièrement testé, à ne pas déployer en production
-				\item Tandis que le logiciel sous licence non-libre sera la licence sécurisée, une version « enterprise-ready », « fully tested ».
-			\end{itemize} 
+					\begin{itemize}[label=\textbullet, font=\LARGE \color{burntorange}]
+						\item Celui en licence open source sera classifié de « community edition ». Il sera présenté comme instable, pas entièrement testé, à ne pas déployer en production
+						\item Tandis que le logiciel sous licence non-libre sera la licence sécurisée, une version « enterprise-ready », « fully tested ».
+					\end{itemize} 
 
-			Au final, la version community, c'est celle en cours de développement donc en avance de phase alors que la version entreprise c'est celle qui a été \textit{gelée} dans un état dit \textit{« stable »}.\\
+					Au final, la version community, c'est celle en cours de développement donc en avance de phase alors que la version entreprise c'est celle qui a été \textit{gelée} dans un état dit \textit{« stable »}.\\
 
-			L'éditeur peut alors diffuser et promouvoir son produit à travers la version community, et apâter les entreprises dans la version payante ou généralement le support est packagé avec.\\
+					L'éditeur peut alors diffuser et promouvoir son produit à travers la version community, et apâter les entreprises dans la version payante ou généralement le support est packagé avec.\\
 
-			L'éditeur jongle sur la stabilité de la version community en la rendant suffisamment stable pour donner envie de l'utiliser mais inciter fortement les entreprises à prendre la version sous licence commerciale qui sera accompagnée du support.
+					L'éditeur jongle sur la stabilité de la version community en la rendant suffisamment stable pour donner envie de l'utiliser mais inciter fortement les entreprises à prendre la version sous licence commerciale qui sera accompagnée du support.
 
-			\paragraph{Fonctionnalités avancées\\}
+				\paragraph{Fonctionnalités avancées\\}
 
-			Pour l'éditeur, un autre business model et celui de la fonctionnalitée avancée.\\
-			La version community et enterprise n'est pas différente d'un point de vue stabilité mais ce sont les fonctionnalitées présente qui sont réduites sur la version community.\\
+					Pour l'éditeur, un autre business model et celui de la fonctionnalitée avancée.\\
+					La version community et enterprise n'est pas différente d'un point de vue stabilité mais ce sont les fonctionnalitées présente qui sont réduites sur la version community.\\
 
-			Ceci permet de se dégager du paradigme « libre = instable » totalement infondé.\\
+					Ceci permet de se dégager du paradigme « libre = instable » totalement infondé.\\
 
-			La difficulté pour l'éditeur va être d'avoir suffisemment de fonctionnalitées pour rendre la version libre intéressante mais d'avoir une forte valeur ajoutée sur les fonctionnalités dans la version payante.
+					La difficulté pour l'éditeur va être d'avoir suffisemment de fonctionnalitées pour rendre la version libre intéressante mais d'avoir une forte valeur ajoutée sur les fonctionnalités dans la version payante.
 
 			\subsubsection{Vendre de l'intégration}
 
-			Pour les éditeurs qui ne sont pas mondialement connu, il est possible de trouver la rentabilité en proposant l'intégration de son produit open source. C'est un moyen de démarrer dans le milieu sans trop de risque mais qui n'est pas « \gls{scalable} ». On ne peux s'étendre à l'étranger si l'on est le concurrent direct de ses intégrateurs partenaires. On reste donc sur un marché réduit.
+				Pour les éditeurs qui ne sont pas mondialement connu, il est possible de trouver la rentabilité en proposant l'intégration de son produit open source. C'est un moyen de démarrer dans le milieu sans trop de risque mais qui n'est pas « \gls{scalable} ». On ne peux s'étendre à l'étranger si l'on est le concurrent direct de ses intégrateurs partenaires. On reste donc sur un marché réduit.
 
 			\subsubsection{Autres sources de revenus}
 
-			\paragraph{Les campagnes de crowdfunding\\}
+				\paragraph{Les campagnes de crowdfunding\\}
 
-				En Mai 2019, la plateforme d'hébergement de logiciel Github, que nous détaillerons plus tard, propose un programme de sponsoring et de crowdfunding.
+					En Mai 2019, la plateforme d'hébergement de logiciel Github, propose un programme de sponsoring et de crowdfunding.
 
-			\paragraph{Vendre des extensions\\}
+				\paragraph{Vendre des extensions\\}
 
-				Selon le modèle noyau-extension, nombre d'éditeur open source on trouvé leur part de marché dans la vente des extensions. Bien que réalisées généralement par la communauté, l'éditeur peut considérer la vente des extensions réalisées afin de rémunérer les contributeurs mais prélève un montant sur la vente d'extensions. De cette manière, l'éditeur de la solution open source Magento pour le e-commerce, prélève 30\% du prix de vente des extensions à la manière de l'Apple Store.
-			
-		\subsection{Chez les prestataires}
-
-			Pour les prestataires de l'open source, le business model est basé sur la vente de prestation et d'expertise sur les produit.
-
-				\paragraph{La naissance des \acrfull{ssll}\\}
-
-				L'une des activité du prestataire est la gestion du support de solution open source. Il existe une telle diversité de composant open source qu'il est difficile pour un prestataire unique de se concentrer sur le support dudit logiciel.\\
-
-				Dans certains cas, la prestation est demandé par l'éditeur. Dans d'autre, c'est un prestataire tiers qui assurera du support, sans doute moins légitime et moins expert que l'éditeur lui-même mais aussi moins chère.\\
-
-				Ainsi est né en France le concept de \acrshort{ssll}, une société qui propose d'assurer le déploiement et le support de configuration multi-produits à base d'open source.\\
-
-				Un peu plus tard les \acrfull{ssii} généralistes prennent partis en ouvrant des centre de support open source.
-
-				\paragraph{Intégrer des solutions open sources\\}
-
-				Le principe de ce modèle est de construire une application globale, un système d'information, en assemblant des logiciels open sources.\\
-
-				Il faudra donc également assurer le support de ces créations.\\
-				La valeur ajoutée ici est dans le choix des solutions à intégrer. 
-
-				Il y a tellement de possibilité de solution dans l'open source qu'il est nécessaire d'étudier correctement le marché en fesant les bons choix. Ceci passe par une action de veille permanente sur les solutions disponible, afin de déceler les opportunité et produits prometteur pour avoir la création la plus solide et pérenne possible.
+					Selon le modèle noyau-extension, nombre d'éditeur open source on trouvé leur part de marché dans la vente des extensions. Bien que réalisées généralement par la communauté, l'éditeur peut considérer la vente des extensions réalisées afin de rémunérer les contributeurs mais prélève un montant sur la vente d'extensions. De cette manière, l'éditeur de la solution open source Magento pour le e-commerce, prélève 30\% du prix de vente des extensions à la manière de l'Apple Store.
 
 		\subsection{Communication par ses atouts}
 
-			En guise de communication, l'open source n'a pas tant besoin de budget marketing. En effet il puise sa force là ou il a pris racine, c'eest à dire dans sa communauté. Nul besoin de mettre de faux posts et avis sur touts les blogs du net, la vérité et la promotion de l'open source se fait principalement par la communauté.
+			En guise de communication, l'open source n'a pas tant besoin de budget marketing. En effet il puise sa force là ou il a pris racine, c'est à dire dans sa communauté. Nul besoin de mettre de faux posts et avis sur touts les blogs du net, la vérité et la promotion de l'open source se fait principalement par la communauté.
 
 			Le caractère open source permet en général de diffuser bien plus rapidement son produit.
 
 			La communauté utilise donc tout support moderne de communication pour diffuser, twitter, poster ces informations
 
-			Ainsi malgré le marketing ordinaire (campagne publicitaires, affiches, buzz-marketing ...) que ne peuvent se permettrent bon nombre d'éditeur, ils peuvent espérer que le marketing moderne 2.0, qui est la force et le fondement de l'open source, prenne la relève.
+			Ainsi malgré le marketing ordinaire (campagne publicitaires, affiches, buzz-marketing ...) que ne peuvent se permettrent bon nombre d'éditeur, l'éditeur se doit d'\textbf{utiliser le marketing moderne 2.0}, qui est la force et le fondement de l'open source, pour prendre la relève.
 
+	\paragraph{Les éléments clés à retenir}
 
-
-
-
-
-
-
-
-
+		Afin de valoriser l'open source, nous pouvons utiliser différents leviers. 
+		Autour de la communication, l'importance d'avoir un support clair de présentation, de documentation et de communication à l'aide d'outils efficaces.
+		Dans l'organisation et la structuration du projet, il est important de veiller à ce que les parties prenantes constructrices du projet s'épanouissent dans leur domaine afin d'apporter la meilleure pierre à l'édifice. Côté management dans l'open source, l'intérêt est de se rapprocher de la communauté, lui faire confiance pour décider ensemble de l'avenir du projet par des méthodes de management horizontale en se mettant au même niveau que le groupe. Auprès du consommateur il faut noter l'importance d'écoute du besoin et de l'adaptation du projet à celui-ci, c'est le consommateur qui sollicite ensuite les principales sources de revenus comme le support logiciel.
 

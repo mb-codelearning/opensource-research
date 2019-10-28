@@ -22,6 +22,14 @@
 
 \definecolor{witchhaze}{RGB}{255, 246, 143}
 \definecolor{burntorange}{RGB}{211, 84, 0}
+\definecolor{silver}{RGB}{131, 135, 138}
+
+
+\newglossaryentry{oeuvres derivees}
+{
+        name=Œuvres dérivées,
+        description={Est considéré comme oeuvres dérivées, tout programme A qui en modifiant quelques lignes de code donne un programme B ou un programme A qui appelle les fonctions d'un programme B de sorte que l'un ne puisse pas être pleinement utile sans l'autre}
+}
 \newglossaryentry{latex}
 {
         name=Latex,
@@ -34,7 +42,6 @@ scientific documents}
 		description={La désignation open source, ou « code source ouvert », s'applique aux logiciels (et s'étend maintenant aux œuvres de l'esprit) dont la licence respecte des critères précisément établis par l'\acrfull{osi}, c'est-à-dire les possibilités de libre redistribution, d'accès au code source et de création de travaux dérivés
 	}
 }
-
 \newglossaryentry{Creative Commons}
 {
 	name=Creative Commons,
@@ -42,7 +49,6 @@ scientific documents}
 		https://creativecommons.org/licenses/by-nd/2.0
 	}
 }
-
 \newglossaryentry{framework}
 {
 	name=Framework,
@@ -51,7 +57,6 @@ scientific documents}
 		Un framework est conçu en vue d'aider les programmeurs dans leur travail. L'organisation du framework vise la productivité maximale du programmeur qui va l'utiliser.
 	}
 }
-
 \newglossaryentry{apache}
 {
 	name=Apache,
@@ -59,7 +64,6 @@ scientific documents}
 		L'Apache Software Foundation (ASF) est une organisation à but non lucratif qui développe des logiciels open source sous la licence Apache, dont le renommé serveur web Apache HTTP Server. Elle a été créée en juin 1999 dans le Delaware aux États-Unis.
 	}
 }
-
 \newglossaryentry{scalable}
 {
 	name=Scalable,
@@ -67,7 +71,6 @@ scientific documents}
 		La faculté d'un logiciel à évoluer dans le temps pérennement en augmentant ses revenus sans avoir à augmenter les effectifs, et donc les coûts.
 	}
 }
-
 \newglossaryentry{web 3.0}
 {
 	name=Web 3.0,
@@ -82,6 +85,16 @@ scientific documents}
 		A l'image de la conteneurisation qui désigne le terme de transporter la marchandise par des conteneur, dans le domaine du logiciel, il s'agit d'un procédé permettant d'éxécuter des applications dans une zone isolée appelée conteneur.L'application stocke les données dans le conteneur et celui-ci se connecte au noyau d'un système d'exploitation. Il n'est pas nécessaire d'installer un nouveau système d'exploitation car un seul est définis comme la base qui possède l'ensemble des conteneurs. 
 	}
 }
+
+\newglossaryentry{fork}
+{
+	name=Fork,
+	description={
+	Un fork (terme anglais signifiant « fourche », « bifurcation », « embranchement ») est un nouveau logiciel créé à partir du code source d'un logiciel existant lorsque les droits accordés par les auteurs le permettent : ils doivent autoriser l'utilisation, la modification et la redistribution du code source.
+	}
+}
+
+
 \newacronym{osi}{OSI}{Open Source Initiative}
 \newacronym{floss}{FLOSS}{Free/Libre and Open Source Software}
 \newacronym{fsf}{FSF}{Free Software Foundation}
@@ -92,6 +105,7 @@ scientific documents}
 \newacronym{ssll}{SSLL}{Sociétés de Service en Logiciel Libre}
 \newacronym{ssii}{SSII}{Sociétés de Service en Ingénierie Informatique}
 \newacronym{iot}{IOT}{Internet of Things}
+\newacronym{cnll}{CNLL}{Conseil National du Logiciel Libre}
 
 
 
@@ -106,14 +120,16 @@ scientific documents}
 \listoffigures
 \printnoidxglossaries
 \printglossary[type=\acronymtype]
+\noappendicestocpagenum
 
-%\include{tex/preface}
-%\include{tex/abstract}
-%\include{tex/introduction}
+\include{tex/preface}
+\include{tex/abstract}
+\include{tex/introduction}
 \include{tex/etatdelart}
-%\include{tex/etudeterrain}
-%\include{tex/confrontation}
-%\include{tex/transposition}
-%\include{tex/conclusion}
+\include{tex/etudeterrain}
+\include{tex/confrontation}
+\include{tex/transposition}
+\include{tex/conclusion}
+\include{tex/annexes}
 
 \end{document}
