@@ -364,6 +364,12 @@ INPUT ./img/value_soft_os.png
 OUTPUT tex/etudeterrain.aux
 INPUT tex/etudeterrain.tex
 INPUT tex/etudeterrain.tex
+INPUT ./img/a6.png
+INPUT ./img/a6.png
+INPUT ./img/a6.png
+INPUT ./img/a5.png
+INPUT ./img/a5.png
+INPUT ./img/a5.png
 OUTPUT tex/confrontation.aux
 INPUT tex/confrontation.tex
 INPUT tex/confrontation.tex
