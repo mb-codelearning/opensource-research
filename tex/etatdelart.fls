@@ -1,0 +1,13 @@
+PWD /Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex
+INPUT /usr/local/texlive/2018/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/etatdelart.tex
+OUTPUT /Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/etatdelart.log
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+OUTPUT /Users/matthieubalondrade/Documents/MSI/Thèse/opensource-research/tex/etatdelart.pdf
+INPUT /usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
