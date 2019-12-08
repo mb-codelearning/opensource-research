@@ -1,6 +1,6 @@
 # Opensource-research
 
-This is an opensource research (exclusively documents) on Open source about : "How to enhance, as a publisher, the value of open source and make it the preferred solution for consumers ?"
+This is an opensource research in french (exclusively documents) on Open source about : "How to enhance, as a publisher, the value of open source and make it the preferred solution for consumers ?"
 
 ## Authors
 
