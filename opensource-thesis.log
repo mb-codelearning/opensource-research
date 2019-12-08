@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2019.11.27)  4 DEC 2019 18:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2019.11.27)  8 DEC 2019 07:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -812,7 +812,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.121 ...e {chapter}{Appendices}{38}{section*.106}
+l.123 ...mberline {4}Confrontation}{42}{chapter.4}
                                                   % [1])
 \tf@toc=\write4
 \openout4 = `opensource-thesis.toc'.
@@ -840,7 +840,7 @@ No file opensource-thesis.acr.
 \openout2 = `tex/preface.aux'.
 
  (./tex/preface.tex
-<confidentialite.pdf, id=262, 597.50786pt x 845.04686pt>
+<confidentialite.pdf, id=301, 597.50786pt x 845.04686pt>
 File: confidentialite.pdf Graphic file (type pdf)
 <use confidentialite.pdf>
 Package pdftex.def Info: confidentialite.pdf  used on input line 3.
@@ -849,7 +849,7 @@ File: confidentialite.pdf Graphic file (type pdf)
 <use confidentialite.pdf>
 Package pdftex.def Info: confidentialite.pdf  used on input line 3.
 (pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
-<confidentialite.pdf, id=265, page=1, 597.50786pt x 845.04686pt>
+<confidentialite.pdf, id=304, page=1, 597.50786pt x 845.04686pt>
 File: confidentialite.pdf Graphic file (type pdf)
 <use confidentialite.pdf, page 1>
 Package pdftex.def Info: confidentialite.pdf , page1 used on input line 3.
@@ -913,12 +913,12 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <17.28> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 61.
  [10]
-<./img/Barreer_os.png, id=330, 453.695pt x 292.09125pt>
+<./img/Barreer_os.png, id=369, 453.695pt x 292.09125pt>
 File: ./img/Barreer_os.png Graphic file (type png)
 <use ./img/Barreer_os.png>
 Package pdftex.def Info: ./img/Barreer_os.png  used on input line 80.
 (pdftex.def)             Requested size: 317.58434pt x 204.46246pt.
-<./img/osinentreprise.png, id=332, 627.34375pt x 282.05376pt>
+<./img/osinentreprise.png, id=371, 627.34375pt x 282.05376pt>
 File: ./img/osinentreprise.png Graphic file (type png)
 <use ./img/osinentreprise.png>
 Package pdftex.def Info: ./img/osinentreprise.png  used on input line 93.
@@ -1000,18 +1000,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 122--123
  []
 
 [17]
-<./img/gh_os.png, id=398, 1445.4pt x 823.075pt>
+<./img/gh_os.png, id=437, 1445.4pt x 823.075pt>
 File: ./img/gh_os.png Graphic file (type png)
 <use ./img/gh_os.png>
 Package pdftex.def Info: ./img/gh_os.png  used on input line 170.
 (pdftex.def)             Requested size: 404.70924pt x 230.45943pt.
  [18 <./img/gh_os.png>]
-<./img/google_os.png, id=406, 839.135pt x 698.61pt>
+<./img/google_os.png, id=445, 839.135pt x 698.61pt>
 File: ./img/google_os.png Graphic file (type png)
 <use ./img/google_os.png>
 Package pdftex.def Info: ./img/google_os.png  used on input line 188.
 (pdftex.def)             Requested size: 293.70164pt x 244.51715pt.
-<./img/gh_explore_os.png, id=407, 1445.4pt x 823.075pt>
+<./img/gh_explore_os.png, id=446, 1445.4pt x 823.075pt>
 File: ./img/gh_explore_os.png Graphic file (type png)
 <use ./img/gh_explore_os.png>
 Package pdftex.def Info: ./img/gh_explore_os.png  used on input line 197.
@@ -1020,7 +1020,7 @@ Package pdftex.def Info: ./img/gh_explore_os.png  used on input line 197.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./img/ninja_os.png, id=408, 1445.4pt x 823.075pt>
+<./img/ninja_os.png, id=447, 1445.4pt x 823.075pt>
 File: ./img/ninja_os.png Graphic file (type png)
 <use ./img/ninja_os.png>
 Package pdftex.def Info: ./img/ninja_os.png  used on input line 219.
@@ -1059,13 +1059,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 358--359
  []
 
 [23]
-<./img/noyauextension_os.png, id=459, 685.56125pt x 390.45876pt>
+<./img/noyauextension_os.png, id=498, 685.56125pt x 390.45876pt>
 File: ./img/noyauextension_os.png Graphic file (type png)
 <use ./img/noyauextension_os.png>
 Package pdftex.def Info: ./img/noyauextension_os.png  used on input line 378.
 (pdftex.def)             Requested size: 411.33992pt x 234.27705pt.
  [24 <./img/noyauextension_os.png>] [25]
-<./img/pb_os.png, id=473, 1064.97874pt x 372.39125pt>
+<./img/pb_os.png, id=512, 1064.97874pt x 372.39125pt>
 File: ./img/pb_os.png Graphic file (type png)
 <use ./img/pb_os.png>
 Package pdftex.def Info: ./img/pb_os.png  used on input line 470.
@@ -1076,12 +1076,12 @@ Overfull \hbox (48.7912pt too wide) in paragraph at lines 470--471
  []
 
 [26 <./img/pb_os.png>]
-<./img/ng_behaviour_os.png, id=483, 934.49126pt x 417.56pt>
+<./img/ng_behaviour_os.png, id=522, 934.49126pt x 417.56pt>
 File: ./img/ng_behaviour_os.png Graphic file (type png)
 <use ./img/ng_behaviour_os.png>
 Package pdftex.def Info: ./img/ng_behaviour_os.png  used on input line 482.
 (pdftex.def)             Requested size: 467.24449pt x 208.77948pt.
-<./img/value_soft_os.png, id=484, 1018.80624pt x 402.50375pt>
+<./img/value_soft_os.png, id=523, 1018.80624pt x 402.50375pt>
 File: ./img/value_soft_os.png Graphic file (type png)
 <use ./img/value_soft_os.png>
 Package pdftex.def Info: ./img/value_soft_os.png  used on input line 493.
@@ -1148,31 +1148,76 @@ Underfull \hbox (badness 10000) in paragraph at lines 606--607
 
  (./tex/etudeterrain.tex
 Chapitre 3.
+<./img/a9.png, id=564, 604.2575pt x 1361.085pt>
+File: ./img/a9.png Graphic file (type png)
+<use ./img/a9.png>
+Package pdftex.def Info: ./img/a9.png  used on input line 17.
+(pdftex.def)             Requested size: 169.19095pt x 381.10121pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 [32
 
 
 
 ]
-<./img/a6.png, id=528, 616.3025pt x 917.4275pt>
-File: ./img/a6.png Graphic file (type png)
-<use ./img/a6.png>
-Package pdftex.def Info: ./img/a6.png  used on input line 38.
-(pdftex.def)             Requested size: 172.56352pt x 256.87794pt.
-<./img/a5.png, id=529, 584.1825pt x 973.6375pt>
-File: ./img/a5.png Graphic file (type png)
-<use ./img/a5.png>
-Package pdftex.def Info: ./img/a5.png  used on input line 46.
-(pdftex.def)             Requested size: 163.56998pt x 272.61664pt.
+<./img/a92.png, id=569, 608.2725pt x 1369.115pt>
+File: ./img/a92.png Graphic file (type png)
+<use ./img/a92.png>
+Package pdftex.def Info: ./img/a92.png  used on input line 49.
+(pdftex.def)             Requested size: 170.31514pt x 383.3496pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [33 <./img/a6.png>] [34 <./img/a5.png>]
+[33 <./img/a9.png>] [34 <./img/a92.png>]
+<./img/a4.png, id=580, 296.10625pt x 408.52625pt>
+File: ./img/a4.png Graphic file (type png)
+<use ./img/a4.png>
+Package pdftex.def Info: ./img/a4.png  used on input line 82.
+(pdftex.def)             Requested size: 171.74173pt x 236.94539pt.
+ [35 <./img/a4.png>]
+<./img/a1.png, id=587, 301.125pt x 493.845pt>
+File: ./img/a1.png Graphic file (type png)
+<use ./img/a1.png>
+Package pdftex.def Info: ./img/a1.png  used on input line 100.
+(pdftex.def)             Requested size: 174.6526pt x 286.43028pt.
+ [36 <./img/a1.png>]
+<./img/a7.png, id=593, 302.12875pt x 569.12625pt>
+File: ./img/a7.png Graphic file (type png)
+<use ./img/a7.png>
+Package pdftex.def Info: ./img/a7.png  used on input line 125.
+(pdftex.def)             Requested size: 175.23479pt x 330.09346pt.
+ [37 <./img/a7.png>]
+<./img/a11.png, id=599, 305.14pt x 473.77pt>
+File: ./img/a11.png Graphic file (type png)
+<use ./img/a11.png>
+Package pdftex.def Info: ./img/a11.png  used on input line 137.
+(pdftex.def)             Requested size: 176.98131pt x 274.78679pt.
+ [38 <./img/a11.png>]
+<./img/a3.png, id=605, 600.2425pt x 1035.87pt>
+File: ./img/a3.png Graphic file (type png)
+<use ./img/a3.png>
+Package pdftex.def Info: ./img/a3.png  used on input line 151.
+(pdftex.def)             Requested size: 168.06674pt x 290.04161pt.
+ [39 <./img/a3.png>]
+<./img/a6.png, id=611, 616.3025pt x 917.4275pt>
+File: ./img/a6.png Graphic file (type png)
+<use ./img/a6.png>
+Package pdftex.def Info: ./img/a6.png  used on input line 163.
+(pdftex.def)             Requested size: 172.56352pt x 256.87794pt.
+ [40 <./img/a6.png>]
+<./img/a5.png, id=617, 584.1825pt x 973.6375pt>
+File: ./img/a5.png Graphic file (type png)
+<use ./img/a5.png>
+Package pdftex.def Info: ./img/a5.png  used on input line 177.
+(pdftex.def)             Requested size: 163.56998pt x 272.61664pt.
+) [41 <./img/a5.png>]
 \openout2 = `tex/confrontation.aux'.
 
  (./tex/confrontation.tex
 Chapitre 4.
-) [35
+) [42
 
 
 
@@ -1181,7 +1226,7 @@ Chapitre 4.
 
  (./tex/transposition.tex
 Chapitre 5.
-) [36
+) [43
 
 
 
@@ -1190,24 +1235,24 @@ Chapitre 5.
 
  (./tex/conclusion.tex
 Chapitre 6.
-) [37
+) [44
 
 
 
 ]
 \openout2 = `tex/annexes.aux'.
 
- (./tex/annexes.tex [38
+ (./tex/annexes.tex [45
 
 
 
 ]
-<./img/Domain_os.png, id=558, 608.2725pt x 741.77126pt>
+<./img/Domain_os.png, id=640, 608.2725pt x 741.77126pt>
 File: ./img/Domain_os.png Graphic file (type png)
 <use ./img/Domain_os.png>
 Package pdftex.def Info: ./img/Domain_os.png  used on input line 8.
 (pdftex.def)             Requested size: 395.37245pt x 482.14561pt.
-<./img/Use_os.png, id=559, 608.2725pt x 742.775pt>
+<./img/Use_os.png, id=641, 608.2725pt x 742.775pt>
 File: ./img/Use_os.png Graphic file (type png)
 <use ./img/Use_os.png>
 Package pdftex.def Info: ./img/Use_os.png  used on input line 15.
@@ -1216,15 +1261,15 @@ Package pdftex.def Info: ./img/Use_os.png  used on input line 15.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[39
+[46
 
- <./img/Domain_os.png>] [40 <./img/Use_os.png>]
-<./img/f1.png, id=571, 1959.32pt x 1563.8425pt>
+ <./img/Domain_os.png>] [47 <./img/Use_os.png>]
+<./img/f1.png, id=654, 1959.32pt x 1563.8425pt>
 File: ./img/f1.png Graphic file (type png)
 <use ./img/f1.png>
 Package pdftex.def Info: ./img/f1.png  used on input line 23.
 (pdftex.def)             Requested size: 489.82881pt x 390.95967pt.
-<./img/f2.png, id=572, 2009.5075pt x 491.8375pt>
+<./img/f2.png, id=655, 2009.5075pt x 491.8375pt>
 File: ./img/f2.png Graphic file (type png)
 <use ./img/f2.png>
 Package pdftex.def Info: ./img/f2.png  used on input line 24.
@@ -1239,12 +1284,12 @@ Overfull \hbox (18.67879pt too wide) in paragraph at lines 23--25
 [] 
  []
 
-<./img/f3.png, id=573, 1913.1475pt x 1310.8975pt>
+<./img/f3.png, id=656, 1913.1475pt x 1310.8975pt>
 File: ./img/f3.png Graphic file (type png)
 <use ./img/f3.png>
 Package pdftex.def Info: ./img/f3.png  used on input line 27.
 (pdftex.def)             Requested size: 478.2857pt x 327.72357pt.
-<./img/f4.png, id=574, 1955.305pt x 1204.5pt>
+<./img/f4.png, id=657, 1955.305pt x 1204.5pt>
 File: ./img/f4.png Graphic file (type png)
 <use ./img/f4.png>
 Package pdftex.def Info: ./img/f4.png  used on input line 28.
@@ -1259,17 +1304,17 @@ Overfull \hbox (5.12819pt too wide) in paragraph at lines 27--29
 [] 
  []
 
-<./img/f5.png, id=575, 1917.1625pt x 1242.6425pt>
+<./img/f5.png, id=658, 1917.1625pt x 1242.6425pt>
 File: ./img/f5.png Graphic file (type png)
 <use ./img/f5.png>
 Package pdftex.def Info: ./img/f5.png  used on input line 31.
 (pdftex.def)             Requested size: 479.28946pt x 310.65987pt.
-[41
+[48
 
- <./img/f1.png> <./img/f2.png>] [42 <./img/f3.png> <./img/f4.png>] [43 <./img/f
-5.png>] [44
+ <./img/f1.png> <./img/f2.png>] [49 <./img/f3.png> <./img/f4.png>] [50 <./img/f
+5.png>] [51
 
-]) [45]
+]) [52]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 143.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
  (./opensource-thesis.aux (./tex/preface.aux)
@@ -1279,13 +1324,13 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 143.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 143.
 Package rerunfilecheck Info: File `opensource-thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 88555614EA9D2F9F122B7495A82DB739;2691.
+(rerunfilecheck)             Checksum: E66B9303A0B330CC6E954AEEDD806158;3117.
  ) 
 Here is how much of TeX's memory you used:
- 19016 strings out of 492609
- 309489 string characters out of 6131461
- 486905 words of memory out of 5000000
- 22325 multiletter control sequences out of 15000+600000
+ 19075 strings out of 492609
+ 310355 string characters out of 6131461
+ 487905 words of memory out of 5000000
+ 22358 multiletter control sequences out of 15000+600000
  19104 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,18n,94p,2002b,706s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1300,10 +1345,10 @@ ic/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1095
 mf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/publi
 c/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2488.
 pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on opensource-thesis.pdf (47 pages, 2436726 bytes).
+Output written on opensource-thesis.pdf (54 pages, 2701956 bytes).
 PDF statistics:
- 701 PDF objects out of 1000 (max. 8388607)
- 584 compressed objects within 6 object streams
- 205 named destinations out of 1000 (max. 500000)
- 420 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 790 PDF objects out of 1000 (max. 8388607)
+ 651 compressed objects within 7 object streams
+ 224 named destinations out of 1000 (max. 500000)
+ 495 words of extra memory for PDF output out of 10000 (max. 10000000)
 
