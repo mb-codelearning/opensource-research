@@ -2,7 +2,6 @@
 \documentclass[a4paper, 11pt]{report}
 \usepackage{graphicx}
 \usepackage{mystyle}
-
 \usepackage{hyperref}
 
 \newcommand\blankpage{%
@@ -11,6 +10,8 @@
     \addtocounter{page}{-1}%
     \newpage}
 
+
+\setlength{\headheight}{14pt}
 \fancypagestyle{plain}{
 \fancyhead[L]{Valorisation de l'open source}
 \fancyhead[R]{Cesi Alternance}
@@ -99,6 +100,13 @@ scientific documents}
 	name=Mainliner,
 	description={
 	Centraliser ses contribution en les ramenant dans le projet originel.
+	}
+}
+\newglossaryentry{issues}
+{
+	name=Issues,
+	description={
+	De l'anglais, actions (correctif, bug, tâches) à réaliser dans le code logiciel  
 	}
 }
 
