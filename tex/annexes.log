@@ -642,7 +642,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.30 	\begin{figure}
-                    [ht]
+                    [!htb]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -3038,7 +3038,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.76 	\item J
-             e trouve que le milieu scolaire ne m'a pas assez sensibilisé �...
+             e trouve que le milieu scolaire ne m'a pas assez sensibilisé ?..
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3051,7 +3051,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.76 	\item J
-             e trouve que le milieu scolaire ne m'a pas assez sensibilisé �...
+             e trouve que le milieu scolaire ne m'a pas assez sensibilisé ?..
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3064,7 +3064,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.76 	\item J
-             e trouve que le milieu scolaire ne m'a pas assez sensibilisé �...
+             e trouve que le milieu scolaire ne m'a pas assez sensibilisé ?..
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.

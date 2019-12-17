@@ -370,6 +370,12 @@ INPUT ./img/a9.png
 INPUT ./img/a92.png
 INPUT ./img/a92.png
 INPUT ./img/a92.png
+INPUT ./img/communaute.png
+INPUT ./img/communaute.png
+INPUT ./img/communaute.png
+INPUT ./img/multicompetence.png
+INPUT ./img/multicompetence.png
+INPUT ./img/multicompetence.png
 INPUT ./img/a4.png
 INPUT ./img/a4.png
 INPUT ./img/a4.png
@@ -379,9 +385,6 @@ INPUT ./img/a1.png
 INPUT ./img/a7.png
 INPUT ./img/a7.png
 INPUT ./img/a7.png
-INPUT ./img/a11.png
-INPUT ./img/a11.png
-INPUT ./img/a11.png
 INPUT ./img/a12.png
 INPUT ./img/a12.png
 INPUT ./img/a12.png
@@ -394,6 +397,9 @@ INPUT ./img/a6.png
 INPUT ./img/a5.png
 INPUT ./img/a5.png
 INPUT ./img/a5.png
+INPUT ./img/a11.png
+INPUT ./img/a11.png
+INPUT ./img/a11.png
 OUTPUT tex/confrontation.aux
 INPUT tex/confrontation.tex
 INPUT tex/confrontation.tex
