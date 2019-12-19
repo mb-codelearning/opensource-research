@@ -116,20 +116,23 @@
 \contentsline {section}{\numberline {3.1}Plateforme promotrice}{32}{section.3.1}% 
 \contentsline {subsection}{\numberline {3.1.1}Une interface pour communiquer qui laisse \IeC {\`a} d\IeC {\'e}sirer}{32}{subsection.3.1.1}% 
 \contentsline {subsection}{\numberline {3.1.2}Un module de pr\IeC {\'e}sentation}{33}{subsection.3.1.2}% 
-\contentsline {subsection}{\numberline {3.1.3}Pas d'extr\IeC {\`e}mes sur les plateformes}{34}{subsection.3.1.3}% 
+\contentsline {subsection}{\numberline {3.1.3}Pas d'extr\IeC {\`e}mes sur les plateformes}{35}{subsection.3.1.3}% 
 \contentsline {section}{\numberline {3.2}Gestion des ressources}{35}{section.3.2}% 
 \contentsline {subsection}{\numberline {3.2.1}Un mot de l'\IeC {\'e}diteur pour valoriser la contribution}{35}{subsection.3.2.1}% 
-\contentsline {subsection}{\numberline {3.2.2}La gestion des projets open source}{35}{subsection.3.2.2}% 
-\contentsline {subsection}{\numberline {3.2.3}La gestion des contributions}{36}{subsection.3.2.3}% 
-\contentsline {section}{\numberline {3.3}Chez le consommateur}{37}{section.3.3}% 
-\contentsline {subsection}{\numberline {3.3.1}La contribution du consommateur}{37}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3.2.2}Pas de niveau hi\IeC {\'e}rarchique}{35}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.3}La gestion des projets open source}{36}{subsection.3.2.3}% 
+\contentsline {subsection}{\numberline {3.2.4}La gestion des contributions}{37}{subsection.3.2.4}% 
+\contentsline {section}{\numberline {3.3}Chez le consommateur}{38}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}La contribution du consommateur}{38}{subsection.3.3.1}% 
 \contentsline {subsection}{\numberline {3.3.2}Le ressenti du consommateur \IeC {\`a} contribuer}{38}{subsection.3.3.2}% 
-\contentsline {subsection}{\numberline {3.3.3}Un besoin \IeC {\'e}cout\IeC {\'e}}{40}{subsection.3.3.3}% 
-\contentsline {section}{\numberline {3.4}Marketing de l'open source}{41}{section.3.4}% 
-\contentsline {subsection}{\numberline {3.4.1}L'\IeC {\'e}cole et l'open source}{41}{subsection.3.4.1}% 
-\contentsline {subsection}{\numberline {3.4.2}Le support payant}{43}{subsection.3.4.2}% 
+\contentsline {subsection}{\numberline {3.3.3}Un besoin \IeC {\'e}cout\IeC {\'e}}{41}{subsection.3.3.3}% 
+\contentsline {section}{\numberline {3.4}Marketing de l'open source}{42}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.1}L'\IeC {\'e}cole et l'open source}{42}{subsection.3.4.1}% 
+\contentsline {subsubsection}{la pr\IeC {\'e}cense de l'open source}{42}{section*.116}% 
+\contentsline {subsubsection}{Sensibiliser \IeC {\`a} l'open source}{43}{section*.119}% 
+\contentsline {subsection}{\numberline {3.4.2}Le support payant}{44}{subsection.3.4.2}% 
 \contentsline {subsection}{\numberline {3.4.3}Le marketing \IeC {\`a} faire}{44}{subsection.3.4.3}% 
-\contentsline {chapter}{\numberline {4}Confrontation}{45}{chapter.4}% 
-\contentsline {chapter}{\numberline {5}Transposition}{46}{chapter.5}% 
-\contentsline {chapter}{\numberline {6}Conclusion}{47}{chapter.6}% 
-\contentsline {chapter}{Appendices}{48}{section*.120}% 
+\contentsline {chapter}{\numberline {4}Confrontation}{46}{chapter.4}% 
+\contentsline {chapter}{\numberline {5}Transposition}{47}{chapter.5}% 
+\contentsline {chapter}{\numberline {6}Conclusion}{48}{chapter.6}% 
+\contentsline {chapter}{Appendices}{49}{section*.122}% 
