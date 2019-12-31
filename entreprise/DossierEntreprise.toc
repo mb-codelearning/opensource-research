@@ -1,0 +1,23 @@
+\babel@toc {french}{}
+\contentsline {part}{I\hspace {1em}L'entreprise}{2}{part.1}% 
+\contentsline {chapter}{\numberline {1}Organisation}{3}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Les services}{3}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Localisation}{4}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}Organigramme}{4}{section.1.3}% 
+\contentsline {chapter}{\numberline {2}Missions}{6}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Quelques missions importantes confi\'es \`a Docdoku}{6}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Amazon:}{6}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}Airbus:}{7}{subsection.2.1.2}% 
+\contentsline {subsection}{\numberline {2.1.3}Air France:}{7}{subsection.2.1.3}% 
+\contentsline {paragraph}{Besoin\\}{7}{section*.2}% 
+\contentsline {paragraph}{Solution\\}{8}{section*.3}% 
+\contentsline {chapter}{\numberline {3}Communication}{9}{chapter.3}% 
+\contentsline {paragraph}{Communication externe\\}{9}{section*.4}% 
+\contentsline {paragraph}{Communication interne\\}{9}{section*.5}% 
+\contentsline {section}{\numberline {3.1}Le management agile}{9}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Les outils}{10}{section.3.2}% 
+\contentsline {part}{II\hspace {1em}Ma place au sein de la DSI}{11}{part.2}% 
+\contentsline {chapter}{\numberline {4}Mon positionnement}{12}{chapter.4}% 
+\contentsline {chapter}{\numberline {5}Mes missions en entreprise}{13}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Projet Honeywell}{13}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}Formation Docker, Kubernetes}{14}{section.5.2}% 

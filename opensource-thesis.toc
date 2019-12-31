@@ -15,9 +15,9 @@
 \contentsline {paragraph}{L'\IeC {\'e}volution de l'utilisation de l'open source\\}{11}{section*.18}% 
 \contentsline {section}{\numberline {1.2}Probl\IeC {\'e}matique}{12}{section.1.2}% 
 \contentsline {section}{\numberline {1.3}Hypoth\IeC {\`e}ses}{12}{section.1.3}% 
-\contentsline {paragraph}{Les plateformes promotrices\\}{12}{section*.22}% 
+\contentsline {paragraph}{Promouvoir l'open source\\}{12}{section*.22}% 
 \contentsline {paragraph}{L'optimisation\\}{12}{section*.23}% 
-\contentsline {paragraph}{Les envies et besoin des consommateurs\\}{12}{section*.24}% 
+\contentsline {paragraph}{Les envies et besoin de contribuer\\}{12}{section*.24}% 
 \contentsline {section}{\numberline {1.4}M\IeC {\'e}thodologie de travail / p\IeC {\'e}rim\IeC {\`e}tre}{12}{section.1.4}% 
 \contentsline {paragraph}{Etude de l'open source}{12}{section*.25}% 
 \contentsline {subparagraph}{Pr\IeC {\'e}sentation de l'open source\\}{12}{section*.26}% 
@@ -113,26 +113,43 @@
 \contentsline {paragraph}{Comment j'ai r\IeC {\'e}alis\IeC {\'e} mon \IeC {\'e}tude terrain ? \\}{32}{section*.105}% 
 \contentsline {subparagraph}{Etude quantitative \\}{32}{section*.106}% 
 \contentsline {subparagraph}{Etude qualitative \\}{32}{section*.107}% 
-\contentsline {section}{\numberline {3.1}Plateforme promotrice}{32}{section.3.1}% 
+\contentsline {section}{\numberline {3.1}Plateforme d'h\IeC {\'e}bergement}{32}{section.3.1}% 
 \contentsline {subsection}{\numberline {3.1.1}Une interface pour communiquer qui laisse \IeC {\`a} d\IeC {\'e}sirer}{32}{subsection.3.1.1}% 
-\contentsline {subsection}{\numberline {3.1.2}Un module de pr\IeC {\'e}sentation}{33}{subsection.3.1.2}% 
+\contentsline {subsection}{\numberline {3.1.2}Un module de pr\IeC {\'e}sentation}{34}{subsection.3.1.2}% 
 \contentsline {subsection}{\numberline {3.1.3}Pas d'extr\IeC {\`e}mes sur les plateformes}{35}{subsection.3.1.3}% 
+\contentsline {paragraph}{Ce que j'en retire:\\}{35}{section*.110}% 
 \contentsline {section}{\numberline {3.2}Gestion des ressources}{35}{section.3.2}% 
 \contentsline {subsection}{\numberline {3.2.1}Un mot de l'\IeC {\'e}diteur pour valoriser la contribution}{35}{subsection.3.2.1}% 
-\contentsline {subsection}{\numberline {3.2.2}Pas de niveau hi\IeC {\'e}rarchique}{35}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.2}Pas de niveau hi\IeC {\'e}rarchique}{36}{subsection.3.2.2}% 
 \contentsline {subsection}{\numberline {3.2.3}La gestion des projets open source}{36}{subsection.3.2.3}% 
-\contentsline {subsection}{\numberline {3.2.4}La gestion des contributions}{37}{subsection.3.2.4}% 
-\contentsline {section}{\numberline {3.3}Chez le consommateur}{38}{section.3.3}% 
-\contentsline {subsection}{\numberline {3.3.1}La contribution du consommateur}{38}{subsection.3.3.1}% 
-\contentsline {subsection}{\numberline {3.3.2}Le ressenti du consommateur \IeC {\`a} contribuer}{38}{subsection.3.3.2}% 
-\contentsline {subsection}{\numberline {3.3.3}Un besoin \IeC {\'e}cout\IeC {\'e}}{41}{subsection.3.3.3}% 
-\contentsline {section}{\numberline {3.4}Marketing de l'open source}{42}{section.3.4}% 
-\contentsline {subsection}{\numberline {3.4.1}L'\IeC {\'e}cole et l'open source}{42}{subsection.3.4.1}% 
-\contentsline {subsubsection}{la pr\IeC {\'e}cense de l'open source}{42}{section*.116}% 
-\contentsline {subsubsection}{Sensibiliser \IeC {\`a} l'open source}{43}{section*.119}% 
-\contentsline {subsection}{\numberline {3.4.2}Le support payant}{44}{subsection.3.4.2}% 
-\contentsline {subsection}{\numberline {3.4.3}Le marketing \IeC {\`a} faire}{44}{subsection.3.4.3}% 
-\contentsline {chapter}{\numberline {4}Confrontation}{46}{chapter.4}% 
-\contentsline {chapter}{\numberline {5}Transposition}{47}{chapter.5}% 
-\contentsline {chapter}{\numberline {6}Conclusion}{48}{chapter.6}% 
-\contentsline {chapter}{Appendices}{49}{section*.122}% 
+\contentsline {subsection}{\numberline {3.2.4}La gestion des contributions}{38}{subsection.3.2.4}% 
+\contentsline {paragraph}{Ce que j'en retire:\\}{39}{section*.113}% 
+\contentsline {section}{\numberline {3.3}Chez le consommateur}{39}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}La contribution du consommateur}{39}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3.3.2}Le ressenti du consommateur \IeC {\`a} contribuer}{40}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.3.3}Un besoin \IeC {\'e}cout\IeC {\'e}}{42}{subsection.3.3.3}% 
+\contentsline {paragraph}{Ce que j'en retire:\\}{43}{section*.118}% 
+\contentsline {section}{\numberline {3.4}Marketing de l'open source}{43}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.1}L'\IeC {\'e}cole et l'open source}{43}{subsection.3.4.1}% 
+\contentsline {subsubsection}{la pr\IeC {\'e}sence de l'open source}{43}{section*.119}% 
+\contentsline {subsubsection}{Sensibiliser \IeC {\`a} l'open source}{45}{section*.122}% 
+\contentsline {subsection}{\numberline {3.4.2}Le support payant}{47}{subsection.3.4.2}% 
+\contentsline {subsection}{\numberline {3.4.3}Le marketing habituel \IeC {\`a} faire}{47}{subsection.3.4.3}% 
+\contentsline {subsection}{\numberline {3.4.4}Promouvoir son produit en l'open sour\IeC {\c c}ant}{48}{subsection.3.4.4}% 
+\contentsline {paragraph}{Ce que j'en retire:\\}{48}{section*.125}% 
+\contentsline {chapter}{\numberline {4}Confrontation}{49}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Promotion de l'open source}{49}{section.4.1}% 
+\contentsline {subsection}{\numberline {4.1.1}Des plateformes am\IeC {\'e}liorables}{49}{subsection.4.1.1}% 
+\contentsline {subsection}{\numberline {4.1.2}Le marketing de l'open source}{49}{subsection.4.1.2}% 
+\contentsline {paragraph}{R\IeC {\'e}ponse \IeC {\`a} l'hypoth\IeC {\`e}se}{49}{section*.126}% 
+\contentsline {section}{\numberline {4.2}Optimisation des ressources}{49}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Business model de l'open source}{49}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}Gestion des ressource humaines}{49}{subsection.4.2.2}% 
+\contentsline {paragraph}{R\IeC {\'e}ponse \IeC {\`a} l'hypoth\IeC {\`e}se}{49}{section*.127}% 
+\contentsline {section}{\numberline {4.3}Envies et besoins de contribuer}{49}{section.4.3}% 
+\contentsline {subsection}{\numberline {4.3.1}Sensibiliser le grand public}{50}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.2}Sensibiliser l'entreprise et le contributeur}{50}{subsection.4.3.2}% 
+\contentsline {paragraph}{R\IeC {\'e}ponse \IeC {\`a} l'hypoth\IeC {\`e}se}{50}{section*.128}% 
+\contentsline {chapter}{\numberline {5}Transposition}{51}{chapter.5}% 
+\contentsline {chapter}{\numberline {6}Conclusion}{52}{chapter.6}% 
+\contentsline {chapter}{Appendices}{53}{section*.129}% 
