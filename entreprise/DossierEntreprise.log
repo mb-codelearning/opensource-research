@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2019.11.27)  31 DEC 2019 15:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2019.11.27)  31 DEC 2019 15:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -542,20 +542,20 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 (./DossierEntreprise.aux)
 \openout1 = `DossierEntreprise.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -587,9 +587,9 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \degres on input line 29.
-LaTeX Info: Redefining \dots on input line 29.
-LaTeX Info: Redefining \up on input line 29.
+LaTeX Info: Redefining \degres on input line 41.
+LaTeX Info: Redefining \dots on input line 41.
+LaTeX Info: Redefining \up on input line 41.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -598,20 +598,20 @@ LaTeX Info: Redefining \up on input line 29.
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
+* modes: includehead includefoot 
 * h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
 * v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=483.69687pt
-* \textheight=731.23584pt
+* \textheight=653.79443pt
 * \oddsidemargin=-15.36449pt
 * \evensidemargin=-15.36449pt
-* \topmargin=-52.36449pt
+* \topmargin=-15.36449pt
 * \headheight=14.0pt
-* \headsep=25.0pt
+* \headsep=14.22636pt
 * \topskip=11.0pt
-* \footskip=30.0pt
+* \footskip=51.21504pt
 * \marginparwidth=59.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
@@ -626,7 +626,7 @@ LaTeX Info: Redefining \up on input line 29.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box37
-Package hyperref Info: Link coloring OFF on input line 29.
+Package hyperref Info: Link coloring OFF on input line 41.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -635,9 +635,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count160
 )
-LaTeX Info: Redefining \ref on input line 29.
-LaTeX Info: Redefining \pageref on input line 29.
-LaTeX Info: Redefining \nameref on input line 29.
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
 
 (./DossierEntreprise.out) (./DossierEntreprise.out)
 \@outlinefile=\write3
@@ -652,52 +652,45 @@ LaTeX Info: Redefining \nameref on input line 29.
 <cesi.png, id=102, 2210.2575pt x 744.7825pt>
 File: cesi.png Graphic file (type png)
 <use cesi.png>
-Package pdftex.def Info: cesi.png  used on input line 33.
+Package pdftex.def Info: cesi.png  used on input line 45.
 (pdftex.def)             Requested size: 85.35826pt x 28.75206pt.
 <docdoku.png, id=103, 473.77pt x 107.40125pt>
 File: docdoku.png Graphic file (type png)
 <use docdoku.png>
-Package pdftex.def Info: docdoku.png  used on input line 33.
+Package pdftex.def Info: docdoku.png  used on input line 45.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
-
-
-Package Fancyhdr Warning: \footskip is too small (30.0pt): 
-Make it at least 32.83209pt.
-We now make it that large for the rest of the document.
-This may cause the page layout to be inconsistent, however.
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.33 \part
+l.45 \part
           {L'entreprise} [1
 
  <./cesi.png> <./docdoku.png>]
 File: cesi.png Graphic file (type png)
 <use cesi.png>
-Package pdftex.def Info: cesi.png  used on input line 33.
+Package pdftex.def Info: cesi.png  used on input line 45.
 (pdftex.def)             Requested size: 85.35826pt x 28.75206pt.
 File: docdoku.png Graphic file (type png)
 <use docdoku.png>
-Package pdftex.def Info: docdoku.png  used on input line 33.
+Package pdftex.def Info: docdoku.png  used on input line 45.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
  [2
 
 ]
 Chapitre 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
 
  []
 
 File: cesi.png Graphic file (type png)
 <use cesi.png>
-Package pdftex.def Info: cesi.png  used on input line 55.
+Package pdftex.def Info: cesi.png  used on input line 67.
 (pdftex.def)             Requested size: 85.35826pt x 28.75206pt.
 File: docdoku.png Graphic file (type png)
 <use docdoku.png>
-Package pdftex.def Info: docdoku.png  used on input line 55.
+Package pdftex.def Info: docdoku.png  used on input line 67.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
 [3
 
@@ -705,15 +698,15 @@ Package pdftex.def Info: docdoku.png  used on input line 55.
 <local.png, id=124, 1309.89375pt x 809.0225pt>
 File: local.png Graphic file (type png)
 <use local.png>
-Package pdftex.def Info: local.png  used on input line 63.
+Package pdftex.def Info: local.png  used on input line 75.
 (pdftex.def)             Requested size: 392.97116pt x 242.70862pt.
 File: cesi.png Graphic file (type png)
 <use cesi.png>
-Package pdftex.def Info: cesi.png  used on input line 69.
+Package pdftex.def Info: cesi.png  used on input line 81.
 (pdftex.def)             Requested size: 85.35826pt x 28.75206pt.
 File: docdoku.png Graphic file (type png)
 <use docdoku.png>
-Package pdftex.def Info: docdoku.png  used on input line 69.
+Package pdftex.def Info: docdoku.png  used on input line 81.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
  [4 <./local.png>]
 
@@ -722,28 +715,28 @@ rsion <1.7>, but at most version <1.5> allowed
 <Organigramme.pdf, id=132, 794.97pt x 614.295pt>
 File: Organigramme.pdf Graphic file (type pdf)
 <use Organigramme.pdf>
-Package pdftex.def Info: Organigramme.pdf  used on input line 72.
+Package pdftex.def Info: Organigramme.pdf  used on input line 84.
 (pdftex.def)             Requested size: 596.22604pt x 460.72011pt.
 
-LaTeX Warning: Float too large for page by 2.75188pt on input line 74.
+LaTeX Warning: Float too large for page by 2.75188pt on input line 86.
 
 File: cesi.png Graphic file (type png)
 <use cesi.png>
-Package pdftex.def Info: cesi.png  used on input line 75.
+Package pdftex.def Info: cesi.png  used on input line 87.
 (pdftex.def)             Requested size: 85.35826pt x 28.75206pt.
 File: docdoku.png Graphic file (type png)
 <use docdoku.png>
-Package pdftex.def Info: docdoku.png  used on input line 75.
+Package pdftex.def Info: docdoku.png  used on input line 87.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
 [5 <./Organigramme.pdf>]
 Chapitre 2.
 File: cesi.png Graphic file (type png)
 <use cesi.png>
-Package pdftex.def Info: cesi.png  used on input line 110.
+Package pdftex.def Info: cesi.png  used on input line 122.
 (pdftex.def)             Requested size: 85.35826pt x 28.75206pt.
 File: docdoku.png Graphic file (type png)
 <use docdoku.png>
-Package pdftex.def Info: docdoku.png  used on input line 110.
+Package pdftex.def Info: docdoku.png  used on input line 122.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
 [6
 
@@ -753,116 +746,111 @@ Package pdftex.def Info: docdoku.png  used on input line 110.
 <a1.png, id=169, 432.11438pt x 286.06876pt>
 File: a1.png Graphic file (type png)
 <use a1.png>
-Package pdftex.def Info: a1.png  used on input line 124.
+Package pdftex.def Info: a1.png  used on input line 136.
 (pdftex.def)             Requested size: 432.11331pt x 286.06805pt.
 File: cesi.png Graphic file (type png)
 <use cesi.png>
-Package pdftex.def Info: cesi.png  used on input line 135.
+Package pdftex.def Info: cesi.png  used on input line 144.
 (pdftex.def)             Requested size: 85.35826pt x 28.75206pt.
 File: docdoku.png Graphic file (type png)
 <use docdoku.png>
-Package pdftex.def Info: docdoku.png  used on input line 135.
+Package pdftex.def Info: docdoku.png  used on input line 144.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
  [7 <./a1.png>]
-<mb1.png, id=177, 1445.4pt x 2569.6pt>
+<mb1.png, id=176, 1445.4pt x 2569.6pt>
 File: mb1.png Graphic file (type png)
 <use mb1.png>
-Package pdftex.def Info: mb1.png  used on input line 138.
-(pdftex.def)             Requested size: 289.07487pt x 513.9109pt.
+Package pdftex.def Info: mb1.png  used on input line 150.
+(pdftex.def)             Requested size: 216.80064pt x 385.42337pt.
 File: cesi.png Graphic file (type png)
 <use cesi.png>
-Package pdftex.def Info: cesi.png  used on input line 142.
+Package pdftex.def Info: cesi.png  used on input line 154.
 (pdftex.def)             Requested size: 85.35826pt x 28.75206pt.
 File: docdoku.png Graphic file (type png)
 <use docdoku.png>
-Package pdftex.def Info: docdoku.png  used on input line 142.
+Package pdftex.def Info: docdoku.png  used on input line 154.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
  [8 <./mb1.png>]
 Chapitre 3.
 <meetup.png, id=185, 1144.275pt x 442.65375pt>
 File: meetup.png Graphic file (type png)
 <use meetup.png>
-Package pdftex.def Info: meetup.png  used on input line 149.
+Package pdftex.def Info: meetup.png  used on input line 161.
 (pdftex.def)             Requested size: 457.70189pt x 177.05835pt.
 File: cesi.png Graphic file (type png)
 <use cesi.png>
-Package pdftex.def Info: cesi.png  used on input line 161.
+Package pdftex.def Info: cesi.png  used on input line 173.
 (pdftex.def)             Requested size: 85.35826pt x 28.75206pt.
 File: docdoku.png Graphic file (type png)
 <use docdoku.png>
-Package pdftex.def Info: docdoku.png  used on input line 161.
+Package pdftex.def Info: docdoku.png  used on input line 173.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
 [9
 
  <./meetup.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 167.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 179.
 
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 167.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 179.
 
-Overfull \hbox (9.86128pt too wide) in paragraph at lines 168--169
+Overfull \hbox (9.86128pt too wide) in paragraph at lines 180--181
 []\T1/cmr/m/n/10.95 C'est l'ou-tils de com-mu-ni-ca-tion, in-di-vi-duelle prin-
 ci-pa-le-ment, par ex-cel-lence. Les membres
  []
 
 File: cesi.png Graphic file (type png)
 <use cesi.png>
-Package pdftex.def Info: cesi.png  used on input line 172.
+Package pdftex.def Info: cesi.png  used on input line 184.
 (pdftex.def)             Requested size: 85.35826pt x 28.75206pt.
 File: docdoku.png Graphic file (type png)
 <use docdoku.png>
-Package pdftex.def Info: docdoku.png  used on input line 172.
+Package pdftex.def Info: docdoku.png  used on input line 184.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
 [10]
 File: cesi.png Graphic file (type png)
 <use cesi.png>
-Package pdftex.def Info: cesi.png  used on input line 172.
+Package pdftex.def Info: cesi.png  used on input line 184.
 (pdftex.def)             Requested size: 85.35826pt x 28.75206pt.
 File: docdoku.png Graphic file (type png)
 <use docdoku.png>
-Package pdftex.def Info: docdoku.png  used on input line 172.
+Package pdftex.def Info: docdoku.png  used on input line 184.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
  [11
 
 ]
 Chapitre 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--177
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 180--181
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
 
  []
 
 File: cesi.png Graphic file (type png)
 <use cesi.png>
-Package pdftex.def Info: cesi.png  used on input line 187.
+Package pdftex.def Info: cesi.png  used on input line 199.
 (pdftex.def)             Requested size: 85.35826pt x 28.75206pt.
 File: docdoku.png Graphic file (type png)
 <use docdoku.png>
-Package pdftex.def Info: docdoku.png  used on input line 187.
+Package pdftex.def Info: docdoku.png  used on input line 199.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
 [12
 
 ]
 Chapitre 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--192
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 
  []
 
@@ -872,22 +860,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 205--206
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--208
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
 
  []
 
 <api.png, id=210, 1922.18124pt x 1039.885pt>
 File: api.png Graphic file (type png)
 <use api.png>
-Package pdftex.def Info: api.png  used on input line 213.
+Package pdftex.def Info: api.png  used on input line 225.
 (pdftex.def)             Requested size: 384.42944pt x 207.97331pt.
 File: cesi.png Graphic file (type png)
 <use cesi.png>
-Package pdftex.def Info: cesi.png  used on input line 219.
+Package pdftex.def Info: cesi.png  used on input line 231.
 (pdftex.def)             Requested size: 85.35826pt x 28.75206pt.
 File: docdoku.png Graphic file (type png)
 <use docdoku.png>
-Package pdftex.def Info: docdoku.png  used on input line 219.
+Package pdftex.def Info: docdoku.png  used on input line 231.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
 [13
 
@@ -895,33 +888,33 @@ Package pdftex.def Info: docdoku.png  used on input line 219.
 <k8s.png, id=215, 1313.90875pt x 896.34875pt>
 File: k8s.png Graphic file (type png)
 <use k8s.png>
-Package pdftex.def Info: k8s.png  used on input line 232.
+Package pdftex.def Info: k8s.png  used on input line 244.
 (pdftex.def)             Requested size: 262.7771pt x 179.26657pt.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 248.
 File: cesi.png Graphic file (type png)
 <use cesi.png>
-Package pdftex.def Info: cesi.png  used on input line 236.
+Package pdftex.def Info: cesi.png  used on input line 248.
 (pdftex.def)             Requested size: 85.35826pt x 28.75206pt.
 File: docdoku.png Graphic file (type png)
 <use docdoku.png>
-Package pdftex.def Info: docdoku.png  used on input line 236.
+Package pdftex.def Info: docdoku.png  used on input line 248.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
  [14 <./api.png> <./k8s.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 236.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 248.
  (./DossierEntreprise.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 236.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 236.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 248.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 248.
 Package rerunfilecheck Info: File `DossierEntreprise.out' has not changed.
-(rerunfilecheck)             Checksum: A657742E91247C9F40EAC82BA82E6453;1114.
+(rerunfilecheck)             Checksum: 4310E1660989B87A0CC6A09900D7B32C;1111.
  ) 
 Here is how much of TeX's memory you used:
- 14737 strings out of 492609
- 238954 string characters out of 6131461
- 393976 words of memory out of 5000000
- 18355 multiletter control sequences out of 15000+600000
+ 14745 strings out of 492609
+ 239048 string characters out of 6131461
+ 394174 words of memory out of 5000000
+ 18363 multiletter control sequences out of 15000+600000
  19495 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,13n,50p,2012b,445s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,13n,54p,2012b,445s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/
 type1/public/cm-super/sfbx1095.pfb></usr/share/texmf/fonts/type1/public/cm-supe
@@ -933,7 +926,7 @@ share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/ty
 pe1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/
 sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2488.pfb></usr/s
 hare/texmf/fonts/type1/public/cm-super/sfxc1095.pfb>
-Output written on DossierEntreprise.pdf (15 pages, 4734532 bytes).
+Output written on DossierEntreprise.pdf (15 pages, 4734353 bytes).
 PDF statistics:
  281 PDF objects out of 1000 (max. 8388607)
  212 compressed objects within 3 object streams
