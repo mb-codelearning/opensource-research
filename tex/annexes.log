@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2019.11.27)  1 DEC 2019 15:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2019.11.27)  31 DEC 2019 15:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -80,7 +80,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.6 \begin{figure}
-                  [h]
+                  [!htb]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -93,12 +93,15 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.6 \begin{figure}[
-                   h]
+                   !htb]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no [ in font nullfont!
+Missing character: There is no ! in font nullfont!
 Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no b in font nullfont!
 Missing character: There is no ] in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 6--7
@@ -107,7 +110,7 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 6--7
 
 ! Undefined control sequence.
 l.8 	\includegraphics
-                     [scale=0.65]{./img/Domain_os.png}
+                     [scale=0.5]{./img/Domain_os.png}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -123,7 +126,6 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no = in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no . in font nullfont!
-Missing character: There is no 6 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
@@ -141,8 +143,8 @@ Missing character: There is no n in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.8 	\includegraphics[scale=0.65]{./img/Domain_
-                                               os.png}
+l.8 	\includegraphics[scale=0.5]{./img/Domain_
+                                              os.png}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -151,7 +153,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 8.
 ! Extra }, or forgotten $.
-l.8 ...degraphics[scale=0.65]{./img/Domain_os.png}
+l.8 ...udegraphics[scale=0.5]{./img/Domain_os.png}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -245,7 +247,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.13 \begin{figure}
-                   [h]
+                   [!htb]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -258,12 +260,15 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.13 \begin{figure}[
-                    h]
+                    !htb]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no [ in font nullfont!
+Missing character: There is no ! in font nullfont!
 Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no b in font nullfont!
 Missing character: There is no ] in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 13--14
@@ -272,7 +277,7 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 13--14
 
 ! Undefined control sequence.
 l.15 	\includegraphics
-                      [scale=0.65]{./img/Use_os.png}
+                      [scale=0.5]{./img/Use_os.png}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -288,7 +293,6 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no = in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no . in font nullfont!
-Missing character: There is no 6 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
@@ -303,13 +307,13 @@ Missing character: There is no e in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.15 	\includegraphics[scale=0.65]{./img/Use_
-                                             os.png}
+l.15 	\includegraphics[scale=0.5]{./img/Use_
+                                            os.png}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.15 ...ludegraphics[scale=0.65]{./img/Use_os.png}
+l.15 ...cludegraphics[scale=0.5]{./img/Use_os.png}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -440,7 +444,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.22 	\begin{figure}
-                    [h]
+                    [!htb]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -453,16 +457,19 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.22 	\begin{figure}[
-                     h]
+                     !htb]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no [ in font nullfont!
+Missing character: There is no ! in font nullfont!
 Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no b in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
 l.23 		\includegraphics
-                       [scale=0.25]{./img/f1.png}
+                       [scale=0.24]{./img/f1.png}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -479,7 +486,7 @@ Missing character: There is no = in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 2 in font nullfont!
-Missing character: There is no 5 in font nullfont!
+Missing character: There is no 4 in font nullfont!
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no / in font nullfont!
@@ -495,7 +502,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 ! Undefined control sequence.
 l.24 		\includegraphics
-                       [scale=0.25]{./img/f2.png}
+                       [scale=0.24]{./img/f2.png}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -512,7 +519,7 @@ Missing character: There is no = in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 2 in font nullfont!
-Missing character: There is no 5 in font nullfont!
+Missing character: There is no 4 in font nullfont!
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no / in font nullfont!
@@ -642,13 +649,12 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.30 	\begin{figure}
-                    [!htb]
+                    [t]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 Missing character: There is no [ in font nullfont!
-Missing character: There is no h in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
@@ -3038,7 +3044,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.76 	\item J
-             e trouve que le milieu scolaire ne m'a pas assez sensibilisé ?..
+             e trouve que le milieu scolaire ne m'a pas assez sensibilisé �...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3051,7 +3057,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.76 	\item J
-             e trouve que le milieu scolaire ne m'a pas assez sensibilisé ?..
+             e trouve que le milieu scolaire ne m'a pas assez sensibilisé �...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3064,7 +3070,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.76 	\item J
-             e trouve que le milieu scolaire ne m'a pas assez sensibilisé ?..
+             e trouve que le milieu scolaire ne m'a pas assez sensibilisé �...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.

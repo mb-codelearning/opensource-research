@@ -664,10 +664,6 @@ INPUT ./img/cesi.png
 INPUT ./img/cesi.png
 INPUT ./img/docdoku.png
 INPUT ./img/docdoku.png
-INPUT ./img/cesi.png
-INPUT ./img/cesi.png
-INPUT ./img/docdoku.png
-INPUT ./img/docdoku.png
 INPUT ./img/f1.png
 INPUT ./img/f1.png
 INPUT ./img/f1.png
@@ -683,10 +679,6 @@ INPUT ./img/f4.png
 INPUT ./img/f5.png
 INPUT ./img/f5.png
 INPUT ./img/f5.png
-INPUT ./img/cesi.png
-INPUT ./img/cesi.png
-INPUT ./img/docdoku.png
-INPUT ./img/docdoku.png
 INPUT ./img/cesi.png
 INPUT ./img/cesi.png
 INPUT ./img/docdoku.png
@@ -739,6 +731,7 @@ INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfcc1095.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfcc1440.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm2488.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfti1095.pfb
