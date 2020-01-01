@@ -629,9 +629,17 @@ INPUT ./img/cesi.png
 INPUT ./img/cesi.png
 INPUT ./img/docdoku.png
 INPUT ./img/docdoku.png
+INPUT ./img/cesi.png
+INPUT ./img/cesi.png
+INPUT ./img/docdoku.png
+INPUT ./img/docdoku.png
 OUTPUT tex/transposition.aux
 INPUT tex/transposition.tex
 INPUT tex/transposition.tex
+INPUT ./img/cesi.png
+INPUT ./img/cesi.png
+INPUT ./img/docdoku.png
+INPUT ./img/docdoku.png
 INPUT ./img/cesi.png
 INPUT ./img/cesi.png
 INPUT ./img/docdoku.png

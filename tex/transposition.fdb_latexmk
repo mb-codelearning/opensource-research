@@ -1,0 +1,11 @@
+# Fdb version 3
+["pdflatex"] 1577834333 "transposition.tex" "transposition.pdf" "transposition" 1577834334
+  "/etc/texmf/web2c/texmf.cnf" 1574852591 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1562720991 35073 2a40cfca74fcd5e2568b569ccaadf3f1 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1562720991 35073 2a40cfca74fcd5e2568b569ccaadf3f1 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1574853561 4262639 310dd92f4548128ca1ed0db3699607d2 ""
+  "transposition.aux" 1577825930 1101 ac5847f090899831c47dba627681bb8c ""
+  "transposition.tex" 1577834331 2554 8cdfc6aa97f76c41b291e2d843f568af ""
+  (generated)
+  "transposition.log"
+  "transposition.pdf"

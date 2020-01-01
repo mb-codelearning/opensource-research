@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2019.11.27)  31 DEC 2019 15:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2019.11.27)  1 JAN 2020 01:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -802,12 +802,12 @@ LaTeX Info: Redefining \nameref on input line 150.
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [0
 
 ] (./opensource-thesis.toc
-<./img/cesi.png, id=289, 2210.2575pt x 744.7825pt>
+<./img/cesi.png, id=305, 2210.2575pt x 744.7825pt>
 File: ./img/cesi.png Graphic file (type png)
 <use ./img/cesi.png>
 Package pdftex.def Info: ./img/cesi.png  used on input line 124.
 (pdftex.def)             Requested size: 85.35826pt x 28.75206pt.
-<./img/docdoku.png, id=290, 473.77pt x 107.40125pt>
+<./img/docdoku.png, id=306, 473.77pt x 107.40125pt>
 File: ./img/docdoku.png Graphic file (type png)
 <use ./img/docdoku.png>
 Package pdftex.def Info: ./img/docdoku.png  used on input line 124.
@@ -876,7 +876,7 @@ Package pdftex.def Info: ./img/docdoku.png  used on input line 159.
 \openout2 = `tex/preface.aux'.
 
  (./tex/preface.tex
-<confidentialite.pdf, id=392, 597.50786pt x 845.04686pt>
+<confidentialite.pdf, id=412, 597.50786pt x 845.04686pt>
 File: confidentialite.pdf Graphic file (type pdf)
 <use confidentialite.pdf>
 Package pdftex.def Info: confidentialite.pdf  used on input line 3.
@@ -885,7 +885,7 @@ File: confidentialite.pdf Graphic file (type pdf)
 <use confidentialite.pdf>
 Package pdftex.def Info: confidentialite.pdf  used on input line 3.
 (pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
-<confidentialite.pdf, id=395, page=1, 597.50786pt x 845.04686pt>
+<confidentialite.pdf, id=415, page=1, 597.50786pt x 845.04686pt>
 File: confidentialite.pdf Graphic file (type pdf)
 <use confidentialite.pdf, page 1>
 Package pdftex.def Info: confidentialite.pdf , page1 used on input line 3.
@@ -991,12 +991,12 @@ File: ./img/docdoku.png Graphic file (type png)
 Package pdftex.def Info: ./img/docdoku.png  used on input line 73.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
  [11]
-<./img/Barreer_os.png, id=464, 453.695pt x 292.09125pt>
+<./img/Barreer_os.png, id=484, 453.695pt x 292.09125pt>
 File: ./img/Barreer_os.png Graphic file (type png)
 <use ./img/Barreer_os.png>
 Package pdftex.def Info: ./img/Barreer_os.png  used on input line 80.
 (pdftex.def)             Requested size: 317.58434pt x 204.46246pt.
-<./img/osinentreprise.png, id=466, 627.34375pt x 282.05376pt>
+<./img/osinentreprise.png, id=486, 627.34375pt x 282.05376pt>
 File: ./img/osinentreprise.png Graphic file (type png)
 <use ./img/osinentreprise.png>
 Package pdftex.def Info: ./img/osinentreprise.png  used on input line 93.
@@ -1029,11 +1029,11 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 146.
 File: ./img/cesi.png Graphic file (type png)
 <use ./img/cesi.png>
-Package pdftex.def Info: ./img/cesi.png  used on input line 151.
+Package pdftex.def Info: ./img/cesi.png  used on input line 150.
 (pdftex.def)             Requested size: 85.35826pt x 28.75206pt.
 File: ./img/docdoku.png Graphic file (type png)
 <use ./img/docdoku.png>
-Package pdftex.def Info: ./img/docdoku.png  used on input line 151.
+Package pdftex.def Info: ./img/docdoku.png  used on input line 150.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
  [14
 
@@ -1149,12 +1149,12 @@ File: ./img/docdoku.png Graphic file (type png)
 Package pdftex.def Info: ./img/docdoku.png  used on input line 145.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
 [19]
-<./img/gh_os.png, id=535, 1445.4pt x 823.075pt>
+<./img/gh_os.png, id=555, 1445.4pt x 823.075pt>
 File: ./img/gh_os.png Graphic file (type png)
 <use ./img/gh_os.png>
 Package pdftex.def Info: ./img/gh_os.png  used on input line 170.
 (pdftex.def)             Requested size: 404.70924pt x 230.45943pt.
-<./img/google_os.png, id=536, 839.135pt x 698.61pt>
+<./img/google_os.png, id=556, 839.135pt x 698.61pt>
 File: ./img/google_os.png Graphic file (type png)
 <use ./img/google_os.png>
 Package pdftex.def Info: ./img/google_os.png  used on input line 186.
@@ -1168,7 +1168,7 @@ File: ./img/docdoku.png Graphic file (type png)
 Package pdftex.def Info: ./img/docdoku.png  used on input line 190.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
  [20]
-<./img/gh_explore_os.png, id=547, 1445.4pt x 823.075pt>
+<./img/gh_explore_os.png, id=567, 1445.4pt x 823.075pt>
 File: ./img/gh_explore_os.png Graphic file (type png)
 <use ./img/gh_explore_os.png>
 Package pdftex.def Info: ./img/gh_explore_os.png  used on input line 197.
@@ -1182,7 +1182,7 @@ File: ./img/docdoku.png Graphic file (type png)
 Package pdftex.def Info: ./img/docdoku.png  used on input line 208.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
  [21 <./img/gh_os.png> <./img/google_os.png>]
-<./img/ninja_os.png, id=556, 1445.4pt x 823.075pt>
+<./img/ninja_os.png, id=576, 1445.4pt x 823.075pt>
 File: ./img/ninja_os.png Graphic file (type png)
 <use ./img/ninja_os.png>
 Package pdftex.def Info: ./img/ninja_os.png  used on input line 219.
@@ -1250,7 +1250,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 358--359
 
  []
 
-<./img/noyauextension_os.png, id=593, 685.56125pt x 390.45876pt>
+<./img/noyauextension_os.png, id=614, 685.56125pt x 390.45876pt>
 File: ./img/noyauextension_os.png Graphic file (type png)
 <use ./img/noyauextension_os.png>
 Package pdftex.def Info: ./img/noyauextension_os.png  used on input line 378.
@@ -1282,7 +1282,7 @@ File: ./img/docdoku.png Graphic file (type png)
 Package pdftex.def Info: ./img/docdoku.png  used on input line 447.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
  [28]
-<./img/pb_os.png, id=615, 1064.97874pt x 372.39125pt>
+<./img/pb_os.png, id=635, 1064.97874pt x 372.39125pt>
 File: ./img/pb_os.png Graphic file (type png)
 <use ./img/pb_os.png>
 Package pdftex.def Info: ./img/pb_os.png  used on input line 470.
@@ -1310,12 +1310,12 @@ File: ./img/docdoku.png Graphic file (type png)
 Package pdftex.def Info: ./img/docdoku.png  used on input line 474.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
  [30 <./img/pb_os.png>]
-<./img/ng_behaviour_os.png, id=630, 934.49126pt x 417.56pt>
+<./img/ng_behaviour_os.png, id=650, 934.49126pt x 417.56pt>
 File: ./img/ng_behaviour_os.png Graphic file (type png)
 <use ./img/ng_behaviour_os.png>
 Package pdftex.def Info: ./img/ng_behaviour_os.png  used on input line 482.
 (pdftex.def)             Requested size: 467.24449pt x 208.77948pt.
-<./img/value_soft_os.png, id=631, 1018.80624pt x 402.50375pt>
+<./img/value_soft_os.png, id=651, 1018.80624pt x 402.50375pt>
 File: ./img/value_soft_os.png Graphic file (type png)
 <use ./img/value_soft_os.png>
 Package pdftex.def Info: ./img/value_soft_os.png  used on input line 493.
@@ -1428,7 +1428,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
 
-<./img/a9.png, id=672, 604.2575pt x 1361.085pt>
+<./img/a9.png, id=692, 604.2575pt x 1361.085pt>
 File: ./img/a9.png Graphic file (type png)
 <use ./img/a9.png>
 Package pdftex.def Info: ./img/a9.png  used on input line 26.
@@ -1478,7 +1478,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
  []
 
-<./img/a92.png, id=685, 608.2725pt x 1369.115pt>
+<./img/a92.png, id=705, 608.2725pt x 1369.115pt>
 File: ./img/a92.png Graphic file (type png)
 <use ./img/a92.png>
 Package pdftex.def Info: ./img/a92.png  used on input line 80.
@@ -1557,7 +1557,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 176--177
 
  []
 
-<./img/communaute.png, id=700, 606.265pt x 1166.3575pt>
+<./img/communaute.png, id=721, 606.265pt x 1166.3575pt>
 File: ./img/communaute.png Graphic file (type png)
 <use ./img/communaute.png>
 Package pdftex.def Info: ./img/communaute.png  used on input line 182.
@@ -1595,7 +1595,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 228--229
 
  []
 
-<./img/multicompetence.png, id=708, 608.2725pt x 1067.99pt>
+<./img/multicompetence.png, id=728, 608.2725pt x 1067.99pt>
 File: ./img/multicompetence.png Graphic file (type png)
 <use ./img/multicompetence.png>
 Package pdftex.def Info: ./img/multicompetence.png  used on input line 234.
@@ -1631,7 +1631,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 272--273
 
  []
 
-<./img/a4.png, id=719, 296.10625pt x 408.52625pt>
+<./img/a4.png, id=739, 296.10625pt x 408.52625pt>
 File: ./img/a4.png Graphic file (type png)
 <use ./img/a4.png>
 Package pdftex.def Info: ./img/a4.png  used on input line 280.
@@ -1655,7 +1655,7 @@ File: ./img/docdoku.png Graphic file (type png)
 Package pdftex.def Info: ./img/docdoku.png  used on input line 295.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
 [44 <./img/a4.png>]
-<./img/a1.png, id=725, 301.125pt x 493.845pt>
+<./img/a1.png, id=745, 301.125pt x 493.845pt>
 File: ./img/a1.png Graphic file (type png)
 <use ./img/a1.png>
 Package pdftex.def Info: ./img/a1.png  used on input line 300.
@@ -1693,7 +1693,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 332--334
 
  []
 
-<./img/a7.png, id=731, 302.12875pt x 569.12625pt>
+<./img/a7.png, id=751, 302.12875pt x 569.12625pt>
 File: ./img/a7.png Graphic file (type png)
 <use ./img/a7.png>
 Package pdftex.def Info: ./img/a7.png  used on input line 340.
@@ -1716,7 +1716,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 394--395
 
  []
 
-<./img/a12.png, id=737, 606.265pt x 1053.9375pt>
+<./img/a12.png, id=757, 606.265pt x 1053.9375pt>
 File: ./img/a12.png Graphic file (type png)
 <use ./img/a12.png>
 Package pdftex.def Info: ./img/a12.png  used on input line 400.
@@ -1748,7 +1748,7 @@ File: ./img/docdoku.png Graphic file (type png)
 Package pdftex.def Info: ./img/docdoku.png  used on input line 444.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
 [48 <./img/a12.png>]
-<./img/a3.png, id=749, 600.2425pt x 1035.87pt>
+<./img/a3.png, id=769, 600.2425pt x 1035.87pt>
 File: ./img/a3.png Graphic file (type png)
 <use ./img/a3.png>
 Package pdftex.def Info: ./img/a3.png  used on input line 449.
@@ -1771,7 +1771,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 475--476
 
  []
 
-<./img/a5.png, id=756, 584.1825pt x 973.6375pt>
+<./img/a5.png, id=776, 584.1825pt x 973.6375pt>
 File: ./img/a5.png Graphic file (type png)
 <use ./img/a5.png>
 Package pdftex.def Info: ./img/a5.png  used on input line 481.
@@ -1804,7 +1804,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 507--508
 
  []
 
-<./img/a6.png, id=763, 616.3025pt x 917.4275pt>
+<./img/a6.png, id=783, 616.3025pt x 917.4275pt>
 File: ./img/a6.png Graphic file (type png)
 <use ./img/a6.png>
 Package pdftex.def Info: ./img/a6.png  used on input line 511.
@@ -1840,7 +1840,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 545--546
 
  []
 
-<./img/a11.png, id=773, 305.14pt x 473.77pt>
+<./img/a11.png, id=793, 305.14pt x 473.77pt>
 File: ./img/a11.png Graphic file (type png)
 <use ./img/a11.png>
 Package pdftex.def Info: ./img/a11.png  used on input line 551.
@@ -1872,72 +1872,120 @@ Package pdftex.def Info: ./img/docdoku.png  used on input line 163.
 
  (./tex/confrontation.tex
 Chapitre 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
 File: ./img/cesi.png Graphic file (type png)
 <use ./img/cesi.png>
-Package pdftex.def Info: ./img/cesi.png  used on input line 36.
+Package pdftex.def Info: ./img/cesi.png  used on input line 25.
 (pdftex.def)             Requested size: 85.35826pt x 28.75206pt.
 File: ./img/docdoku.png Graphic file (type png)
 <use ./img/docdoku.png>
-Package pdftex.def Info: ./img/docdoku.png  used on input line 36.
+Package pdftex.def Info: ./img/docdoku.png  used on input line 25.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
 [55
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--44
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
 
 File: ./img/cesi.png Graphic file (type png)
 <use ./img/cesi.png>
-Package pdftex.def Info: ./img/cesi.png  used on input line 64.
+Package pdftex.def Info: ./img/cesi.png  used on input line 57.
 (pdftex.def)             Requested size: 85.35826pt x 28.75206pt.
 File: ./img/docdoku.png Graphic file (type png)
 <use ./img/docdoku.png>
-Package pdftex.def Info: ./img/docdoku.png  used on input line 64.
+Package pdftex.def Info: ./img/docdoku.png  used on input line 57.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
-[56])
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+File: ./img/cesi.png Graphic file (type png)
+<use ./img/cesi.png>
+Package pdftex.def Info: ./img/cesi.png  used on input line 85.
+(pdftex.def)             Requested size: 85.35826pt x 28.75206pt.
+File: ./img/docdoku.png Graphic file (type png)
+<use ./img/docdoku.png>
+Package pdftex.def Info: ./img/docdoku.png  used on input line 85.
+(pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
+[57])
 File: ./img/cesi.png Graphic file (type png)
 <use ./img/cesi.png>
 Package pdftex.def Info: ./img/cesi.png  used on input line 164.
@@ -1946,11 +1994,38 @@ File: ./img/docdoku.png Graphic file (type png)
 <use ./img/docdoku.png>
 Package pdftex.def Info: ./img/docdoku.png  used on input line 164.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
- [57]
+ [58]
 \openout2 = `tex/transposition.aux'.
 
  (./tex/transposition.tex
 Chapitre 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+File: ./img/cesi.png Graphic file (type png)
+<use ./img/cesi.png>
+Package pdftex.def Info: ./img/cesi.png  used on input line 31.
+(pdftex.def)             Requested size: 85.35826pt x 28.75206pt.
+File: ./img/docdoku.png Graphic file (type png)
+<use ./img/docdoku.png>
+Package pdftex.def Info: ./img/docdoku.png  used on input line 31.
+(pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
+[59
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
 )
 File: ./img/cesi.png Graphic file (type png)
 <use ./img/cesi.png>
@@ -1960,11 +2035,7 @@ File: ./img/docdoku.png Graphic file (type png)
 <use ./img/docdoku.png>
 Package pdftex.def Info: ./img/docdoku.png  used on input line 165.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
- [58
-
-
-
-]
+ [60]
 \openout2 = `tex/conclusion.aux'.
 
  (./tex/conclusion.tex
@@ -1978,7 +2049,7 @@ File: ./img/docdoku.png Graphic file (type png)
 <use ./img/docdoku.png>
 Package pdftex.def Info: ./img/docdoku.png  used on input line 166.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
- [59
+ [61
 
 
 
@@ -1994,17 +2065,17 @@ File: ./img/docdoku.png Graphic file (type png)
 <use ./img/docdoku.png>
 Package pdftex.def Info: ./img/docdoku.png  used on input line 2.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
- [60
+ [62
 
 
 
 ]
-<./img/Domain_os.png, id=813, 608.2725pt x 741.77126pt>
+<./img/Domain_os.png, id=851, 608.2725pt x 741.77126pt>
 File: ./img/Domain_os.png Graphic file (type png)
 <use ./img/Domain_os.png>
 Package pdftex.def Info: ./img/Domain_os.png  used on input line 8.
 (pdftex.def)             Requested size: 304.13551pt x 370.88472pt.
-<./img/Use_os.png, id=814, 608.2725pt x 742.775pt>
+<./img/Use_os.png, id=852, 608.2725pt x 742.775pt>
 File: ./img/Use_os.png Graphic file (type png)
 <use ./img/Use_os.png>
 Package pdftex.def Info: ./img/Use_os.png  used on input line 15.
@@ -2017,7 +2088,7 @@ File: ./img/docdoku.png Graphic file (type png)
 <use ./img/docdoku.png>
 Package pdftex.def Info: ./img/docdoku.png  used on input line 20.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
- [61
+ [63
 
  <./img/Domain_os.png>]
 File: ./img/cesi.png Graphic file (type png)
@@ -2028,13 +2099,13 @@ File: ./img/docdoku.png Graphic file (type png)
 <use ./img/docdoku.png>
 Package pdftex.def Info: ./img/docdoku.png  used on input line 20.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
- [62 <./img/Use_os.png>]
-<./img/f1.png, id=827, 1959.32pt x 1563.8425pt>
+ [64 <./img/Use_os.png>]
+<./img/f1.png, id=864, 1959.32pt x 1563.8425pt>
 File: ./img/f1.png Graphic file (type png)
 <use ./img/f1.png>
 Package pdftex.def Info: ./img/f1.png  used on input line 23.
 (pdftex.def)             Requested size: 470.24641pt x 375.32986pt.
-<./img/f2.png, id=828, 2009.5075pt x 491.8375pt>
+<./img/f2.png, id=865, 2009.5075pt x 491.8375pt>
 File: ./img/f2.png Graphic file (type png)
 <use ./img/f2.png>
 Package pdftex.def Info: ./img/f2.png  used on input line 24.
@@ -2044,12 +2115,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--25
 [][]
  []
 
-<./img/f3.png, id=829, 1913.1475pt x 1310.8975pt>
+<./img/f3.png, id=866, 1913.1475pt x 1310.8975pt>
 File: ./img/f3.png Graphic file (type png)
 <use ./img/f3.png>
 Package pdftex.def Info: ./img/f3.png  used on input line 27.
 (pdftex.def)             Requested size: 459.16478pt x 314.62183pt.
-<./img/f4.png, id=830, 1955.305pt x 1204.5pt>
+<./img/f4.png, id=867, 1955.305pt x 1204.5pt>
 File: ./img/f4.png Graphic file (type png)
 <use ./img/f4.png>
 Package pdftex.def Info: ./img/f4.png  used on input line 28.
@@ -2059,7 +2130,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--29
 [][]
  []
 
-<./img/f5.png, id=831, 1917.1625pt x 1242.6425pt>
+<./img/f5.png, id=868, 1917.1625pt x 1242.6425pt>
 File: ./img/f5.png Graphic file (type png)
 <use ./img/f5.png>
 Package pdftex.def Info: ./img/f5.png  used on input line 31.
@@ -2072,7 +2143,7 @@ File: ./img/docdoku.png Graphic file (type png)
 <use ./img/docdoku.png>
 Package pdftex.def Info: ./img/docdoku.png  used on input line 33.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
-[63
+[65
 
  <./img/f1.png> <./img/f2.png>]
 File: ./img/cesi.png Graphic file (type png)
@@ -2083,7 +2154,7 @@ File: ./img/docdoku.png Graphic file (type png)
 <use ./img/docdoku.png>
 Package pdftex.def Info: ./img/docdoku.png  used on input line 33.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
- [64 <./img/f3.png> <./img/f4.png>]
+ [66 <./img/f3.png> <./img/f4.png>]
 File: ./img/cesi.png Graphic file (type png)
 <use ./img/cesi.png>
 Package pdftex.def Info: ./img/cesi.png  used on input line 33.
@@ -2092,7 +2163,7 @@ File: ./img/docdoku.png Graphic file (type png)
 <use ./img/docdoku.png>
 Package pdftex.def Info: ./img/docdoku.png  used on input line 33.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
- [65 <./img/f5.png>]
+ [67 <./img/f5.png>]
 File: ./img/cesi.png Graphic file (type png)
 <use ./img/cesi.png>
 Package pdftex.def Info: ./img/cesi.png  used on input line 66.
@@ -2101,7 +2172,7 @@ File: ./img/docdoku.png Graphic file (type png)
 <use ./img/docdoku.png>
 Package pdftex.def Info: ./img/docdoku.png  used on input line 66.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
- [66
+ [68
 
 ])
 File: ./img/cesi.png Graphic file (type png)
@@ -2112,7 +2183,7 @@ File: ./img/docdoku.png Graphic file (type png)
 <use ./img/docdoku.png>
 Package pdftex.def Info: ./img/docdoku.png  used on input line 167.
 (pdftex.def)             Requested size: 85.35826pt x 19.34941pt.
- [67]
+ [69]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 169.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 169.
  (./opensource-thesis.aux (./tex/preface.aux)
@@ -2122,13 +2193,13 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 169.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 169.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 169.
 Package rerunfilecheck Info: File `opensource-thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 04D792F97D0AACD5605F95A3E4ADA182;4485.
+(rerunfilecheck)             Checksum: A73409CC6516224C84FD249D444F4FCC;4803.
  ) 
 Here is how much of TeX's memory you used:
- 19225 strings out of 492609
- 312828 string characters out of 6131461
+ 19244 strings out of 492609
+ 313056 string characters out of 6131461
  488069 words of memory out of 5000000
- 22456 multiletter control sequences out of 15000+600000
+ 22460 multiletter control sequences out of 15000+600000
  19104 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,18n,94p,2023b,715s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2144,10 +2215,10 @@ mf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/publi
 c/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.
 pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2488.pfb></usr/share/texm
 f/fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on opensource-thesis.pdf (69 pages, 3189849 bytes).
+Output written on opensource-thesis.pdf (71 pages, 3200554 bytes).
 PDF statistics:
- 976 PDF objects out of 1000 (max. 8388607)
- 810 compressed objects within 9 object streams
- 271 named destinations out of 1000 (max. 500000)
- 648 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1015 PDF objects out of 1200 (max. 8388607)
+ 847 compressed objects within 9 object streams
+ 286 named destinations out of 1000 (max. 500000)
+ 680 words of extra memory for PDF output out of 10000 (max. 10000000)
 

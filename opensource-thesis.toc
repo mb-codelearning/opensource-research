@@ -64,7 +64,7 @@
 \contentsline {subsection}{\numberline {2.2.1}Le cerveau collectif}{23}{subsection.2.2.1}% 
 \contentsline {paragraph}{Introduction au cerveau collectif\\}{23}{section*.64}% 
 \contentsline {subparagraph}{\IeC {\^E}tre instruit\\}{23}{section*.65}% 
-\contentsline {paragraph}{Application du cerveau collectif au sein de la communaut\IeC {\'e}}{24}{section*.66}% 
+\contentsline {paragraph}{Application du cerveau collectif au sein de la communaut\IeC {\'e}\\}{24}{section*.66}% 
 \contentsline {subparagraph}{Choisir les membres du cerveau collectif\\}{24}{section*.67}% 
 \contentsline {subparagraph}{Choisir un support de communication adapt\IeC {\'e}\\}{25}{section*.68}% 
 \contentsline {subparagraph}{Gestion du cerveau collectif\\}{25}{section*.69}% 
@@ -139,17 +139,30 @@
 \contentsline {paragraph}{Ce que j'en retire:\\}{54}{section*.125}% 
 \contentsline {chapter}{\numberline {4}Confrontation}{55}{chapter.4}% 
 \contentsline {section}{\numberline {4.1}Promotion de l'open source}{55}{section.4.1}% 
-\contentsline {subsection}{\numberline {4.1.1}Des plateformes am\IeC {\'e}liorables}{55}{subsection.4.1.1}% 
+\contentsline {subsection}{\numberline {4.1.1}Des plateformes am\IeC {\'e}liorables tout de m\IeC {\^e}me}{55}{subsection.4.1.1}% 
 \contentsline {subsection}{\numberline {4.1.2}Le marketing de l'open source}{55}{subsection.4.1.2}% 
-\contentsline {paragraph}{R\IeC {\'e}ponse \IeC {\`a} l'hypoth\IeC {\`e}se}{55}{section*.126}% 
-\contentsline {section}{\numberline {4.2}Optimisation des ressources}{55}{section.4.2}% 
-\contentsline {subsection}{\numberline {4.2.1}Business model de l'open source}{55}{subsection.4.2.1}% 
-\contentsline {subsection}{\numberline {4.2.2}Gestion des ressource humaines}{55}{subsection.4.2.2}% 
-\contentsline {paragraph}{R\IeC {\'e}ponse \IeC {\`a} l'hypoth\IeC {\`e}se}{55}{section*.127}% 
+\contentsline {paragraph}{R\IeC {\'e}ponse \IeC {\`a} l'hypoth\IeC {\`e}se\\}{56}{section*.126}% 
+\contentsline {section}{\numberline {4.2}Optimisation des ressources}{56}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Business model de l'open source}{56}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}Gestion des ressource humaines}{56}{subsection.4.2.2}% 
+\contentsline {paragraph}{R\IeC {\'e}ponse \IeC {\`a} l'hypoth\IeC {\`e}se\\}{56}{section*.127}% 
 \contentsline {section}{\numberline {4.3}Envies et besoins de contribuer}{56}{section.4.3}% 
-\contentsline {subsection}{\numberline {4.3.1}Sensibiliser le grand public}{56}{subsection.4.3.1}% 
-\contentsline {subsection}{\numberline {4.3.2}Sensibiliser l'entreprise et le contributeur}{56}{subsection.4.3.2}% 
-\contentsline {paragraph}{R\IeC {\'e}ponse \IeC {\`a} l'hypoth\IeC {\`e}se}{57}{section*.128}% 
-\contentsline {chapter}{\numberline {5}Transposition}{58}{chapter.5}% 
-\contentsline {chapter}{\numberline {6}Conclusion}{59}{chapter.6}% 
-\contentsline {chapter}{Appendices}{60}{section*.129}% 
+\contentsline {subsection}{\numberline {4.3.1}Sensibiliser le grand public}{57}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.2}Sensibiliser l'entreprise et le contributeur}{57}{subsection.4.3.2}% 
+\contentsline {subsection}{\numberline {4.3.3}L'expression du besoin}{57}{subsection.4.3.3}% 
+\contentsline {paragraph}{R\IeC {\'e}ponse \IeC {\`a} l'hypoth\IeC {\`e}se\\}{58}{section*.128}% 
+\contentsline {chapter}{\numberline {5}Transposition}{59}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Am\IeC {\'e}liorer la communication}{59}{section.5.1}% 
+\contentsline {paragraph}{Documentation inh\IeC {\'e}rente au projet\\}{59}{section*.129}% 
+\contentsline {paragraph}{Utilisation d'outil de communication\\}{59}{section*.130}% 
+\contentsline {paragraph}{Intelligence collective\\}{59}{section*.131}% 
+\contentsline {section}{\numberline {5.2}Sensibiliser \IeC {\`a} l'open source}{60}{section.5.2}% 
+\contentsline {paragraph}{Conf\IeC {\'e}rence sur l'int\IeC {\'e}ret \IeC {\'e}conomique de l'open source\\}{60}{section*.132}% 
+\contentsline {paragraph}{Accompagner \IeC {\`a} l'open source\\}{60}{section*.133}% 
+\contentsline {section}{\numberline {5.3}Faciliter la contribution}{60}{section.5.3}% 
+\contentsline {paragraph}{Accompagner le contributeur\\}{60}{section*.134}% 
+\contentsline {paragraph}{Un guide de contribution\\}{60}{section*.135}% 
+\contentsline {chapter}{\numberline {6}Conclusion}{61}{chapter.6}% 
+\contentsline {paragraph}{La th\IeC {\`e}se professionnelle\\}{61}{section*.136}% 
+\contentsline {paragraph}{Mon avenir\\}{61}{section*.137}% 
+\contentsline {chapter}{Appendices}{62}{section*.138}% 
