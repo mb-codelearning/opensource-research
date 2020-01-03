@@ -5,7 +5,7 @@
 \contentsline {section}{\numberline {1.2}Localisation}{4}{section.1.2}% 
 \contentsline {section}{\numberline {1.3}Organigramme}{4}{section.1.3}% 
 \contentsline {chapter}{\numberline {2}Missions}{6}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Quelques missions importantes confi\'es \`a Docdoku}{6}{section.2.1}% 
+\contentsline {section}{\numberline {2.1}Quelques missions importantes confi\IeC {\'e}s \IeC {\`a} DocDoku}{6}{section.2.1}% 
 \contentsline {subsection}{\numberline {2.1.1}Amazon}{6}{subsection.2.1.1}% 
 \contentsline {subsection}{\numberline {2.1.2}Airbus}{7}{subsection.2.1.2}% 
 \contentsline {subsection}{\numberline {2.1.3}Air France}{8}{subsection.2.1.3}% 
