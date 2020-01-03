@@ -1,168 +1,168 @@
 \babel@toc {french}{}
 \contentsline {chapter}{Glossaire}{4}{section*.3}% 
 \contentsline {chapter}{Acronymes}{5}{section*.5}% 
-\contentsline {chapter}{\numberline {1}Introduction}{9}{chapter.1}% 
-\contentsline {section}{\numberline {1.1}Contexte}{9}{section.1.1}% 
-\contentsline {paragraph}{D\IeC {\'e}veloppement logiciel \\}{9}{section*.10}% 
-\contentsline {subsection}{\numberline {1.1.1}Introduction \IeC {\`a} l'open source}{9}{subsection.1.1.1}% 
-\contentsline {paragraph}{Pourquoi je vous parle de l'open source ?\\}{9}{section*.11}% 
-\contentsline {subparagraph}{\IeC {\guillemotleft } L'open source c'est moins bien \IeC {\guillemotright }\\}{10}{section*.12}% 
-\contentsline {subparagraph}{\IeC {\guillemotleft } L'open source n'a pas besoin de moi \IeC {\guillemotright }\\}{10}{section*.13}% 
-\contentsline {subsection}{\numberline {1.1.2}De l'importance de l'open source}{10}{subsection.1.1.2}% 
-\contentsline {paragraph}{L'open source \IeC {\`a} travers le monde\\}{10}{section*.14}% 
-\contentsline {paragraph}{Les domaines informatique de l'open source dans l'entreprise\\}{11}{section*.15}% 
-\contentsline {paragraph}{Les r\IeC {\'e}ticences encores pr\IeC {\'e}sente sur l'open source\\}{12}{section*.16}% 
-\contentsline {paragraph}{L'\IeC {\'e}volution de l'utilisation de l'open source\\}{12}{section*.18}% 
-\contentsline {section}{\numberline {1.2}Probl\IeC {\'e}matique}{14}{section.1.2}% 
-\contentsline {section}{\numberline {1.3}Hypoth\IeC {\`e}ses}{14}{section.1.3}% 
-\contentsline {paragraph}{Promouvoir l'open source\\}{14}{section*.22}% 
-\contentsline {paragraph}{L'optimisation\\}{14}{section*.23}% 
-\contentsline {paragraph}{Les envies et besoin de contribuer\\}{14}{section*.24}% 
-\contentsline {section}{\numberline {1.4}M\IeC {\'e}thodologie de travail / p\IeC {\'e}rim\IeC {\`e}tre}{14}{section.1.4}% 
-\contentsline {paragraph}{Etude de l'open source}{14}{section*.25}% 
-\contentsline {subparagraph}{Pr\IeC {\'e}sentation de l'open source\\}{14}{section*.26}% 
-\contentsline {subparagraph}{Les \IeC {\'e}diteurs open source\\}{14}{section*.27}% 
-\contentsline {subparagraph}{L'optimisation des ressources\\}{14}{section*.28}% 
-\contentsline {subparagraph}{Le consommateur\\}{15}{section*.29}% 
-\contentsline {subparagraph}{Le march\IeC {\'e} de l'open source\\}{15}{section*.30}% 
-\contentsline {paragraph}{Sur le terrain \\}{15}{section*.31}% 
-\contentsline {paragraph}{L'analyse et les r\IeC {\'e}sultats \\}{15}{section*.32}% 
-\contentsline {chapter}{\numberline {2}Etat de l'art}{16}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Pr\IeC {\'e}sentation de l'open source}{16}{section.2.1}% 
-\contentsline {subsection}{\numberline {2.1.1}L'open source aujourd'hui}{16}{subsection.2.1.1}% 
-\contentsline {subsubsection}{Faire de l'open source c'est ...}{16}{section*.33}% 
-\contentsline {paragraph}{Un mouvement de pens\IeC {\'e}e\\}{16}{section*.34}% 
-\contentsline {paragraph}{Un mod\IeC {\`e}le de d\IeC {\'e}veloppement\\}{16}{section*.35}% 
-\contentsline {paragraph}{Une dimension humaniste et un patrimoine\\}{16}{section*.36}% 
-\contentsline {paragraph}{Respecter des droits\\}{16}{section*.37}% 
-\contentsline {subsection}{\numberline {2.1.2}Les \IeC {\'e}diteurs open source}{17}{subsection.2.1.2}% 
-\contentsline {subsubsection}{Zoom sur l'\IeC {\'e}diteur}{17}{section*.38}% 
-\contentsline {subsubsection}{L'aspect communautaire}{18}{section*.39}% 
-\contentsline {paragraph}{Les contributions communautaires\\}{18}{section*.40}% 
-\contentsline {subsubsection}{Les supports de l'open source}{18}{section*.41}% 
-\contentsline {paragraph}{Le support de l'\IeC {\'e}diteur\\}{19}{section*.42}% 
-\contentsline {paragraph}{Le support de la communaut\IeC {\'e}\\}{19}{section*.43}% 
-\contentsline {subsection}{\numberline {2.1.3}Le consommateur}{19}{subsection.2.1.3}% 
-\contentsline {subsubsection}{Qui est le consommateur ?}{19}{section*.44}% 
-\contentsline {subsubsection}{Les b\IeC {\'e}n\IeC {\'e}fices de l'open source pour le client}{20}{section*.45}% 
-\contentsline {subsection}{\numberline {2.1.4}O\IeC {\`u} trouver de l'open source ?}{20}{subsection.2.1.4}% 
-\contentsline {paragraph}{Plateforme de d\IeC {\'e}pot de code}{20}{section*.46}% 
-\contentsline {subparagraph}{Github\\}{20}{section*.47}% 
-\contentsline {subparagraph}{Bitbucket\\}{20}{section*.49}% 
-\contentsline {paragraph}{Plateforme de promotion de projet}{20}{section*.50}% 
-\contentsline {subparagraph}{Google Open Source\\}{20}{section*.51}% 
-\contentsline {subparagraph}{Github Explore\\}{21}{section*.53}% 
-\contentsline {subparagraph}{Open source friday\\}{21}{section*.55}% 
-\contentsline {subparagraph}{24 pull request\\}{22}{section*.56}% 
-\contentsline {subparagraph}{Code triage\\}{22}{section*.57}% 
-\contentsline {subparagraph}{Contributor ninja\\}{22}{section*.58}% 
-\contentsline {subparagraph}{Up for grabs}{22}{section*.60}% 
-\contentsline {subparagraph}{First Timers Only}{22}{section*.61}% 
-\contentsline {paragraph}{Pour conclure\\}{23}{section*.62}% 
-\contentsline {section}{\numberline {2.2}Optimisation des ressources}{23}{section.2.2}% 
-\contentsline {paragraph}{Concept de l'optimisation\\}{23}{section*.63}% 
-\contentsline {subsection}{\numberline {2.2.1}Le cerveau collectif}{23}{subsection.2.2.1}% 
-\contentsline {paragraph}{Introduction au cerveau collectif\\}{23}{section*.64}% 
-\contentsline {subparagraph}{\IeC {\^E}tre instruit\\}{23}{section*.65}% 
-\contentsline {paragraph}{Application du cerveau collectif au sein de la communaut\IeC {\'e}\\}{24}{section*.66}% 
-\contentsline {subparagraph}{Choisir les membres du cerveau collectif\\}{24}{section*.67}% 
-\contentsline {subparagraph}{Choisir un support de communication adapt\IeC {\'e}\\}{25}{section*.68}% 
-\contentsline {subparagraph}{Gestion du cerveau collectif\\}{25}{section*.69}% 
-\contentsline {subparagraph}{La communication au coeur de la strat\IeC {\'e}gie\\}{25}{section*.70}% 
-\contentsline {subsection}{\numberline {2.2.2}Rendre l'open source populaire}{25}{subsection.2.2.2}% 
-\contentsline {paragraph}{Pareto revisit\IeC {\'e}\\}{25}{section*.71}% 
-\contentsline {subsubsection}{L'enseignement du logiciel open source}{25}{section*.72}% 
-\contentsline {paragraph}{Susciter l'int\IeC {\'e}rer de l'open source\\}{25}{section*.73}% 
-\contentsline {paragraph}{Am\IeC {\'e}liorer la recherche sur l'open source\\}{26}{section*.74}% 
-\contentsline {paragraph}{Un gisement d'emplois futur\\}{26}{section*.75}% 
-\contentsline {subsection}{\numberline {2.2.3}Le mod\IeC {\`e}le noyau-extension, tout un \IeC {\'e}cosyst\IeC {\`e}me}{26}{subsection.2.2.3}% 
-\contentsline {subsection}{\numberline {2.2.4}Eveiller sa communaut\IeC {\'e}}{27}{subsection.2.2.4}% 
-\contentsline {paragraph}{Les valeurs}{28}{section*.77}% 
-\contentsline {paragraph}{Mettre en confiance}{28}{section*.78}% 
-\contentsline {paragraph}{Donner l'exemple}{28}{section*.79}% 
-\contentsline {section}{\numberline {2.3}Etude du consommateur}{28}{section.2.3}% 
-\contentsline {subsection}{\numberline {2.3.1}le choix du consommateur}{28}{subsection.2.3.1}% 
-\contentsline {paragraph}{L'activit\IeC {\'e} d'un projet}{28}{section*.80}% 
-\contentsline {paragraph}{La nature des contributions}{29}{section*.81}% 
-\contentsline {paragraph}{Les droits inh\IeC {\'e}rents de la licence}{29}{section*.82}% 
-\contentsline {subsection}{\numberline {2.3.2}L'exp\IeC {\'e}rience des consommateurs}{29}{subsection.2.3.2}% 
-\contentsline {paragraph}{Le retour des consommateurs \\}{29}{section*.83}% 
-\contentsline {paragraph}{Les probl\IeC {\`e}mes rencontr\IeC {\'e}s par les consommateurs\\}{29}{section*.84}% 
-\contentsline {paragraph}{Un climat n\IeC {\'e}faste ?\\}{31}{section*.86}% 
-\contentsline {paragraph}{Ce qui est regard\IeC {\'e} dans le choix d'un logiciel open source\\}{31}{section*.88}% 
-\contentsline {section}{\numberline {2.4}Le march\IeC {\'e} de l'open source}{31}{section.2.4}% 
-\contentsline {paragraph}{Libre n'est pas gratuit \\}{31}{section*.90}% 
+\contentsline {chapter}{\numberline {1}Introduction}{11}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Contexte}{11}{section.1.1}% 
+\contentsline {paragraph}{D\IeC {\'e}veloppement logiciel \\}{11}{section*.22}% 
+\contentsline {subsection}{\numberline {1.1.1}Introduction \IeC {\`a} l'open source}{11}{subsection.1.1.1}% 
+\contentsline {paragraph}{Pourquoi je vous parle de l'open source ?\\}{11}{section*.23}% 
+\contentsline {subparagraph}{\IeC {\guillemotleft } L'open source c'est moins bien \IeC {\guillemotright }\\}{12}{section*.24}% 
+\contentsline {subparagraph}{\IeC {\guillemotleft } L'open source n'a pas besoin de moi \IeC {\guillemotright }\\}{12}{section*.25}% 
+\contentsline {subsection}{\numberline {1.1.2}De l'importance de l'open source}{12}{subsection.1.1.2}% 
+\contentsline {paragraph}{L'open source \IeC {\`a} travers le monde\\}{12}{section*.26}% 
+\contentsline {paragraph}{Les domaines informatiques de l'open source dans l'entreprise\\}{13}{section*.27}% 
+\contentsline {paragraph}{Les r\IeC {\'e}ticences encores pr\IeC {\'e}sentes sur l'open source\\}{14}{section*.28}% 
+\contentsline {paragraph}{L'\IeC {\'e}volution de l'utilisation de l'open source\\}{14}{section*.30}% 
+\contentsline {section}{\numberline {1.2}Probl\IeC {\'e}matique}{15}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}Hypoth\IeC {\`e}ses}{15}{section.1.3}% 
+\contentsline {paragraph}{Promouvoir l'open source\\}{15}{section*.34}% 
+\contentsline {paragraph}{L'optimisation\\}{15}{section*.35}% 
+\contentsline {paragraph}{L'envie de contribuer\\}{15}{section*.36}% 
+\contentsline {section}{\numberline {1.4}M\IeC {\'e}thodologie de travail / p\IeC {\'e}rim\IeC {\`e}tre}{16}{section.1.4}% 
+\contentsline {paragraph}{Etude de l'open source}{16}{section*.37}% 
+\contentsline {subparagraph}{Pr\IeC {\'e}sentation de l'open source\\}{16}{section*.38}% 
+\contentsline {subparagraph}{Les \IeC {\'e}diteurs open source\\}{16}{section*.39}% 
+\contentsline {subparagraph}{L'optimisation des ressources\\}{16}{section*.40}% 
+\contentsline {subparagraph}{Le consommateur\\}{16}{section*.41}% 
+\contentsline {subparagraph}{Le march\IeC {\'e} de l'open source\\}{16}{section*.42}% 
+\contentsline {paragraph}{Sur le terrain \\}{16}{section*.43}% 
+\contentsline {paragraph}{L'analyse et les r\IeC {\'e}sultats \\}{16}{section*.44}% 
+\contentsline {chapter}{\numberline {2}Etat de l'art}{17}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Pr\IeC {\'e}sentation de l'open source}{17}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}L'open source aujourd'hui}{17}{subsection.2.1.1}% 
+\contentsline {subsubsection}{Faire de l'open source c'est ...}{17}{section*.45}% 
+\contentsline {paragraph}{Un mouvement de pens\IeC {\'e}e\\}{17}{section*.46}% 
+\contentsline {paragraph}{Un mod\IeC {\`e}le de d\IeC {\'e}veloppement\\}{17}{section*.47}% 
+\contentsline {paragraph}{Une dimension humaniste et un patrimoine\\}{17}{section*.48}% 
+\contentsline {paragraph}{Respecter des droits\\}{17}{section*.49}% 
+\contentsline {subsection}{\numberline {2.1.2}Les \IeC {\'e}diteurs open source}{18}{subsection.2.1.2}% 
+\contentsline {subsubsection}{Zoom sur l'\IeC {\'e}diteur}{18}{section*.50}% 
+\contentsline {subsubsection}{L'aspect communautaire}{19}{section*.51}% 
+\contentsline {paragraph}{Les contributions communautaires\\}{19}{section*.52}% 
+\contentsline {subsubsection}{Les supports de l'open source}{19}{section*.53}% 
+\contentsline {paragraph}{Le support de l'\IeC {\'e}diteur\\}{20}{section*.54}% 
+\contentsline {paragraph}{Le support de la communaut\IeC {\'e}\\}{20}{section*.55}% 
+\contentsline {subsection}{\numberline {2.1.3}Le consommateur}{20}{subsection.2.1.3}% 
+\contentsline {subsubsection}{Qui est le consommateur ?}{20}{section*.56}% 
+\contentsline {subsubsection}{Les b\IeC {\'e}n\IeC {\'e}fices de l'open source pour le client}{21}{section*.57}% 
+\contentsline {subsection}{\numberline {2.1.4}O\IeC {\`u} trouver de l'open source ?}{21}{subsection.2.1.4}% 
+\contentsline {paragraph}{Plateforme de d\IeC {\'e}pot de code}{21}{section*.58}% 
+\contentsline {subparagraph}{Github\\}{21}{section*.59}% 
+\contentsline {subparagraph}{Bitbucket\\}{22}{section*.61}% 
+\contentsline {paragraph}{Plateforme de promotion de projet}{22}{section*.62}% 
+\contentsline {subparagraph}{Google Open Source\\}{22}{section*.63}% 
+\contentsline {subparagraph}{Github Explore\\}{23}{section*.65}% 
+\contentsline {subparagraph}{Open source friday\\}{23}{section*.67}% 
+\contentsline {subparagraph}{24 pull request\\}{23}{section*.68}% 
+\contentsline {subparagraph}{Code triage\\}{23}{section*.69}% 
+\contentsline {subparagraph}{First Timers Only\\}{23}{section*.70}% 
+\contentsline {subparagraph}{Contributor ninja\\}{23}{section*.71}% 
+\contentsline {subparagraph}{Up for grabs\\}{24}{section*.73}% 
+\contentsline {paragraph}{Pour conclure\\}{24}{section*.74}% 
+\contentsline {section}{\numberline {2.2}Optimisation des ressources}{24}{section.2.2}% 
+\contentsline {paragraph}{Concept de l'optimisation\\}{24}{section*.75}% 
+\contentsline {subsection}{\numberline {2.2.1}Le cerveau collectif}{24}{subsection.2.2.1}% 
+\contentsline {paragraph}{Introduction au cerveau collectif\\}{24}{section*.76}% 
+\contentsline {subparagraph}{\IeC {\^E}tre instruit\\}{25}{section*.77}% 
+\contentsline {paragraph}{Application du cerveau collectif au sein de la communaut\IeC {\'e}\\}{25}{section*.78}% 
+\contentsline {subparagraph}{Choisir les membres du cerveau collectif\\}{25}{section*.79}% 
+\contentsline {subparagraph}{Choisir un support de communication adapt\IeC {\'e}\\}{26}{section*.80}% 
+\contentsline {subparagraph}{Gestion du cerveau collectif\\}{26}{section*.81}% 
+\contentsline {subparagraph}{La communication au coeur de la strat\IeC {\'e}gie\\}{26}{section*.82}% 
+\contentsline {subsection}{\numberline {2.2.2}Rendre l'open source populaire}{26}{subsection.2.2.2}% 
+\contentsline {paragraph}{Pareto revisit\IeC {\'e}\\}{26}{section*.83}% 
+\contentsline {subsubsection}{L'enseignement du logiciel open source}{26}{section*.84}% 
+\contentsline {paragraph}{Susciter l'int\IeC {\'e}rer de l'open source\\}{27}{section*.85}% 
+\contentsline {paragraph}{Am\IeC {\'e}liorer la recherche sur l'open source\\}{27}{section*.86}% 
+\contentsline {paragraph}{Un gisement d'emplois futur\\}{27}{section*.87}% 
+\contentsline {subsection}{\numberline {2.2.3}Le mod\IeC {\`e}le noyau-extension, tout un \IeC {\'e}cosyst\IeC {\`e}me}{27}{subsection.2.2.3}% 
+\contentsline {subsection}{\numberline {2.2.4}Eveiller sa communaut\IeC {\'e}}{28}{subsection.2.2.4}% 
+\contentsline {paragraph}{Les valeurs\\}{29}{section*.89}% 
+\contentsline {paragraph}{Mettre en confiance\\}{29}{section*.90}% 
+\contentsline {paragraph}{Donner l'exemple\\}{29}{section*.91}% 
+\contentsline {section}{\numberline {2.3}Etude du consommateur}{30}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}Le choix du consommateur}{30}{subsection.2.3.1}% 
+\contentsline {paragraph}{L'activit\IeC {\'e} d'un projet\\}{30}{section*.92}% 
+\contentsline {paragraph}{La nature des contributions\\}{30}{section*.93}% 
+\contentsline {paragraph}{Les droits inh\IeC {\'e}rents de la licence\\}{30}{section*.94}% 
+\contentsline {subsection}{\numberline {2.3.2}L'exp\IeC {\'e}rience des consommateurs}{30}{subsection.2.3.2}% 
+\contentsline {paragraph}{Le retour des consommateurs \\}{30}{section*.95}% 
+\contentsline {paragraph}{Les probl\IeC {\`e}mes rencontr\IeC {\'e}s par les consommateurs\\}{30}{section*.96}% 
+\contentsline {paragraph}{Un climat n\IeC {\'e}faste ?\\}{31}{section*.98}% 
+\contentsline {paragraph}{Ce qui est regard\IeC {\'e} dans le choix d'un logiciel open source\\}{31}{section*.100}% 
+\contentsline {section}{\numberline {2.4}Le march\IeC {\'e} de l'open source}{32}{section.2.4}% 
+\contentsline {paragraph}{Libre n'est pas gratuit \\}{32}{section*.102}% 
 \contentsline {subsection}{\numberline {2.4.1}Les acteurs de l'open source}{32}{subsection.2.4.1}% 
-\contentsline {subsection}{\numberline {2.4.2}Chez les \IeC {\'e}diteurs}{32}{subsection.2.4.2}% 
-\contentsline {subsubsection}{Vendre des licences}{33}{section*.91}% 
-\contentsline {paragraph}{Double licence commerciale\\}{33}{section*.92}% 
-\contentsline {paragraph}{Les extension payantes\\}{33}{section*.93}% 
-\contentsline {paragraph}{Un support uniquement sur licence commerciale\\}{33}{section*.94}% 
-\contentsline {subsubsection}{Vendre du support}{33}{section*.95}% 
-\contentsline {paragraph}{Uniquement le support\\}{33}{section*.96}% 
-\contentsline {paragraph}{Faire payer la stabilit\IeC {\'e}\\}{34}{section*.97}% 
-\contentsline {paragraph}{Fonctionnalit\IeC {\'e}s avanc\IeC {\'e}es\\}{34}{section*.98}% 
-\contentsline {subsubsection}{Vendre de l'int\IeC {\'e}gration}{34}{section*.99}% 
-\contentsline {subsubsection}{Autres sources de revenus}{34}{section*.100}% 
-\contentsline {paragraph}{Les campagnes de crowdfunding\\}{34}{section*.101}% 
-\contentsline {paragraph}{Vendre des extensions\\}{35}{section*.102}% 
-\contentsline {subsection}{\numberline {2.4.3}Communication par ses atouts}{35}{subsection.2.4.3}% 
-\contentsline {paragraph}{Les \IeC {\'e}l\IeC {\'e}ments cl\IeC {\'e}s \IeC {\`a} retenir\\}{35}{section*.103}% 
-\contentsline {paragraph}{Pour rappel\\}{35}{section*.104}% 
-\contentsline {chapter}{\numberline {3}Etude terrain}{36}{chapter.3}% 
-\contentsline {paragraph}{Comment j'ai r\IeC {\'e}alis\IeC {\'e} mon \IeC {\'e}tude terrain ? \\}{36}{section*.105}% 
-\contentsline {subparagraph}{Etude quantitative \\}{36}{section*.106}% 
-\contentsline {subparagraph}{Etude qualitative \\}{36}{section*.107}% 
-\contentsline {section}{\numberline {3.1}Plateforme d'h\IeC {\'e}bergement}{36}{section.3.1}% 
-\contentsline {subsection}{\numberline {3.1.1}Une interface pour communiquer qui laisse \IeC {\`a} d\IeC {\'e}sirer}{36}{subsection.3.1.1}% 
-\contentsline {subsection}{\numberline {3.1.2}Un module de pr\IeC {\'e}sentation}{38}{subsection.3.1.2}% 
-\contentsline {subsection}{\numberline {3.1.3}Pas d'extr\IeC {\`e}mes sur les plateformes}{38}{subsection.3.1.3}% 
-\contentsline {paragraph}{Ce que j'en retire:\\}{39}{section*.110}% 
+\contentsline {subsection}{\numberline {2.4.2}Chez les \IeC {\'e}diteurs}{33}{subsection.2.4.2}% 
+\contentsline {subsubsection}{Vendre des licences}{33}{section*.103}% 
+\contentsline {paragraph}{Double licence commerciale\\}{33}{section*.104}% 
+\contentsline {paragraph}{Les extensions payantes\\}{33}{section*.105}% 
+\contentsline {paragraph}{Un support uniquement sur licence commerciale\\}{33}{section*.106}% 
+\contentsline {subsubsection}{Vendre du support}{34}{section*.107}% 
+\contentsline {paragraph}{Uniquement le support\\}{34}{section*.108}% 
+\contentsline {paragraph}{Faire payer la stabilit\IeC {\'e}\\}{34}{section*.109}% 
+\contentsline {paragraph}{Fonctionnalit\IeC {\'e}s avanc\IeC {\'e}es\\}{35}{section*.110}% 
+\contentsline {subsubsection}{Vendre de l'int\IeC {\'e}gration}{35}{section*.111}% 
+\contentsline {subsubsection}{Autres sources de revenus}{35}{section*.112}% 
+\contentsline {paragraph}{Les campagnes de crowdfunding\\}{35}{section*.113}% 
+\contentsline {paragraph}{Vendre des extensions\\}{35}{section*.114}% 
+\contentsline {subsection}{\numberline {2.4.3}Le marketing inh\IeC {\'e}rent}{35}{subsection.2.4.3}% 
+\contentsline {paragraph}{Les \IeC {\'e}l\IeC {\'e}ments cl\IeC {\'e} \IeC {\`a} retenir\\}{35}{section*.115}% 
+\contentsline {paragraph}{Pour rappel\\}{36}{section*.116}% 
+\contentsline {chapter}{\numberline {3}Etude terrain}{37}{chapter.3}% 
+\contentsline {paragraph}{Comment j'ai r\IeC {\'e}alis\IeC {\'e} mon \IeC {\'e}tude terrain ? \\}{37}{section*.117}% 
+\contentsline {subparagraph}{Etude quantitative \\}{37}{section*.118}% 
+\contentsline {subparagraph}{Etude qualitative \\}{37}{section*.119}% 
+\contentsline {section}{\numberline {3.1}Plateforme d'h\IeC {\'e}bergement}{37}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}Une interface pour communiquer qui laisse \IeC {\`a} d\IeC {\'e}sirer}{37}{subsection.3.1.1}% 
+\contentsline {subsection}{\numberline {3.1.2}Un module de pr\IeC {\'e}sentation}{39}{subsection.3.1.2}% 
+\contentsline {subsection}{\numberline {3.1.3}Pas d'extr\IeC {\`e}me sur les plateformes}{39}{subsection.3.1.3}% 
+\contentsline {paragraph}{Ce que j'en retire:\\}{40}{section*.121}% 
 \contentsline {section}{\numberline {3.2}Gestion des ressources}{40}{section.3.2}% 
 \contentsline {subsection}{\numberline {3.2.1}Un mot de l'\IeC {\'e}diteur pour valoriser la contribution}{40}{subsection.3.2.1}% 
 \contentsline {subsection}{\numberline {3.2.2}Pas de niveau hi\IeC {\'e}rarchique}{40}{subsection.3.2.2}% 
-\contentsline {subsection}{\numberline {3.2.3}La gestion des projets open source}{41}{subsection.3.2.3}% 
-\contentsline {subsection}{\numberline {3.2.4}La gestion des contributions}{42}{subsection.3.2.4}% 
-\contentsline {paragraph}{Ce que j'en retire:\\}{43}{section*.113}% 
+\contentsline {subsection}{\numberline {3.2.3}La gestion des projets open sources}{41}{subsection.3.2.3}% 
+\contentsline {subsection}{\numberline {3.2.4}La gestion des contributions}{43}{subsection.3.2.4}% 
+\contentsline {paragraph}{Ce que j'en retire:\\}{44}{section*.124}% 
 \contentsline {section}{\numberline {3.3}Chez le consommateur}{44}{section.3.3}% 
 \contentsline {subsection}{\numberline {3.3.1}La contribution du consommateur}{44}{subsection.3.3.1}% 
-\contentsline {subsection}{\numberline {3.3.2}Le ressenti du consommateur \IeC {\`a} contribuer}{45}{subsection.3.3.2}% 
-\contentsline {subsection}{\numberline {3.3.3}Un besoin \IeC {\'e}cout\IeC {\'e}}{47}{subsection.3.3.3}% 
-\contentsline {paragraph}{Ce que j'en retire:\\}{48}{section*.118}% 
-\contentsline {section}{\numberline {3.4}Marketing de l'open source}{49}{section.3.4}% 
-\contentsline {subsection}{\numberline {3.4.1}L'\IeC {\'e}cole et l'open source}{49}{subsection.3.4.1}% 
-\contentsline {subsubsection}{la pr\IeC {\'e}sence de l'open source}{49}{section*.119}% 
-\contentsline {subsubsection}{Sensibiliser \IeC {\`a} l'open source}{50}{section*.122}% 
+\contentsline {subsection}{\numberline {3.3.2}Le ressenti du consommateur \IeC {\`a} contribuer}{46}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.3.3}Un besoin \IeC {\'e}cout\IeC {\'e}}{48}{subsection.3.3.3}% 
+\contentsline {paragraph}{Ce que j'en retire:\\}{50}{section*.130}% 
+\contentsline {section}{\numberline {3.4}Marketing de l'open source}{50}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.1}L'\IeC {\'e}cole et l'open source}{50}{subsection.3.4.1}% 
+\contentsline {subsubsection}{la pr\IeC {\'e}sence de l'open source}{50}{section*.131}% 
+\contentsline {subsubsection}{Sensibiliser \IeC {\`a} l'open source}{51}{section*.134}% 
 \contentsline {subsection}{\numberline {3.4.2}Le support payant}{53}{subsection.3.4.2}% 
-\contentsline {subsection}{\numberline {3.4.3}Le marketing habituel \IeC {\`a} faire}{53}{subsection.3.4.3}% 
+\contentsline {subsection}{\numberline {3.4.3}Le marketing classique}{53}{subsection.3.4.3}% 
 \contentsline {subsection}{\numberline {3.4.4}Promouvoir son produit en l'open sour\IeC {\c c}ant}{54}{subsection.3.4.4}% 
-\contentsline {paragraph}{Ce que j'en retire:\\}{54}{section*.125}% 
+\contentsline {paragraph}{Ce que j'en retire:\\}{54}{section*.137}% 
 \contentsline {chapter}{\numberline {4}Confrontation}{55}{chapter.4}% 
 \contentsline {section}{\numberline {4.1}Promotion de l'open source}{55}{section.4.1}% 
 \contentsline {subsection}{\numberline {4.1.1}Des plateformes am\IeC {\'e}liorables tout de m\IeC {\^e}me}{55}{subsection.4.1.1}% 
 \contentsline {subsection}{\numberline {4.1.2}Le marketing de l'open source}{55}{subsection.4.1.2}% 
-\contentsline {paragraph}{R\IeC {\'e}ponse \IeC {\`a} l'hypoth\IeC {\`e}se\\}{56}{section*.126}% 
+\contentsline {paragraph}{R\IeC {\'e}ponse \IeC {\`a} l'hypoth\IeC {\`e}se\\}{55}{section*.138}% 
 \contentsline {section}{\numberline {4.2}Optimisation des ressources}{56}{section.4.2}% 
 \contentsline {subsection}{\numberline {4.2.1}Business model de l'open source}{56}{subsection.4.2.1}% 
-\contentsline {subsection}{\numberline {4.2.2}Gestion des ressource humaines}{56}{subsection.4.2.2}% 
-\contentsline {paragraph}{R\IeC {\'e}ponse \IeC {\`a} l'hypoth\IeC {\`e}se\\}{56}{section*.127}% 
+\contentsline {subsection}{\numberline {4.2.2}Gestion des ressources humaines}{56}{subsection.4.2.2}% 
+\contentsline {paragraph}{R\IeC {\'e}ponse \IeC {\`a} l'hypoth\IeC {\`e}se\\}{56}{section*.139}% 
 \contentsline {section}{\numberline {4.3}Envies et besoins de contribuer}{56}{section.4.3}% 
-\contentsline {subsection}{\numberline {4.3.1}Sensibiliser le grand public}{57}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.1}Sensibiliser le grand public}{56}{subsection.4.3.1}% 
 \contentsline {subsection}{\numberline {4.3.2}Sensibiliser l'entreprise et le contributeur}{57}{subsection.4.3.2}% 
 \contentsline {subsection}{\numberline {4.3.3}L'expression du besoin}{57}{subsection.4.3.3}% 
-\contentsline {paragraph}{R\IeC {\'e}ponse \IeC {\`a} l'hypoth\IeC {\`e}se\\}{58}{section*.128}% 
+\contentsline {paragraph}{R\IeC {\'e}ponse \IeC {\`a} l'hypoth\IeC {\`e}se\\}{57}{section*.140}% 
 \contentsline {chapter}{\numberline {5}Transposition}{59}{chapter.5}% 
 \contentsline {section}{\numberline {5.1}Am\IeC {\'e}liorer la communication}{59}{section.5.1}% 
-\contentsline {paragraph}{Documentation inh\IeC {\'e}rente au projet\\}{59}{section*.129}% 
-\contentsline {paragraph}{Utilisation d'outil de communication\\}{59}{section*.130}% 
-\contentsline {paragraph}{Intelligence collective\\}{59}{section*.131}% 
+\contentsline {paragraph}{Documentation inh\IeC {\'e}rente au projet\\}{59}{section*.141}% 
+\contentsline {paragraph}{Utilisation d'outils de communication\\}{59}{section*.142}% 
+\contentsline {paragraph}{Intelligence collective\\}{59}{section*.143}% 
 \contentsline {section}{\numberline {5.2}Sensibiliser \IeC {\`a} l'open source}{60}{section.5.2}% 
-\contentsline {paragraph}{Conf\IeC {\'e}rence sur l'int\IeC {\'e}ret \IeC {\'e}conomique de l'open source\\}{60}{section*.132}% 
-\contentsline {paragraph}{Accompagner \IeC {\`a} l'open source\\}{60}{section*.133}% 
+\contentsline {paragraph}{Conf\IeC {\'e}rence sur l'int\IeC {\'e}ret \IeC {\'e}conomique de l'open source\\}{60}{section*.144}% 
+\contentsline {paragraph}{Accompagner \IeC {\`a} l'open source\\}{60}{section*.145}% 
 \contentsline {section}{\numberline {5.3}Faciliter la contribution}{60}{section.5.3}% 
-\contentsline {paragraph}{Accompagner le contributeur\\}{60}{section*.134}% 
-\contentsline {paragraph}{Un guide de contribution\\}{60}{section*.135}% 
+\contentsline {paragraph}{Accompagner le contributeur\\}{60}{section*.146}% 
+\contentsline {paragraph}{Un guide de contribution\\}{60}{section*.147}% 
 \contentsline {chapter}{\numberline {6}Conclusion}{61}{chapter.6}% 
-\contentsline {paragraph}{La th\IeC {\`e}se professionnelle\\}{61}{section*.136}% 
-\contentsline {paragraph}{Mon avenir\\}{61}{section*.137}% 
-\contentsline {chapter}{Appendices}{62}{section*.138}% 
+\contentsline {paragraph}{La th\IeC {\`e}se professionnelle\\}{61}{section*.148}% 
+\contentsline {paragraph}{Mon avenir\\}{61}{section*.149}% 
+\contentsline {chapter}{Appendices}{62}{section*.150}% 
