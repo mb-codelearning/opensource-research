@@ -1,0 +1,18 @@
+{
+	"name": "docdoku-docker-training",
+	"version": "1.0.0",
+	"description": "Docker Training",
+	"scripts": {
+		"start": "grunt serve"
+	},
+	"author": "DocDoku",
+	"dependencies": {
+		"highlight.js": "^9.14.2",
+		"reveal.js": "^3.7.0"
+	},
+	"devDependencies": {
+		"grunt": "^1.0.3",
+		"grunt-contrib-connect": "^2.0.0",
+		"grunt-contrib-watch": "^1.1.0"
+	}
+}
